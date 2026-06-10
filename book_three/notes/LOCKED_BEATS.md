@@ -1,4 +1,4 @@
-# Book Three — notes
+# Book Three — *The Empty Chair* — notes
 
 ## Status
 

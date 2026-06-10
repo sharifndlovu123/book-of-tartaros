@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this project is
 
-The workspace for **the Tartaros Cycle**, a science-fiction trilogy by Sharif. Book one (*The Warden of Tartaros*) is complete at ~52,600 words across 11 chapters. Book two is unstarted. This is a writing project — the deliverables are markdown prose files. There is no build system, no tests, no application.
+The workspace for **the Tartaros Cycle**, a science-fiction trilogy by Sharif. Book one (*The Warden of Tartaros*) is complete at ~52,600 words across 11 chapters. Book two (*The Ward of Korya*) and book three (*The Empty Chair*) are undrafted. This is a writing project — the deliverables are markdown prose files. There is no build system, no tests, no application.
 
 ## Source of truth — read before acting on any substantive task
 

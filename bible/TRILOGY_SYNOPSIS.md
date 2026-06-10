@@ -37,7 +37,7 @@ in a protective vault; Pira survives. The Compact believes everything destroyed.
 > Sable in custody, Kester declining Bastien's offer and waiting for morning,
 > Mouse with the Architect's people, Pira alive among the Keris.
 
-## Book Two — *(undrafted)* · theme: resistance, and its cost
+## Book Two — *The Ward of Korya* (undrafted) · theme: resistance, and its cost
 
 Two years on, two parallel threads.
 
@@ -59,7 +59,7 @@ the unsurveyed Korya, where they arrive not knowing Pira is there.
 > — small, careful, and devastating because she spent two years believing she
 > failed her. Aldric Orrel dies (book two or early three), before the cascade.
 
-## Book Three — *(undrafted)* · theme: war, and whether resistance becomes what it resists
+## Book Three — *The Empty Chair* (undrafted) · theme: war, and whether resistance becomes what it resists
 
 The **cascade**: evidence converges on the Synedrion floor — **Hessa's**
 testimony (the cheated duels), **Aurelius's** family papers (the engineered-disease
