@@ -614,7 +614,7 @@ So he said, instead, the only true thing he had:
 
 She looked up. "What word."
 
-"*Malevelon.*"
+"*Calderon.*"
 
 Sable's eyes narrowed. "What does that mean."
 
@@ -641,7 +641,7 @@ It was not going well.
 
 He had a stub of pencil and a stack of salvaged ration cards — the Undersiders' substitute for paper, harvested from decades of waste — and he was trying to build a list. Names. Dates. Document categories. Anything he could pull from memory that might mean something to Sable when she came back from wherever she had gone to be alone.
 
-He had written *Wing Seven*. He had written *external consultants*. He had written *Malevelon*, three times, in three different places on three different cards, as if writing it more would make him understand it more. It had not.
+He had written *Wing Seven*. He had written *external consultants*. He had written *Calderon*, three times, in three different places on three different cards, as if writing it more would make him understand it more. It had not.
 
 He had also written a name. *Dr. Sennae Vorlith.* He had stared at the name for a long time before writing it down, because he had not thought of it in seven years and he was not entirely sure he had not invented it. But the more he held it in his mind, the more solid it became. She had come to Tartaros twice a year for six years. She had stopped coming sometime around 2369. He had filed her travel vouchers personally. He had once shared an elevator with her and she had said *good morning, Mr. Vaile*, and her voice had been soft and academic and entirely unmemorable, and he had filed her vouchers for three years afterward without ever once asking what a Dr. Sennae Vorlith was a doctor *of*.
 
@@ -717,7 +717,7 @@ It took him three hours.
 
 He talked about the medical wing's autoclave. He talked about the consultants whose vouchers he filed. He talked about Wing Seven and the forty-two prisoners who went in and the zero who came out. He talked about Dr. Sennae Vorlith, who had said *good morning* in an elevator. He talked about a budget line item called *Substrate Maintenance* that had appeared in the wing's quarterly reports for nine years and that he had assumed meant something about food preparation and had never once verified.
 
-He talked about Malevelon. He told Chayne what little he knew — that Orrel had been there, that it had been a battle or a campaign or a meatgrinder, that sixteen thousand men had died there. That Orrel had said the word, once, in the corridor, when Mouse was walking back. *Malevelon*. As if it explained something. As if it were a justification.
+He talked about Calderon. He told Chayne what little he knew — that Orrel had been there, that it had been a battle or a campaign or a meatgrinder, that sixteen thousand men had died there. That Orrel had said the word, once, in the corridor, when Mouse was walking back. *Calderon*. As if it explained something. As if it were a justification.
 
 Chayne listened.
 
@@ -735,11 +735,11 @@ Chayne wrote nothing down. He simply listened, with his hands folded on his knee
 
 Kester closed his eyes.
 
-"And the word your warden used in the corridor," Chayne continued, gently, "*Malevelon*. I do not know the word. But I know what it sounds like. It sounds like a place a man survived. It sounds like a place a man came back from with a particular set of conclusions about the value of human bodies in the operations of large institutions. I think your warden has been working, for a long time, on a project that he believes will repay his survival with interest. I think the prisoners in Wing Seven were not being killed. I think they were being *spent*."
+"And the word your warden used in the corridor," Chayne continued, gently, "*Calderon*. I do not know the word. But I know what it sounds like. It sounds like a place a man survived. It sounds like a place a man came back from with a particular set of conclusions about the value of human bodies in the operations of large institutions. I think your warden has been working, for a long time, on a project that he believes will repay his survival with interest. I think the prisoners in Wing Seven were not being killed. I think they were being *spent*."
 
 "On what."
 
-"On the question," Chayne said, "of how to make a body that the next Malevelon cannot kill."
+"On the question," Chayne said, "of how to make a body that the next Calderon cannot kill."
 
 Kester sat very still.
 
@@ -1647,7 +1647,7 @@ He had returned to his desk.
 
 He had reviewed the press release the Hegemony Information Office was preparing for the morning bulletin. He had made one small edit to the language describing his "cooperation" with the proceedings. He had approved the photograph.
 
-He had, before going to bed, written a brief note in his personal log, in the small careful handwriting he had used since his time as a junior officer at Malevelon Trench. The note read: *They took the child. They will not take another. The lesson begins.*
+He had, before going to bed, written a brief note in his personal log, in the small careful handwriting he had used since his time as a junior officer at Calderon Trench. The note read: *They took the child. They will not take another. The lesson begins.*
 
 He turned off the desk lamp.
 
@@ -1680,7 +1680,7 @@ He came in. He sat down across from her, on the floor, because the chairs felt w
 
 After a while she looked up.
 
-He had been preparing himself, on the walk over, for what her face would look like. He had thought it would be hard. He had thought it would be the face of a woman who had decided to kill until she died — closed, narrowed, set. He had thought he would recognize the shape of Bastien Orrel after Malevelon Trench, and he had been preparing himself to mourn the woman she had been before this morning.
+He had been preparing himself, on the walk over, for what her face would look like. He had thought it would be hard. He had thought it would be the face of a woman who had decided to kill until she died — closed, narrowed, set. He had thought he would recognize the shape of Bastien Orrel after Calderon Trench, and he had been preparing himself to mourn the woman she had been before this morning.
 
 Her face was not like that.
 
@@ -2633,7 +2633,7 @@ The road over the Vorrath Range was a maintained route — graded, marked, swept
 
 Kester sat in the rear cabin and watched the surface scroll past the small armored window. He thought about Lira. He thought about the strawberries. He thought about the version of his life in which he had stayed on Andra Prime, in which he had refused the Tartaros posting eleven years ago, in which he had been a junior administrator in some municipal office and had eaten dinner with his daughter every night. The version of his life would have been small. The version would have been ordinary. The version would have been, he understood now, the only version worth wanting.
 
-He had not wanted it at the time. He had wanted the senior posting and the better salary and the chance to advance. He had wanted, as he understood now, the specific thing Orrel had wanted after Malevelon Trench: to stop being a body in someone else's accounting. He had not realized that the alternative to being a body was being the man who counted them.
+He had not wanted it at the time. He had wanted the senior posting and the better salary and the chance to advance. He had wanted, as he understood now, the specific thing Orrel had wanted after Calderon Trench: to stop being a body in someone else's accounting. He had not realized that the alternative to being a body was being the man who counted them.
 
 He sat with this for the duration of the drive.
 
@@ -3804,11 +3804,11 @@ He looked at Kester.
 
 ---
 
-He talked first about Malevelon.
+He talked first about Calderon.
 
 He did this, Kester registered, with the manner of a man telling a story he had told before — to himself, perhaps, or to a journal, or to the silver-haired woman who stood three feet behind him and who Kester suspected had heard the story enough times to know it by rote. Orrel did not embellish. He did not dramatize. He told the story the way an old soldier tells the story of a campaign that has shaped his life, which is to say, with a kind of weariness that did not pretend to be philosophical and did not pretend to be untraumatized.
 
-Malevelon Trench had been a forward observation objective on the third front of a war Kester knew by name and had not paid attention to. The war had been twenty-three years ago. Orrel had been a junior officer — twenty-six, lieutenant grade, in command of a small infantry unit attached to a larger formation. The objective had been a section of trench works approximately six kilometers in length on a ridge that the Hegemony command had identified as militarily significant. The trench had been held by Federation-allied forces. The Hegemony had been ordered to take it.
+Calderon Trench had been a forward observation objective on the third front of a war Kester knew by name and had not paid attention to. The war had been twenty-three years ago. Orrel had been a junior officer — twenty-six, lieutenant grade, in command of a small infantry unit attached to a larger formation. The objective had been a section of trench works approximately six kilometers in length on a ridge that the Hegemony command had identified as militarily significant. The trench had been held by Federation-allied forces. The Hegemony had been ordered to take it.
 
 Sixteen thousand soldiers had been committed to the assault.
 
@@ -3830,7 +3830,7 @@ The bodies were being spent because the institutions did not value them at their
 
 The thesis suggested two responses.
 
-The first response was political. Adjust the composition of the room. Bring the population into the room. Give the persons who would become the bodies a voice in the spending decisions. This was the response Orrel had considered for some weeks after Malevelon and had eventually rejected, because the political response required a generation to implement and would, even if implemented, be subject to gradual recapture by the same institutional pressures that had produced the original asymmetry. The political response was not, in Orrel's analysis, a response that addressed the underlying problem. It was a response that addressed the rhetoric of the problem.
+The first response was political. Adjust the composition of the room. Bring the population into the room. Give the persons who would become the bodies a voice in the spending decisions. This was the response Orrel had considered for some weeks after Calderon and had eventually rejected, because the political response required a generation to implement and would, even if implemented, be subject to gradual recapture by the same institutional pressures that had produced the original asymmetry. The political response was not, in Orrel's analysis, a response that addressed the underlying problem. It was a response that addressed the rhetoric of the problem.
 
 The second response was operational.
 
@@ -3838,19 +3838,19 @@ If the bodies were being spent because the institutions did not value them at re
 
 This was the response Bastien Orrel had implemented.
 
-Or rather — Orrel said, with a small wave of the glass — this was the response that the Architect, who had recruited Orrel some years after Malevelon and whom Orrel was not at liberty to name, had implemented. Orrel had been a participant in the implementation. He had been a junior partner for several years, then a senior partner, then the operational lead for one of the program's seven research facilities. He had built the prototype on Tartaros. He had refined the procedures. He had survived the early failures, including the failures that had killed Sable Reyek's brother and many others, and he had presided over the successes, including the success that had emerged from the Successor — the child who had unlocked the substrate question — and the cohort that had grown from her example. He had been at the program for twenty-three years. He believed in it as completely as he believed in his own survival of Malevelon, which was to say, he believed in it because it was the only ethical response to that survival that he had been able to construct.
+Or rather — Orrel said, with a small wave of the glass — this was the response that the Architect, who had recruited Orrel some years after Calderon and whom Orrel was not at liberty to name, had implemented. Orrel had been a participant in the implementation. He had been a junior partner for several years, then a senior partner, then the operational lead for one of the program's seven research facilities. He had built the prototype on Tartaros. He had refined the procedures. He had survived the early failures, including the failures that had killed Sable Reyek's brother and many others, and he had presided over the successes, including the success that had emerged from the Successor — the child who had unlocked the substrate question — and the cohort that had grown from her example. He had been at the program for twenty-three years. He believed in it as completely as he believed in his own survival of Calderon, which was to say, he believed in it because it was the only ethical response to that survival that he had been able to construct.
 
 "I am not asking you to admire this thesis, Kester," Orrel said.
 
 He had been speaking for perhaps twenty minutes. His glass was nearly empty. He refilled it from the decanter, slowly, without taking his eyes off Kester's face.
 
-"I am only asking you to understand it. I have observed, in the people I have explained this thesis to over the years, that they tend to mistake my conviction for fanaticism. It is not fanaticism. It is bookkeeping. The Hegemony has wars coming. The wars will be fought by bodies. I am building bodies that will not be wasted in those wars in the way my unit was wasted at Malevelon. The bodies I am building will be expensive. Their loss will be felt. The persons making the decisions about their commitment will have to weigh the cost. They will commit fewer. They will commit them more carefully. Fewer mothers will receive the news that their son died for a forward observation objective that was abandoned eleven days after his death. That is the actual outcome of my work. That is what the Cleanse, in its bureaucratic ugliness, is *for*. It is for the mothers. The fact that it requires children to produce is a real cost. I do not minimize it. I will not minimize it to you. I am paying that cost on behalf of the mothers who will not have to lose their grown sons. The arithmetic is not mine to set. The arithmetic was set by Malevelon Trench. I am only completing it."
+"I am only asking you to understand it. I have observed, in the people I have explained this thesis to over the years, that they tend to mistake my conviction for fanaticism. It is not fanaticism. It is bookkeeping. The Hegemony has wars coming. The wars will be fought by bodies. I am building bodies that will not be wasted in those wars in the way my unit was wasted at Calderon. The bodies I am building will be expensive. Their loss will be felt. The persons making the decisions about their commitment will have to weigh the cost. They will commit fewer. They will commit them more carefully. Fewer mothers will receive the news that their son died for a forward observation objective that was abandoned eleven days after his death. That is the actual outcome of my work. That is what the Cleanse, in its bureaucratic ugliness, is *for*. It is for the mothers. The fact that it requires children to produce is a real cost. I do not minimize it. I will not minimize it to you. I am paying that cost on behalf of the mothers who will not have to lose their grown sons. The arithmetic is not mine to set. The arithmetic was set by Calderon Trench. I am only completing it."
 
 He drank.
 
 Kester sat across the table.
 
-He did not respond. He could not respond. The thesis Orrel had described was monstrous and the thesis was also, Kester registered with a kind of horrified administrative clarity, *internally consistent*. Orrel was not lying. Orrel was not even rationalizing in the conventional sense. Orrel had constructed, over twenty-three years, a moral framework that took the worst experience of his life and converted it into a justification for the worst project of the Hegemony's history, and the framework did not have visible holes from inside the framework. From outside, the holes were everywhere. From inside, the framework was the only sane response a survivor of Malevelon could have produced.
+He did not respond. He could not respond. The thesis Orrel had described was monstrous and the thesis was also, Kester registered with a kind of horrified administrative clarity, *internally consistent*. Orrel was not lying. Orrel was not even rationalizing in the conventional sense. Orrel had constructed, over twenty-three years, a moral framework that took the worst experience of his life and converted it into a justification for the worst project of the Hegemony's history, and the framework did not have visible holes from inside the framework. From outside, the holes were everywhere. From inside, the framework was the only sane response a survivor of Calderon could have produced.
 
 That was the thing that made Orrel terrifying.
 
@@ -4080,7 +4080,7 @@ He did not pour a fourth glass.
 
 He did not move.
 
-He understood that he was going to sit in this chair, in this dining room, until a staff member came for him in the morning, because the augmented man in the doorway was not going to let him through and there was no version of the next several hours in which he did anything else. He understood that he would not sleep. He understood that he would think, for the duration of the night, about Pira and Yenna and Chayne and Lira and Mouse and Sable and Tev and Pell and Aleya and the seven sites and the fourteen thousand children and the unnamed Architect who had recruited Orrel some years after Malevelon and whom Orrel was not at liberty to name, and he understood that the thinking would not produce any answer he did not already have.
+He understood that he was going to sit in this chair, in this dining room, until a staff member came for him in the morning, because the augmented man in the doorway was not going to let him through and there was no version of the next several hours in which he did anything else. He understood that he would not sleep. He understood that he would think, for the duration of the night, about Pira and Yenna and Chayne and Lira and Mouse and Sable and Tev and Pell and Aleya and the seven sites and the fourteen thousand children and the unnamed Architect who had recruited Orrel some years after Calderon and whom Orrel was not at liberty to name, and he understood that the thinking would not produce any answer he did not already have.
 
 He understood that whatever he was going to do, in the morning, he was going to do tired and grieving and hungover and watched, and the augmented man in the doorway would still be there, and the Harvester would still be the Harvester, and Mouse would still be on her schedule, and Sable would still be in her quarters with Resh in the other bed, and the universe would still contain the unanswered question of whether anyone on Andra Prime was alive.
 

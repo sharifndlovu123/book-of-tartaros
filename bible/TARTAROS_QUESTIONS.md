@@ -68,7 +68,7 @@
 2. **[ANSWERED]** Age. Author's instinct: 45–55. *(Default accepted)*
 3. **[ANSWERED]** Relationship to his father. Loving, dutiful, frustrated, all of these? frustrated. grandfather is patient. keris son is angered
 4. **[ANSWERED]** Military training. Commander, strategist, infantry, all of these? Commander, infantry. he has seargents below. all genders fight all children of age know how to fight it is basic nececcity
-5. **[PARTIAL]** Relationship to his children. He may have children — the youngest generation, including the child who becomes Pira's friend. What are his hopes for them, and how does that shape his impatience? *(Children named: daughter Ivana, around Pira's age, wants to fight; second child on the way, son. Wife Milana. Specific hopes/shaping still developable.)*
+5. **[ANSWERED]** Relationship to his children / hopes and how they shape his impatience. He wants Ivana and the unborn son to inherit a *restored* house in its rightful place, not the hidden cave-exile he was born into; he believes the bloodline was wronged and stripped of its royalty. Imir's patience reads to him as condemning his children to the same exile — that is the engine of his impatience. (Children: daughter Ivana; second child, a son, on the way; wife Milana.)
 6. **[ANSWERED]** Wife. Living, dead, never had one? wife is bearing a child one son in the wob and a daughter who is maybe of age or less.she wants to learn how to fight. **Wife: Milana. Daughter: Ivana.**
 7. **[ANSWERED]** View of the Cleanse. What does the archive's content do to him? Does he see the children as victims or as evidence? evidence
 8. **[ANSWERED]** What he intends in book three. Destruction of the Homonoia, restoration of the Keris position, rescue of the children, something else? restoration of the Keris position, clearing their families name and overthrowing the current architect.
@@ -81,36 +81,40 @@
 
 ### Character 5: The Medical Director
 
-1. **[OPEN]** Name. Female. Less aristocratic register than the Vendine names — clinical, possibly cosmopolitan.
-2. **[OPEN]** Age. Author's instinct: 50–60.
-3. **[OPEN]** Origin. Medical family, or self-made researcher who rose to leadership?
-4. **[ANSWERED]** Her vision. What does ascendancy look like? Expanded augmentation? Genetic services for the wealthy? Longevity treatments at scale? good and bad, they look into medicine and health, but augmentation is something they support heavily. in secret; it is not spoken about openly
-5. **[ANSWERED]** Relationship to Vorlith. Trust him? Use him? Manage him? Has she visited the Harvester herself? She trusts in the product but the person operating it not so much; but she belives the augmentation speaks for tiself
-6. **[ANSWERED]** Family. Children? Partner? Author's instinct: married to her work; possibly a long-term partner also in the medical arm. the partner is maybe having an affair with the younger workers under medical research
-7. **[ANSWERED]** Relationship to the Architect. Direct, or through layers? through layers.
-8. **[ANSWERED]** Her weakness. Where does ambitious-expansion overreach? she has spoken to almost evryone from every party shes not an enemy nor a friend to other houses but she is someone they must know.
-9. **[ANSWERED]** **If the Tywin figure has a daughter, is the daughter the Medical Director?** This decision affects both characters' development. we could have the daughter just below her; and tywin figure wants her to rise up to this placement and sees the current director as a good mentor.
+**Substantially complete with full Aelia profile.** See bible Part II.
+
+1. **[ANSWERED]** Name. **Aelia Mardin (married name); Aelia Tessine (maiden name).** Mercantile family origin; cosmopolitan medical-arm director.
+2. **[ANSWERED]** Age. **51.**
+3. **[ANSWERED]** Origin. **Tessine — mid-tier mercantile family with Italianate Hegemony commercial roots. Mother used family connections to get Aelia into the medical academy; the connections mattered for getting in but not for staying in.**
+4. **[ANSWERED]** Her vision. **Medical arm's ascendancy within the Homonoia. Augmentation expansion in private; the connector who has spoken to almost everyone from every party.**
+5. **[ANSWERED]** Relationship to Vorlith. **Trusts the product, not the man personally. Has visited the Harvester at least once; visit shaped her conviction.**
+6. **[ANSWERED]** Family. **Married to Doctor [first name TBD] Mardin from a medical family. Cannot bear a child — diagnosis is hers; husband knows; mother does not. The infertility initiated the distance that has expanded into his affairs with younger women in research circles. The lie to her mother is decades old.**
+7. **[ANSWERED]** Relationship to the Architect. **Through layers; not in the intimate circle.**
+8. **[ANSWERED]** Her weakness. **The accommodation pattern — she compartmentalizes her husband's affairs the way she has trained herself to look away from things examining would cost her too much. The marriage is the rehearsal; the Cleanse is the performance.**
+9. **[ANSWERED]** Tywin daughter merger. **Resolved earlier: NOT merged. Marella's daughter is the deputy under Aelia. The mentorship has private weight Aelia has not articulated — Marella's daughter is the closest thing Aelia has to a successor since she has no children of her own.**
 
 ### Character 6: The Vendine Council Chair
 
-1. **[PARTIAL]** Name. House name and personal name. Aristocratic, possibly with a noble particle. *(House and name still TBD; bible has full institutional and philosophical profile.)*
-2. **[ANSWERED]** Age. Same generation as Bastien's grandfather, or older? **Mid-to-late 70s, contemporary with Bastien's grandfather, possibly his rival in their generation's wars.**
-3. **[PARTIAL]** House. Which Vendine house? Cannot be House Orrel. One of the older or larger houses. *(One of the senior houses; specific house TBD.)*
-4. **[ANSWERED]** Relationship to House Orrel. Supports Bastien? Resents him? Did he hold the consensus willingly or did it form around him? **Complicated. Bastien's grandfather was his contemporary, possibly rival or friend. He has accommodated the saint-narrative because the alternative would damage the form. Believes the Cleanse is the form's next stage.**
-5. **[PARTIAL]** Family. Children? An heir who agrees with him or disagrees? **Married to a woman from another senior house; has an heir being prepared. Specific names and detail TBD.**
-6. **[ANSWERED]** The crack. What would crack his accommodation? Author's instinct: a private revelation about what the program does to children. **Confirmed; possibly delivered by the Mother Teresa figure in book three, possibly through the dissenting house head's quiet investigation finally producing evidence.**
-7. **[ANSWERED]** His ceremonial role. Public functions — speeches, awards, military reviews? **Highly visible: speaks at major Vendine funerals; presides over military reviews; gives the formal annual address to the senior Vendine houses. He is the public face of the arm's continuity.**
+**Substantially complete with full Quintus Aemilius profile.** See bible Part II.
 
-*Additional confirmed: He is a cold character of war, a fighter even into old age, who pleads greater allegiance to the Vendine itself than to the Homonoia collective but understands the means of a balanced economy and would not tip it. The depth of hierarchy is almost scary — every soldier has internalized the structure as theologically correct. War is ceremony. Blood is antidote. Peace is wearying.*
+1. **[ANSWERED]** Name and house. **Quintus Aemilius. House Aemilius.** Marcus is his nephew.
+2. **[ANSWERED]** Age. **76. Aldric's contemporary, not the grandfather's.**
+3. **[ANSWERED]** House. **Aemilius — confirmed.** Cousin-house with House Orrel through Mireille's marriage.
+4. **[ANSWERED]** Relationship to House Orrel. **Has known Aldric for over fifty years; served alongside him in the Sirenne Insurrection. Attended Mireille's funeral. Has watched Bastien from childhood. Accommodated the saintly narrative when it formalized.**
+5. **[ANSWERED]** Family. **Married. Two daughters: Lavinia (the conventional one, Vendine matriarch) and Octavia (the institutionally invisible Vendine arm's hidden hand). No sons. Aemilius male line passes through nephew Marcus and Marcus's son Lucan.**
+6. **[ANSWERED]** The crack. **The cascade exposing Xerxes's manufactured war collapses his accommodation. He realizes he has been the form's traitor for thirty years.**
+7. **[ANSWERED]** His ceremonial role. **Public face of the arm's continuity until the cascade.**
+
+*Additional confirmed: not one for many words; manipulative through patience; ends his own life in the Vendine tradition (Option C) when the cascade is at its climax. Octavia disappears at the moment he most needs her; the recognition is part of what he carries into his ending.*
 
 ### Character 7: The Dissenting Vendine House Head
 
-1. **[PARTIAL]** House name and personal name. Less prominent than House Orrel. *(Smaller but established Vendine house; specific names TBD.)*
+1. **[Author-decided, pending review]** House name and personal name. **House Caradec; head Tancred Caradec.** Vendine Norman-French register; *Tancred* carries a crusader-knight resonance.
 2. **[ANSWERED]** Age. Author's instinct: 45–50. **Confirmed: 45-50, generation below the Council Chair.**
 3. **[ANSWERED]** Reason for dissent. Honor-based, family-based, religious? Author's instinct: honor-based with personal trigger — perhaps younger brother served under Bastien on Tartaros early. **Confirmed: honor-based AND personal-trigger. His younger brother served under Bastien on Tartaros early; returned changed; eventually died (possibly by his own hand, possibly recorded as accident). The dissenter has been quietly investigating what happened to his brother for years.**
 4. **[ANSWERED]** Shape of dissent. Specific small choices — refused house guards, refused contracts, sent sons elsewhere. What else? **Confirmed: refused augmented soldiers as house guards; refused certain contracts; sent sons to traditional military academies where old training methods are preserved. The Council Chair has noted these choices. Both men know what is being said and not said.**
 5. **[ANSWERED]** What he knows. Confirmed or only suspected? **Has come close enough to confirming the program's nature that his dissent is no longer abstract. Not yet fully confirmed; the protagonists confirming it for him is what activates him in book three.**
-6. **[PARTIAL]** Family. Wife with him in dissent or against it? Sons at traditional academies? **Wife is with him in the dissent and shares the work; she is from another quietly-dissenting house — their marriage is a small alliance of two houses sharing the conviction. Sons at traditional academies. Names TBD.**
+6. **[ANSWERED; names Author-decided, pending review]** Family. Wife with him in the dissent, sharing the work, from another quietly-dissenting house — a small alliance of two houses. **Wife Ysabeau Caradec, of House Tarsenne; sons Joscelin and Garin Caradec (at traditional academies); the dead younger brother is Aubin Caradec.**
 7. **[ANSWERED]** Role in book three. Resources? Political cover? Military force? Information? **All four: resources, political cover, military force, AND the documentary evidence of his brother's case. The pole around whom one half of the arm can rally when the split occurs. The Vendine's split is the trilogy's most consequential institutional event.**
 
 *Additional confirmed: He is a cold character of war, fully formed in the Vendine ethic. He pleads greater allegiance to the Vendine than to the collective and would die for the arm. His dissent is in fidelity to the form's older meaning — the warrior must have chosen the form; the Cleanse's children have not chosen anything; using them debases the form itself. He believes himself more loyal to the Vendine than the Council Chair.*
@@ -136,12 +140,12 @@
 
 1. **[ANSWERED]** Name (first name; surname follows from the Tywin merger). **Cassian Vren.**
 2. **[ANSWERED]** Age. Author's instinct: 35–45. **42.**
-3. **[OPEN]** Publication. Andra Prime's largest daily? A weekly political journal? *(Author's instinct: largest daily, locked in.)*
+3. **[ANSWERED; title Author-decided, pending review]** Publication. Andra Prime's largest daily — **[The Andra Meridian]**.
 4. **[ANSWERED]** Drinking. Open secret in the press community, or kept private by his mother's protection? *(Revised: drinks as part of pleasure-seeking, not dependent alcoholism. Not the wound; just a part of the chosen life.)*
-5. **[OPEN]** Former journalism. What did he write before the Bureau co-opted him? A specific piece — investigation, series — that the Bureau either redirected or destroyed?
+5. **[ANSWERED]** Former journalism — two killed pieces. (1) An investigation into **prisoner rehabilitation** (criminals returned home), destroyed for risking sympathy for criminals; it brushed the Frontier arm's prison-labor economy. (2) A piece on the **theft of medical supplies**, destroyed — and it very nearly touched the Cleanse's procurement chain.
 6. **[ANSWERED]** Family. Married, divorced, alone? **Alone; thrives in short-term mingles, no long-term partner.**
 7. **[ANSWERED]** Relationship to his mother. Resentful, dependent, both? **Both: resentful of her plan, dependent on her institutional protection to live the life he wants.**
-8. **[PARTIAL]** The leak moment in book three. What does he leak? *(Revised: motivation is calculated, transactional. Intermediary CONFIRMED as the Mother Teresa figure — via the young woman she has placed in Cassian's life as a watcher. Cassian's price is a path to fuller freedom from his mother's institutional reach. Specific story TBD.)*
+8. **[ANSWERED, pending review]** The leak. The **completion of his killed medical-supply story** — the procurement records tying "stolen" supply to the seven Cleanse sites (the Communications-arm documentation the cascade rests on). It wounds Marella doubly: her arm's narrative failing, and the very story she once buried. Dovetails with Cyrus's technical evidence (same records, medical side). Motivation calculated; intermediary the Mother Teresa figure via the placed watcher; his price is a real position outside the arm.
 
 ### Character 10: The Medical Senior Researcher — Professor Cyrus
 
@@ -177,8 +181,8 @@
 
 *Status: holds the Sisters' seat on the Synedrion. Embedded in the Vendine arm as the Sisters' liaison-chaplain for decades. Confirmed by recent conversation.*
 
-1. **[PARTIAL]** Religious name. What do most people call her? *Sister [name]*, *Mother [name]*, single name? **Working as Mother Hessa. Alternative under consideration: Sister Rosa (rose with thorns). Final pick TBD. Address conventions confirmed: formal *Mother* in Synedrion/Vendine; *Sister* in less formal contexts.**
-2. **[PARTIAL]** Birth name. When did she take the religious name? **Birth name: *Mira* (working). Surname TBD. Took *Hessa* in her late twenties when she joined the order.**
+1. **[ANSWERED]** Religious name. **Mother Hessa** is locked (alternative *Sister Rosa* set aside). Formal *Mother* in Synedrion/Vendine; *Sister* in less formal contexts.
+2. **[ANSWERED; surname Author-decided, pending review]** Birth name. **Mira [Tolan]** — a plain Andra-Prime middle-terrace surname. Took *Hessa* in her late twenties when she joined the order.
 3. **[ANSWERED]** Age. Author's instinct: 65–75. Has been at this work for forty years. **75. Has been in religious life approximately fifty years; senior work for forty years.**
 4. **[ANSWERED]** The order's name. **The Sisters of the Long Patience.** Old, pre-Homonoia, contemplative-active hybrid. Motto: ***Diuturnum patientia*** (Latin, the long patience). Members of the order say it to each other in passing — a greeting, a benediction, a reminder of the work.
 5. **[ANSWERED]** The order's actual work. **Specific charism: attendance at thresholds. Present at births, deaths, moments of crisis. They sit with people when no one else can or will. Specialized in *being with*, which is harder than healing or teaching. The Vendine embed, the Andra Prime clinic, frontier-world disasters and refugee crossings are different forms of this work.**
@@ -193,35 +197,37 @@
 *Additional confirmed: Old, wise, patient. Knows the weight which different houses and characters hold. Generally liked. Three categories find her distasteful: those who experience her warmth as performative, those whose institutional positions she has quietly opposed, and Vendine traditionalists who find the embed itself corrupting (the Council Chair is partly in this third category). She has refused political endorsement, honorary positions, and op-eds — *the order does not endorse, does not award, does not write.* Teresa offers Cassian a position (not a payout) — a real role outside the Communications arm.*
 ### Character 13: The Roan Boss
 
-1. **[OPEN]** Name. Working-class single name plus a nickname.
-2. **[OPEN]** Age. 50s confirmed by bible.
-3. **[OPEN]** First business. How did he end up running the eastern quarter's calm distribution?
-4. **[OPEN]** Family. Wife, children, siblings? Does community-protection extend through blood or neighborhood?
-5. **[OPEN]** Internal limits. What event or principle established his refusal to sell to children, to extort neighbors?
-6. **[OPEN]** Relationship to the medical arm. He thinks he is stealing. He is wrong. When does he find out, and what does he do?
-7. **[OPEN]** Relationship to the Mother Teresa figure. Funds her clinic. Why? Local politics, personal regard, both?
-8. **[OPEN]** Relationship to Kester. When Kester searches for Lira, what is the encounter?
+1. **[ANSWERED]** Name. **Roan** — the man's own name; the syndicate is named after him (decided in conversation: option B).
+2. **[ANSWERED; Author-decided, pending review]** Age. **57.**
+3. **[ANSWERED]** First business. Vice before calm — **nightclubs, prostitution, drugs, and illegal waste disposal**; calm distribution layered on top later. (The waste-disposal arm — a man who can make things disappear — is a flagged future plot utility.)
+4. **[ANSWERED; sibling-survival Author-decided]** Family. His **wife was raped and murdered by a rival outfit — "the name they don't speak of"** — whom Roan then erased; his is the last syndicate standing. He and a **younger sibling he raised grew up parentless** in the bad terraces (sibling survives, one of the few he trusts). Protection runs through both blood and neighborhood.
+5. **[ANSWERED]** Internal limits. He will **not touch children** and **protects his neighborhood** — both rooted in having been an unprotected child himself, shielding his younger sibling.
+6. **[ANSWERED; Author-decided, pending review]** Relationship to the medical arm. Via his **waste-disposal arm** he moves sealed cargo he's told not to open, and a "theft" run met with silence reveals the arm has been *steering* him. He buries it; it festers; in book three it can turn him.
+7. **[ANSWERED]** Why he funds Hessa's clinic. **Not charity** — building his own standing and buying local favor to control the lower ground. (Deepens Hessa's compromise.)
+8. **[ANSWERED; Author-decided, pending review]** Relationship to Kester. Kester, asking after Lira, is brought to a club back-room; Roan — hearing it's a father hunting an estranged daughter — extends a wary, involuntary courtesy but extracts a price. The Roan trail leads Kester to Lira's coffee house.
 
 ### Character 14: Asham
 
 *Status: working name; primary caregiver to Pira on Korya.*
 
-1. **[OPEN]** Name confirmation. Keep *Asham* or change?
-2. **[OPEN]** Age. 60s–70s?
-3. **[OPEN]** Background. Did she raise her own children? Were they lost?
-4. **[OPEN]** Relationship to the bloodline. Bloodline member, or sympathizer-descendant?
-5. **[OPEN]** Term of endearment for Pira. Is there a Keris diminutive she uses?
-6. **[OPEN]** Language. Does she speak any Hegemony common, or only Keris dialect?
+1. **[ANSWERED]** Name. **Asham** confirmed.
+2. **[ANSWERED]** Age. **76.**
+3. **[ANSWERED; Author-decided, pending review]** Background. **Raised two children of her own and lost them years ago** to the hardships of exile — held lightly, not dwelt on; part of why she can be a steady presence for Pira without trying to replace a mother.
+4. **[ANSWERED]** Relationship to the bloodline. **Family, through extended marriage** — she is herself an outsider who married in.
+5. **[ANSWERED; Author-decided, pending review]** Term of endearment. **"zornitsa"** (Slavic *morning/dawn star* — the rising star; fits a rising-noble child). Gentler alt: *zvezdochka*.
+6. **[ANSWERED; Author-decided, pending review]** Language. **Keris dialect plus a frontier trade-tongue** from her frontier-world origin (which also explains her outsider's patience).
 
 ### Character 15: The Keris Youngest Generation
 
 *Status: at minimum one named child who becomes Pira's friend.*
 
-1. **[OPEN]** Name (at least one).
-2. **[OPEN]** Age. Author's instinct: 7–9; slightly older than Pira.
-3. **[OPEN]** Parentage. Child of the Keris son?
-4. **[OPEN]** Personality. What does growing up inside the cave civilization knowing the lineage produce — pride, weight, normalcy?
-5. **[OPEN]** Relationship to Pira. Friend, sibling-like, rival, mentor?
+*Resolved as a **two-child structure**: Ivana (the fighting/lineage friend, royal, younger — already in the bible) plus a new non-royal closest friend, Nadya.*
+
+1. **[ANSWERED; Author-decided, pending review]** Name. **Nadya** — Pira's closest friend; Slavic register (cf. Milana, Ivana).
+2. **[ANSWERED]** Age. **9** (slightly older than Pira, who is 6).
+3. **[ANSWERED]** Parentage. **Non-royal** — cave-born to an ordinary family of the underground civilization, *not* the bloodline.
+4. **[ANSWERED; Author-decided, pending review]** Personality. **Normalcy** — she carries none of the lineage's weight; the hidden cave-city is simply *home*, which is exactly what Pira needs.
+5. **[ANSWERED; Author-decided, pending review]** Relationship to Pira. **The everyday best friend** who makes Pira belong, while Ivana is the one who teaches her to fight.
 
 ---
 
@@ -239,7 +245,7 @@
 6. **[ANSWERED]** What the Synedrion can actually do — pronouncements, withdrawal of endorsements, activation of constituent bodies? **Two pronouncement types: consultative (advisory) and binding (institutional). Binding pronouncements have happened approximately twenty times in two centuries. Each seat holds one vote; pronouncements require six of eight active seats (supermajority). The Architect attends as a non-voting consultant; he speaks when asked, listens otherwise. He can be excluded from specific deliberations by majority vote — has happened only twice in Xerxes's tenure.**
 7. **[ANSWERED]** Has the Synedrion ever publicly opposed the Architect? Author's instinct: twice across thirty years, on minor matters. **Confirmed: he has lost two minor public contests with them across his thirty-year tenure. Never a major one, because he has never let one occur. Book three is the major contest he has been avoiding.**
 
-*Additional confirmed: meeting place is a circular hall on Andra Prime, in a building older than the Homonoia. Nine chairs, each different (each constituent body brought its own chair when the Synedrion was first convened). The Keris chair is empty and slightly different from the others — distinct enough that visitors notice it. The Architect has no chair; he stands at one side of the room or sits on a small stool. Ceremonial reminder of where institutional weight rests. Building name TBD.*
+*Additional confirmed: meeting place is a circular hall on Andra Prime, in a building older than the Homonoia. Nine chairs, each different (each constituent body brought its own chair when the Synedrion was first convened). The Keris chair is empty and slightly different from the others — distinct enough that visitors notice it. The Architect has no chair; he stands at one side of the room or sits on a small stool. Ceremonial reminder of where institutional weight rests. **[ANSWERED; Author-decided, pending review]** Building/hall name: **the Tholos** (the Hellenic round council-house).*
 
 *MAJOR ADDITION: the Keris held both an executive arm and a Synedrion seat before the consolidation — the only house in Hegemony history to hold both registers. Their executive arm was the Adjudicate (working name; possibly Iudicarium in formal Latin), the judicial-archival-investigative function. This dual position was what made them too powerful for the consolidating Homonoia leadership to accept; Xerxes's manufactured discrediting was designed to bring them down to one register and ended up bringing them down to neither. The Architect's coordination role is a workaround for the Adjudicate's destruction. When the Keris return in book three, they restore the arm; the Architect's role becomes structurally redundant. The trilogy's third book ends with institutional restoration, not just exposure.*
 
@@ -247,31 +253,31 @@
 
 **[ANSWERED]** **Aurelius — Xerxes's cousin.** 70s, contemporary with Xerxes. The previous Old Houses seat was held by their shared uncle, who mentored both nephews and chose Xerxes for the Summum track. Aurelius took the seat when the uncle died. *In a different version of history, Aurelius would have been Summum and Xerxes would have been Senior Elder.* The acceptance has cost him.
 
-1. **[PARTIAL]** Name and old-house affiliation. Pre-Homonoia register. **Aurelius. Family surname TBD.**
+1. **[ANSWERED; surname Author-decided, pending review]** Name and old-house affiliation. **Aurelius, of House Corvinus** (Latinate "raven," an archivist line). Xerxes is of the same Old House but known by his single name.
 2. **[ANSWERED]** Age. Author's instinct: 80s, contemporary with the Architect and the Keris grandfather. **70s, contemporary with Xerxes. Slightly younger than I had originally proposed; the contemporary-cousin dynamic is more interesting than parallel generations.**
 3. **[ANSWERED]** Family history. What did his house do before the consolidation? **Pre-Homonoia aristocratic house with deep institutional standing. The uncle's mentorship shaped both nephews; the family papers contain the engineered-disease theory.**
 4. **[ANSWERED]** Relationship to the Architect. Quietly opposed for decades? In what specific way? **Formal and infrequent. Not openly opposed but parallel power; the cousin who could have been Summum and was passed over. Xerxes visits at ceremonial occasions; Aurelius visits only when Synedrion business requires.**
 5. **[ANSWERED]** Relationship to the Keris (potential). If Keris existence becomes public, would he ally with them or stand apart? **Likely ally with the broader case against Xerxes. He has read the family papers; he knows the engineered-disease theory; he is the inside-the-family voice that can confirm the theory in book three.**
-6. **[PARTIAL]** Family. Children, grandchildren, heirs? **Has not married; lives alone in the family's old residence on Andra Prime. Heir TBD.**
+6. **[ANSWERED; Author-decided, pending review]** Family. Unmarried, lives alone in the family's old residence; no direct heir. The archive passes to a studious grand-niece, **Livia Corvinus** (~20s), who becomes its keeper after book three.
 7. **[ANSWERED]** What he wants. Restoration of the older Hegemony? Reform from within? Something else? **Bookish, scholarly, has spent thirty years curating the Old Houses' archive and writing histories. Wants institutional integrity preserved; not a revolutionary; not openly an oppositionist. The trilogy forces his hand.**
-8. **[PARTIAL]** Survival into book three. Does he live to see the war? **Likely yes; he is the family voice at the Synedrion meeting where Xerxes is exposed. Specific fate beyond that TBD.**
+8. **[ANSWERED; Author-decided, pending review]** Survival into book three. Lives to be the family voice at the Synedrion meeting where Xerxes is exposed; survives the cascade and retreats to the archive, becoming the quiet historian who writes the true account of the fall.
 
 ### Character 17: The Healer — Mistress Veliya
 
 **[ANSWERED]** **Mistress Veliya.** Approximately 80, older than Hessa. Senior figure of the older medical tradition. **[Family surname TBD.]**
 
-1. **[PARTIAL]** Name. Older medical register, possibly with an honorific. **Mistress Veliya — *Mistress* as the older healing tradition's honorific. Surname TBD.**
+1. **[ANSWERED]** Name. **Mistress Veliya — mononymous** (the old tradition uses honorific + single name; no family surname in common use).
 2. **[ANSWERED]** Age. Author's instinct: 60s–70s. **80. Older than Hessa, who quietly defers to her on questions of healing and end-of-life care.**
 3. **[ANSWERED]** Origin. Where does the Healers' tradition come from? **The older healing tradition that predates the Medical arm by centuries. The Medical arm split off from this tradition; the Healers' seat-holders have never fully accepted the legitimacy of the split.**
 4. **[ANSWERED]** What she knows about the medical arm. How did she come to know it? **Across decades, the healing tradition has accumulated unsystematic knowledge through informal networks — defectors, junior researchers who left in disgust, midwives who treat the families of Medical-arm employees. Anecdotal accumulation, not documentary evidence; but the picture after forty years is clear enough that she knows.**
 5. **[ANSWERED]** Relationship to the senior researcher (medical arm). **They studied together briefly at one of the institutions that bridged the two traditions before the Medical arm fully split. The senior researcher respects her. When she speaks to him about what she has heard, in a private conversation in book three, that is the moment his accommodation collapses.**
-6. **[PARTIAL]** Family. Spouse, children, students? **Generations of healers trained by her. Personal family TBD.**
+6. **[ANSWERED; Author-decided, pending review]** Family. A living husband (a retired healer); one daughter, also a healer, who will inherit her standing; many unnamed students across generations.
 7. **[ANSWERED]** Role in book three. **The figure whose testimony joins Hessa's at the Synedrion meeting that breaks the Architect's protection of the program. Quietly in alliance with Hessa across decades — both have been carrying the same weight without speaking openly to each other about it. Her vote is one of the certain votes in support when Hessa testifies.**
 
 ### Other Synedrion seats
 
 - **[CONFIRMED]** the University seat, the Retired Officers seat (currently held by a former Vendine Council Chair, possibly the predecessor of the current Council Chair), the Mercantile Guilds seat, and the Frontier Worlds seat all remain institutional voices without individual names. We name them only if the plot requires.
-- **[OPEN]** Eighth seat decision: Religious Council vs alternative.
+- **[ANSWERED]** Eighth seat decision: **Religious council** — i.e. the Order of the Just Reading (already seated as the eighth active seat). Confirmed.
 
 ## ROUND SIX — HOUSE ORREL FAMILY DETAIL
 
@@ -358,23 +364,23 @@
 
 ### Character 25: Lira Vaile (already partly developed)
 
-1. **[OPEN]** Lira's mother — name.
-2. **[OPEN]** Lira's mother — alive, dead, divorced, separated?
-3. **[OPEN]** History of Kester's marriage. Why did it end? Why has Kester not seen Lira in eleven years?
-4. **[OPEN]** What Lira believes about her father. Has she been told a story? Does she believe abandonment, or important work?
-5. **[OPEN]** Lira's politics. Federation-sympathetic, anti-conglomerate, neutral, naive?
-6. **[OPEN]** Lira's friends — the two roommates. Part of any movement, or ordinary students?
-7. **[OPEN]** Lira's awareness of the lower terraces. Does she go to the eastern quarter? Does she know the Mother Teresa figure?
-8. **[OPEN]** The reunion in book two. When Kester reaches her, what is the first scene?
+1. **[ANSWERED; Author-decided, pending review]** Mother — name. **Maren.**
+2. **[ANSWERED]** Mother — status. **Separated but complicated** — never legally finalized; the unfinished break is part of why eleven years could pass.
+3. **[ANSWERED; Author-decided, pending review]** History of the marriage / the eleven years. Broke on **Kester's secret work vs. the family** — absent and unsafe, needing a stability he couldn't give or explain; shame and danger then made return harder the longer he stayed away.
+4. **[ANSWERED]** What Lira believes. She **holds onto the good she remembers** of her father but **feels abandoned**, and the feeling widens with the years.
+5. **[ANSWERED]** Politics. **Naive** — young, no movement; her book-two thread is personal, not political. *(One of the four book-two blockers — cleared.)*
+6. **[ANSWERED]** Roommates. **Ordinary students, probably law** — no movement.
+7. **[ANSWERED]** Awareness of the lower terraces. Knows which areas to avoid; been to the eastern quarter once or twice, not a regular. Knows **Mother Hessa only as the public face of hope/faith**, not personally — as her classmates do.
+8. **[ANSWERED; Author-decided, pending review]** The reunion. Kester follows the Roan trail to the **eastern-quarter coffee house where she works**; watches before approaching; she is guarded. Quiet, anticlimactic, painful — no melodrama.
 
 ### Character 26: The Tywin Figure's Daughter (if not the Medical Director)
 
-1. **[OPEN]** Name.
-2. **[OPEN]** Which arm.
-3. **[OPEN]** Age.
-4. **[OPEN]** Relationship to her mother. Cersei-shaped (rivalrous, power-aware), or different?
-5. **[OPEN]** Married? Children?
-6. **[OPEN]** What she knows about the Cleanse.
+1. **[ANSWERED; Author-decided, pending review]** Name. **Severine Vren** (alt: Drusa Vren).
+2. **[ANSWERED]** Which arm. **Medical** — deputy under Aelia Mardin, on the succession track.
+3. **[ANSWERED; Author-decided, pending review]** Age. **46.**
+4. **[ANSWERED]** Relationship to her mother. **Power-aware and disliked by Marella** — she is the one who succeeded at the cold institutional game Marella plays, the mirror Marella can't control.
+5. **[ANSWERED]** Married, **three sons**; emotionally detached from her family (the husband is the anchor; the children love their father far more). She schemes to place her sons in grand houses — *the Cassian plan repeating a generation down.*
+6. **[ANSWERED]** What she knows about the Cleanse. Unaware until she learned; then moved to **hedge her image either way** — pure operator. A wildcard in the arm's fall, and an irony against Aelia's grooming.
 
 ---
 
@@ -399,37 +405,37 @@
 
 ### The Vendine and the Sisters as paired opposites
 
-1. **[OPEN]** Confirm the Vendine-Sisters pairing as a *centuries-old structural arrangement*, not just an embed of the Mother Teresa figure. The Synedrion paired them long ago. Each generation of Sisters has supplied a senior figure embedded with the Vendine.
-2. **[OPEN]** The Mother Teresa figure has friends in the Vendine. She has been to weddings, funerals, infant blessings of Vendine families. She has held the hands of dying Vendine soldiers. She has come to *love* specific people in the Vendine despite herself. Confirm this depth of attachment.
-3. **[OPEN]** Bastien Orrel almost certainly knows her. They may have a complicated formal relationship — careful courtesy on his side, careful watching on hers, both aware they are on opposite sides of something they cannot yet name. Confirm; develop in book two/three.
-4. **[OPEN]** Should there be a specific Vendine ritual or ceremonial form where the Sisters' presence is visible — for example: at major Vendine funerals, a Sister speaks alongside the senior officer, navy-and-cream beside black-and-gray. A named tradition we can use in book two/three.
+1. **[ANSWERED]** Vendine–Sisters pairing confirmed as a **centuries-old structural arrangement** — the Synedrion paired them long ago; each generation of Sisters supplies a senior figure embedded with the Vendine.
+2. **[ANSWERED]** Depth of Hessa's attachment confirmed — she has come to love specific Vendine people despite herself.
+3. **[ANSWERED]** Bastien knows her — careful courtesy on his side, careful watching on hers; develop in book two/three.
+4. **[ANSWERED; Author-decided, pending review]** Named Vendine rite: **the Veillance** (Norman-French *veille*, vigil) — at major Vendine funerals a Sister speaks beside the senior officer, navy-and-cream beside black-and-gray. (Slavic working-name "Rozgorenije" set aside; Slavic is the Keris register.)
 
 ### The Vendine — black and gray (with possible silver accent)
 
 5. **[ANSWERED]** Confirm: Vendine ceremonial dress is black with gray. Operational dress simpler. **Confirmed.**
 6. **[ANSWERED]** Add a third color — **deep silver** — used only in formal contexts (senior houses' insignia, medals struck for service)? Polished but restrained, catching light only when the wearer turns. Distinguishes ceremonial-formal Vendine (silver visible) from operational Vendine (no silver). **Confirmed.**
-7. **[OPEN]** If silver is added: what specific silver detail does House Orrel's insignia carry? (Bastien wore his silver to the Calderon assault, was wearing it on the transport ship when he sat with the mirror. Small detail, significant in the right scene.)
+7. **[ANSWERED; Author-decided, pending review]** House Orrel's silver detail: **a wading heron** — solitary, patient, watchful, a bird of the Vendine wetland homeworld; mirrors Bastien's solitude. (Alts: stag, marsh-wolf.) This is the silver he wore at Calderon and at the mirror.
 
 ### The Sisters — navy and worn cream
 
 8. **[ANSWERED]** Confirm: Sisters' habit is navy with white that has gone slightly cream from repeated washing — the white of working religious life. Reads as humble but ancient. **Confirmed.**
-9. **[OPEN]** Or refine: navy-and-undyed-linen (rougher, more working-order); navy-and-faded-gold (a small accent suggesting the order's older institutional standing); pure navy with no second color (most austere).
+9. **[ANSWERED]** Refinement: **navy + worn cream** stands — but **new, young Sisters wear undyed linen**; the cream is *earned* through years of washing (the long patience written into the cloth).
 
 ### The Medical arm — dark olive with brass
 
 10. **[ANSWERED]** Confirm: dark olive green with brass accents (not gold). Reads as cool, distant, slightly aristocratic — the senior priestess of a very old institution. Olive resonates against the Vendine's lush green homeworld (Vendine wears black-and-gray on a green planet; Medical wears green on a curated-tropical planet — the deliberate cross-pattern). **Confirmed.**
-11. **[OPEN]** Or refine: forest green (more vegetation-coded), moss green (more organic), sage green (lighter, more medicinal). Olive is the most institutional.
+11. **[ANSWERED]** Refinement: **dark olive** stands (the most institutional option).
 
 ### The Frontier arm — deep rust with weathered bronze
 
 12. **[ANSWERED]** Confirm: deep rust (the color of iron exposed to atmosphere, of pipework, of frontier industrial texture) with weathered bronze accents (older-era metal, statues outside for centuries, artifacts buried and recovered). **Confirmed.**
-13. **[OPEN]** Or refine: deep ochre (more golden), terracotta (warmer, more pottery-coded), umber (darker, more brown than red). Rust is the most industrial.
-14. **[OPEN]** Featured regional governor's local accents — does his territory carry a specific regional emblem or material woven into his rust-and-bronze (a piece of local stone, a regional pattern)?
+13. **[ANSWERED]** Refinement: **deep rust** stands (the most industrial option).
+14. **[ANSWERED; Author-decided, pending review]** Raknir's regional emblem: a hereditary **city-key in weathered bronze** — thematically exact for a prison-world (grip, mechanism, lock, succession); worked into House Vehl's insignia and the gate-architecture, possession of the key being the right to govern.
 
 ### The Communications arm — oxblood red with darkened pewter
 
 15. **[ANSWERED]** Confirm: oxblood red (the color of old leather, of bound books, of archive spines — authority and ink) with darkened pewter accents (intentionally less reflective than silver — the arm's culture is about being heard rather than seen). **Confirmed.**
-16. **[OPEN]** Or refine: maroon (more burgundy, slightly cheerful), wine (more aristocratic), burgundy (similar but warmer). Oxblood is the most institutional and least decorative.
+16. **[ANSWERED]** Refinement: **oxblood** stands (the most institutional, least decorative option).
 
 ### The four arms together — visual register
 
@@ -469,4 +475,4 @@ This is roughly 9 focused sessions of work to fully develop the cast and visual 
 
 *End of consolidated question document.*
 
-*Status: 152 questions answered, 14 partial, 56 open. Round One complete; Round Two substantially complete; Round Three closed out (Cyrus and Edric); Round Four Character 12 (Mother Hessa) substantially complete; Round Five (the Synedrion) substantially built; Round Six closed out (Aldric, Roderic, Cedric, Beatrice, Marcus, Lyra, Aurelan all developed); Round Eight items 1-2 resolved; Round Nine substantially complete. Only Round Seven (Lira's family and the Tywin daughter) and a few smaller items remain. See TARTAROS_CYCLE_BIBLE.md revision 0.13.*
+*Status: 216 questions answered, 0 partial, 6 open. A 58-answer batch resolved all remaining partials and every open item except Round Eight items 3–8 (Mouse's interiority, Thread B, world/Harvester/Federation names, the four arms' full names, the Successor, and book-one draft-two timing). Now complete or substantially so: Round One; Round Two (House Caradec — Tancred, Aubin, Ysabeau of House Tarsenne, Joscelin, Garin — locked in); Round Three (Cassian: The Andra Meridian, the two killed pieces, the leak); Round Four (Roan; Asham; the Nadya/Ivana two-friend structure; Hessa's names); Round Five (Aurelius/House Corvinus; Veliya; eighth seat; the Tholos); Round Six; Round Seven (Lira; Severine Vren); Round Eight items 1–2; Round Nine (the Vendine–Sisters pairing and the Veillance; House Orrel's silver heron; Raknir's bronze city-key; novice undyed linen; arm colours locked). Many resolutions are marked [Author-decided, pending review] where the author deferred. See TARTAROS_CYCLE_BIBLE.md revision 0.18.*

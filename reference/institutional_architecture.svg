@@ -1,0 +1,148 @@
+<svg width="100%" viewBox="0 0 680 720" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Tartaros Cycle institutional architecture">
+  <title>The Tartaros Cycle — Institutional Architecture</title>
+  <desc>Map showing the Homonoia's four arms below the Architect, the Synedrion's nine seats with the empty Keris chair, and the Keris bloodline outside the Hegemony.</desc>
+  <style>
+    .t { font: 14px sans-serif; fill: #2c2c2a; }
+    .ts { font: 12px sans-serif; fill: #5f5e5a; }
+    .th { font: 500 14px sans-serif; fill: #2c2c2a; }
+    .title { font: 500 18px sans-serif; fill: #2c2c2a; }
+    .section { font: 500 14px sans-serif; fill: #444441; }
+    .vendine { fill: #D3D1C7; stroke: #5F5E5A; }
+    .vendine-text { fill: #2C2C2A; }
+    .medical { fill: #C0DD97; stroke: #3B6D11; }
+    .medical-text { fill: #173404; }
+    .frontier { fill: #FAC775; stroke: #854F0B; }
+    .frontier-text { fill: #412402; }
+    .comms { fill: #F7C1C1; stroke: #A32D2D; }
+    .comms-text { fill: #501313; }
+    .architect { fill: #F5C4B3; stroke: #993C1D; }
+    .architect-text { fill: #4A1B0C; }
+    .synedrion { fill: #CECBF6; stroke: #534AB7; }
+    .synedrion-text { fill: #26215C; }
+    .keris { fill: #B5D4F4; stroke: #185FA5; }
+    .keris-text { fill: #042C53; }
+    .roan { fill: #9FE1CB; stroke: #0F6E56; }
+    .roan-text { fill: #04342C; }
+    .empty { fill: none; stroke: #888780; stroke-dasharray: 4 3; }
+    .empty-text { fill: #5F5E5A; }
+    .arrow { stroke: #5F5E5A; stroke-width: 0.5; fill: none; }
+  </style>
+
+  <text x="340" y="30" text-anchor="middle" class="title">The Hegemony — institutional architecture</text>
+
+  <!-- Architect -->
+  <rect x="260" y="60" width="160" height="56" rx="8" class="architect" stroke-width="0.5"/>
+  <text x="340" y="84" text-anchor="middle" class="th architect-text">Summum Xerxes</text>
+  <text x="340" y="102" text-anchor="middle" class="ts architect-text">The Architect</text>
+
+  <text x="340" y="135" text-anchor="middle" class="ts">coordinates four arms</text>
+
+  <!-- Four arms -->
+  <rect x="40" y="155" width="140" height="56" rx="8" class="vendine" stroke-width="0.5"/>
+  <text x="110" y="179" text-anchor="middle" class="th vendine-text">The Vendine</text>
+  <text x="110" y="197" text-anchor="middle" class="ts vendine-text">Defense — black, silver</text>
+
+  <rect x="200" y="155" width="140" height="56" rx="8" class="medical" stroke-width="0.5"/>
+  <text x="270" y="179" text-anchor="middle" class="th medical-text">The Medical</text>
+  <text x="270" y="197" text-anchor="middle" class="ts medical-text">Olive, brass</text>
+
+  <rect x="360" y="155" width="140" height="56" rx="8" class="frontier" stroke-width="0.5"/>
+  <text x="430" y="179" text-anchor="middle" class="th frontier-text">The Frontier</text>
+  <text x="430" y="197" text-anchor="middle" class="ts frontier-text">Rust, bronze</text>
+
+  <rect x="520" y="155" width="140" height="56" rx="8" class="comms" stroke-width="0.5"/>
+  <text x="590" y="179" text-anchor="middle" class="th comms-text">Communications</text>
+  <text x="590" y="197" text-anchor="middle" class="ts comms-text">Oxblood, pewter</text>
+
+  <line x1="340" y1="116" x2="110" y2="155" class="arrow"/>
+  <line x1="340" y1="116" x2="270" y2="155" class="arrow"/>
+  <line x1="340" y1="116" x2="430" y2="155" class="arrow"/>
+  <line x1="340" y1="116" x2="590" y2="155" class="arrow"/>
+
+  <!-- Mid-tier under each arm -->
+  <rect x="40" y="225" width="140" height="40" rx="6" class="vendine" stroke-width="0.5"/>
+  <text x="110" y="244" text-anchor="middle" class="ts vendine-text">Quintus Aemilius</text>
+  <text x="110" y="260" text-anchor="middle" class="ts vendine-text">Council Chair</text>
+
+  <rect x="40" y="275" width="140" height="40" rx="6" class="vendine" stroke-width="0.5"/>
+  <text x="110" y="294" text-anchor="middle" class="ts vendine-text">Bastien Orrel</text>
+  <text x="110" y="310" text-anchor="middle" class="ts vendine-text">Warden, Tartaros</text>
+
+  <rect x="200" y="225" width="140" height="40" rx="6" class="medical" stroke-width="0.5"/>
+  <text x="270" y="244" text-anchor="middle" class="ts medical-text">Aelia Mardin</text>
+  <text x="270" y="260" text-anchor="middle" class="ts medical-text">Director</text>
+
+  <rect x="200" y="275" width="140" height="40" rx="6" class="medical" stroke-width="0.5"/>
+  <text x="270" y="294" text-anchor="middle" class="ts medical-text">Professor Cyrus</text>
+  <text x="270" y="310" text-anchor="middle" class="ts medical-text">Senior researcher</text>
+
+  <rect x="360" y="225" width="140" height="40" rx="6" class="frontier" stroke-width="0.5"/>
+  <text x="430" y="244" text-anchor="middle" class="ts frontier-text">Edric</text>
+  <text x="430" y="260" text-anchor="middle" class="ts frontier-text">Senior coordinator</text>
+
+  <rect x="360" y="275" width="140" height="40" rx="6" class="frontier" stroke-width="0.5"/>
+  <text x="430" y="294" text-anchor="middle" class="ts frontier-text">Raknir Vehl</text>
+  <text x="430" y="310" text-anchor="middle" class="ts frontier-text">Regional governor</text>
+
+  <rect x="520" y="225" width="140" height="40" rx="6" class="comms" stroke-width="0.5"/>
+  <text x="590" y="244" text-anchor="middle" class="ts comms-text">Marella Vren</text>
+  <text x="590" y="260" text-anchor="middle" class="ts comms-text">Bureau Director</text>
+
+  <rect x="520" y="275" width="140" height="40" rx="6" class="comms" stroke-width="0.5"/>
+  <text x="590" y="294" text-anchor="middle" class="ts comms-text">Cassian Vren</text>
+  <text x="590" y="310" text-anchor="middle" class="ts comms-text">Senior press editor</text>
+
+  <!-- Synedrion section -->
+  <text x="340" y="365" text-anchor="middle" class="title">The Synedrion — beside the Architect, not below</text>
+  <text x="340" y="383" text-anchor="middle" class="ts">nine seats, eight filled, the ninth empty for two centuries</text>
+
+  <rect x="40" y="405" width="190" height="44" rx="8" class="synedrion" stroke-width="0.5"/>
+  <text x="135" y="424" text-anchor="middle" class="ts synedrion-text">Mother Hessa</text>
+  <text x="135" y="440" text-anchor="middle" class="ts synedrion-text">Sisters of the Long Patience</text>
+
+  <rect x="245" y="405" width="190" height="44" rx="8" class="synedrion" stroke-width="0.5"/>
+  <text x="340" y="424" text-anchor="middle" class="ts synedrion-text">Order of the Just Reading</text>
+  <text x="340" y="440" text-anchor="middle" class="ts synedrion-text">Second religious seat</text>
+
+  <rect x="450" y="405" width="190" height="44" rx="8" class="synedrion" stroke-width="0.5"/>
+  <text x="545" y="424" text-anchor="middle" class="ts synedrion-text">Aurelius</text>
+  <text x="545" y="440" text-anchor="middle" class="ts synedrion-text">Old Houses, Xerxes's cousin</text>
+
+  <rect x="40" y="459" width="190" height="44" rx="8" class="synedrion" stroke-width="0.5"/>
+  <text x="135" y="478" text-anchor="middle" class="ts synedrion-text">Mistress Veliya</text>
+  <text x="135" y="494" text-anchor="middle" class="ts synedrion-text">Healers — older tradition</text>
+
+  <rect x="245" y="459" width="190" height="44" rx="8" class="synedrion" stroke-width="0.5"/>
+  <text x="340" y="478" text-anchor="middle" class="ts synedrion-text">Universities</text>
+  <text x="340" y="494" text-anchor="middle" class="ts synedrion-text">Intellectual continuity</text>
+
+  <rect x="450" y="459" width="190" height="44" rx="8" class="synedrion" stroke-width="0.5"/>
+  <text x="545" y="478" text-anchor="middle" class="ts synedrion-text">Retired Officers</text>
+  <text x="545" y="494" text-anchor="middle" class="ts synedrion-text">Institutional memory</text>
+
+  <rect x="40" y="513" width="190" height="44" rx="8" class="synedrion" stroke-width="0.5"/>
+  <text x="135" y="532" text-anchor="middle" class="ts synedrion-text">Mercantile Guilds</text>
+  <text x="135" y="548" text-anchor="middle" class="ts synedrion-text">Pre-conglomerate commerce</text>
+
+  <rect x="245" y="513" width="190" height="44" rx="8" class="synedrion" stroke-width="0.5"/>
+  <text x="340" y="532" text-anchor="middle" class="ts synedrion-text">Frontier Worlds</text>
+  <text x="340" y="548" text-anchor="middle" class="ts synedrion-text">Populations, not governors</text>
+
+  <rect x="450" y="513" width="190" height="44" rx="8" class="empty" stroke-width="0.5"/>
+  <text x="545" y="532" text-anchor="middle" class="ts empty-text">The empty chair</text>
+  <text x="545" y="548" text-anchor="middle" class="ts empty-text">Keris seat, never reassigned</text>
+
+  <!-- Outside Hegemony -->
+  <text x="340" y="595" text-anchor="middle" class="title">Outside the Hegemony</text>
+
+  <rect x="80" y="615" width="220" height="56" rx="8" class="keris" stroke-width="0.5"/>
+  <text x="190" y="639" text-anchor="middle" class="th keris-text">The Keris bloodline</text>
+  <text x="190" y="657" text-anchor="middle" class="ts keris-text">Imir, Kazimir, Milana, Ivana</text>
+
+  <rect x="380" y="615" width="220" height="56" rx="8" class="roan" stroke-width="0.5"/>
+  <text x="490" y="639" text-anchor="middle" class="th roan-text">The Roan</text>
+  <text x="490" y="657" text-anchor="middle" class="ts roan-text">Andra Prime lower terraces</text>
+
+  <path d="M450 513 Q 380 580 250 615" class="arrow" stroke-dasharray="3 3"/>
+  <text x="335" y="585" text-anchor="middle" class="ts">the chair waits</text>
+</svg>

@@ -1,0 +1,140 @@
+{
+  "folders": [
+    {
+      "name": "Tartaros Cycle",
+      "path": "."
+    },
+    {
+      "name": "Bible (canonical)",
+      "path": "./bible"
+    },
+    {
+      "name": "Book One",
+      "path": "./book_one"
+    },
+    {
+      "name": "Book Two (drafting)",
+      "path": "./book_two"
+    },
+    {
+      "name": "Book Three (notes)",
+      "path": "./book_three"
+    }
+  ],
+  "settings": {
+    "editor.wordWrap": "on",
+    "editor.wrappingIndent": "same",
+    "editor.lineNumbers": "off",
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 15,
+    "editor.lineHeight": 1.6,
+    "editor.fontFamily": "Iowan Old Style, Georgia, 'New York', Charter, serif",
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.renderWhitespace": "none",
+    "editor.guides.indentation": false,
+    "editor.guides.bracketPairs": false,
+    "editor.padding.top": 24,
+    "editor.padding.bottom": 24,
+    "editor.scrollBeyondLastLine": true,
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.startupEditor": "readme",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "files.trimTrailingWhitespace": false,
+    "files.insertFinalNewline": true,
+    "[markdown]": {
+      "editor.quickSuggestions": {
+        "comments": "off",
+        "strings": "off",
+        "other": "off"
+      },
+      "editor.suggest.showWords": false,
+      "editor.tabSize": 2,
+      "editor.formatOnSave": false
+    },
+    "search.exclude": {
+      "**/build": true,
+      "**/dist": true,
+      "**/scratch": true,
+      "**/.git": true
+    },
+    "cSpell.words": [
+      "Adjudicate",
+      "Aelia",
+      "Aemilius",
+      "Aldric",
+      "Amar",
+      "Andra",
+      "Asham",
+      "Atticus",
+      "Aurelan",
+      "Aurelius",
+      "Bastien",
+      "Beatrice",
+      "Calderon",
+      "Camille",
+      "Carnay",
+      "Cassian",
+      "Cedric",
+      "Chayne",
+      "Cresswell",
+      "Cyrus",
+      "Davour",
+      "Edric",
+      "Hegemony",
+      "Hessa",
+      "Homonoia",
+      "Iudicarium",
+      "Ivana",
+      "Kazimir",
+      "Keris",
+      "Kester",
+      "Korya",
+      "Lavinia",
+      "Lira",
+      "Lucan",
+      "Lyra",
+      "Mardin",
+      "Marella",
+      "Mathilde",
+      "Mireille",
+      "Mlankatech",
+      "Nimi",
+      "Octavia",
+      "Orrel",
+      "PGLUM",
+      "Pira",
+      "Quintus",
+      "Raknir",
+      "Resh",
+      "Roan",
+      "Roderic",
+      "Sable",
+      "Sevra",
+      "Sirenne",
+      "Soraya",
+      "Summum",
+      "Synedrion",
+      "Tartaros",
+      "Tessine",
+      "Vehl",
+      "Veliya",
+      "Vendine",
+      "Vorlith",
+      "Vren",
+      "Xerxes",
+      "Yenna"
+    ]
+  },
+  "extensions": {
+    "recommendations": [
+      "yzhang.markdown-all-in-one",
+      "shd101wyy.markdown-preview-enhanced",
+      "ms-vscode.wordcount",
+      "streetsidesoftware.code-spell-checker",
+      "eamodio.gitlens",
+      "bierner.markdown-mermaid"
+    ]
+  }
+}
