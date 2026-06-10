@@ -1,0 +1,213 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <radialGradient id="spaceBg" cx="50%" cy="28%" r="92%">
+      <stop offset="0%" stop-color="#0c2030"/>
+      <stop offset="42%" stop-color="#07131f"/>
+      <stop offset="100%" stop-color="#02060a"/>
+    </radialGradient>
+
+    <radialGradient id="koryaBody" cx="40%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#d6e4ec"/>
+      <stop offset="32%" stop-color="#9db6c6"/>
+      <stop offset="68%" stop-color="#4a6678"/>
+      <stop offset="100%" stop-color="#0a1822"/>
+    </radialGradient>
+
+    <radialGradient id="koryaTerminator" cx="62%" cy="58%" r="62%">
+      <stop offset="0%" stop-color="#02060a" stop-opacity="0"/>
+      <stop offset="62%" stop-color="#02060a" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#02060a" stop-opacity="0.8"/>
+    </radialGradient>
+
+    <linearGradient id="aurora" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#6fd0b0" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#6fd0b0" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#7fb0c8" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="haze" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#7fb0c8" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#2a4a60" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#04101a" stop-opacity="0.66"/>
+    </linearGradient>
+
+    <linearGradient id="titleFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#eef5fa"/>
+      <stop offset="40%" stop-color="#bcccd8"/>
+      <stop offset="80%" stop-color="#5f7d96"/>
+      <stop offset="100%" stop-color="#1c3242"/>
+    </linearGradient>
+
+    <linearGradient id="iceAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3a5d72" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#9fc6dc"/>
+      <stop offset="100%" stop-color="#3a5d72" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="caveGlow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#c89048" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#1a0f06" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+
+    <filter id="grain" x="0%" y="0%" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="2.2" numOctaves="3" seed="23"/>
+      <feColorMatrix values="0 0 0 0 0.42
+                             0 0 0 0 0.55
+                             0 0 0 0 0.66
+                             0 0 0 0.06 0"/>
+    </filter>
+
+    <filter id="titleShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="2.5"/>
+      <feOffset dx="0" dy="5" result="shadow"/>
+      <feFlood flood-color="#020608" flood-opacity="0.95"/>
+      <feComposite in2="shadow" operator="in"/>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <pattern id="stars" x="0" y="0" width="240" height="240" patternUnits="userSpaceOnUse">
+      <circle cx="20" cy="40" r="0.7" fill="#dff" opacity="0.6"/>
+      <circle cx="80" cy="20" r="0.4" fill="#fff" opacity="0.4"/>
+      <circle cx="150" cy="80" r="0.9" fill="#cfe6f4" opacity="0.5"/>
+      <circle cx="200" cy="160" r="0.4" fill="#fff" opacity="0.35"/>
+      <circle cx="50" cy="150" r="0.55" fill="#fff" opacity="0.45"/>
+      <circle cx="120" cy="180" r="0.45" fill="#cfe6f4" opacity="0.4"/>
+      <circle cx="35" cy="100" r="0.35" fill="#fff" opacity="0.3"/>
+      <circle cx="100" cy="120" r="0.6" fill="#fff" opacity="0.45"/>
+      <circle cx="180" cy="50" r="0.35" fill="#fff" opacity="0.3"/>
+      <circle cx="220" cy="220" r="0.5" fill="#dff" opacity="0.4"/>
+    </pattern>
+
+    <radialGradient id="vignette" cx="50%" cy="50%" r="80%">
+      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.72"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="800" height="1200" fill="url(#spaceBg)"/>
+  <rect width="800" height="1200" fill="url(#stars)" opacity="0.5"/>
+
+  <!-- KORYA — the cold world that hides what it keeps -->
+  <g>
+    <circle cx="400" cy="190" r="520" fill="url(#koryaBody)" opacity="0.18"/>
+    <circle cx="400" cy="130" r="395" fill="url(#koryaBody)"/>
+    <!-- ice banding -->
+    <ellipse cx="400" cy="70" rx="380" ry="10" fill="#e8f2f8" opacity="0.30"/>
+    <ellipse cx="400" cy="120" rx="392" ry="8" fill="#2c4456" opacity="0.35"/>
+    <ellipse cx="400" cy="175" rx="384" ry="12" fill="#dceaf2" opacity="0.22"/>
+    <ellipse cx="400" cy="230" rx="368" ry="9" fill="#243a4a" opacity="0.40"/>
+    <ellipse cx="400" cy="285" rx="350" ry="12" fill="#cfe0ea" opacity="0.18"/>
+    <ellipse cx="400" cy="345" rx="320" ry="9" fill="#1c2e3c" opacity="0.42"/>
+    <ellipse cx="400" cy="405" rx="280" ry="8" fill="#cfe0ea" opacity="0.15"/>
+    <!-- polar cap -->
+    <ellipse cx="392" cy="-150" rx="220" ry="300" fill="#eef6fb" opacity="0.22"/>
+    <!-- the single warm glimmer: the hidden cave-city, betrayed by one point of heat -->
+    <circle cx="470" cy="300" r="3" fill="#ffce8a" opacity="0.9"/>
+    <circle cx="470" cy="300" r="8" fill="#f0a64a" opacity="0.3"/>
+    <circle cx="470" cy="300" r="16" fill="#c87a30" opacity="0.12"/>
+    <!-- terminator: the world turning into its own night -->
+    <circle cx="400" cy="130" r="395" fill="url(#koryaTerminator)"/>
+  </g>
+
+  <!-- AURORA — cold curtains veiling the world -->
+  <g opacity="0.45" filter="url(#soft)">
+    <path d="M -50 250 Q 250 180 450 260 T 850 240 L 850 430 Q 500 360 250 440 T -50 410 Z" fill="url(#aurora)"/>
+    <path d="M -50 340 Q 300 290 600 350 T 850 330 L 850 470 Q 500 420 200 470 T -50 450 Z" fill="url(#aurora)" opacity="0.6"/>
+  </g>
+
+  <rect x="0" y="500" width="800" height="700" fill="url(#haze)"/>
+
+  <!-- TUNDRA SURFACE -->
+  <path d="M 0 705 Q 200 690 400 700 T 800 705 L 800 1200 L 0 1200 Z" fill="#22343f"/>
+  <path d="M 0 760 L 90 752 L 160 766 L 240 756 L 340 770 L 430 758 L 540 772 L 640 760 L 740 774 L 800 766 L 800 1200 L 0 1200 Z" fill="#16242e" opacity="0.96"/>
+
+  <!-- MOUNTAIN SETTLEMENT — small, primitive-looking, deceptive -->
+  <g>
+    <!-- distant lesser peaks -->
+    <g fill="#0e1a22">
+      <path d="M 60 770 L 120 700 L 180 770 Z"/>
+      <path d="M 150 772 L 205 715 L 260 772 Z"/>
+      <path d="M 560 772 L 620 705 L 680 772 Z"/>
+      <path d="M 650 770 L 710 720 L 770 770 Z"/>
+    </g>
+    <!-- central massif: mountains hiding the cave-city -->
+    <path d="M 250 775 L 360 600 L 430 690 L 500 560 L 600 775 Z" fill="#0a141b"/>
+    <path d="M 250 775 L 360 600 L 430 690 L 500 560 L 600 775 Z" fill="#1a2c38" opacity="0.35"/>
+    <!-- snow on the ridgelines -->
+    <path d="M 360 600 L 388 636 L 372 642 L 348 622 Z" fill="#dfeef6" opacity="0.5"/>
+    <path d="M 500 560 L 532 602 L 512 610 L 484 584 Z" fill="#dfeef6" opacity="0.5"/>
+    <!-- a few cool dwelling-lights set into the mountain -->
+    <g fill="#bfe0ef">
+      <rect x="372" y="690" width="3" height="5" opacity="0.8"/>
+      <rect x="400" y="710" width="3" height="5" opacity="0.6"/>
+      <rect x="432" y="700" width="3" height="5" opacity="0.75"/>
+      <rect x="460" y="725" width="3" height="5" opacity="0.55"/>
+      <rect x="416" y="735" width="3" height="5" opacity="0.5"/>
+      <rect x="386" y="722" width="3" height="5" opacity="0.6"/>
+    </g>
+    <path d="M 0 930 L 90 916 L 180 926 L 270 912 L 360 924 L 450 910 L 540 922 L 630 908 L 720 920 L 800 910 L 800 1200 L 0 1200 Z" fill="#040a0e"/>
+  </g>
+
+  <!-- LAYERS BENEATH — the warm hidden civilization (cold above, warm below) -->
+  <g opacity="0.6">
+    <ellipse cx="400" cy="1075" rx="300" ry="64" fill="url(#caveGlow)"/>
+    <g stroke="#7a5024" stroke-width="0.5" fill="none" opacity="0.55">
+      <path d="M 250 1015 Q 400 1000 550 1015"/>
+      <path d="M 215 1055 Q 400 1038 585 1055"/>
+      <path d="M 185 1095 Q 400 1078 615 1095"/>
+      <line x1="320" y1="1005" x2="320" y2="1110"/>
+      <line x1="400" y1="998" x2="400" y2="1118"/>
+      <line x1="480" y1="1005" x2="480" y2="1110"/>
+    </g>
+    <circle cx="400" cy="1072" r="3" fill="#e0a04a" opacity="0.7"/>
+    <circle cx="400" cy="1072" r="9" fill="#e0a04a" opacity="0.2"/>
+    <circle cx="338" cy="1052" r="1.6" fill="#e0a04a" opacity="0.55"/>
+    <circle cx="470" cy="1058" r="1.6" fill="#e0a04a" opacity="0.5"/>
+  </g>
+
+  <!-- TYPOGRAPHY -->
+  <g transform="translate(400, 92)">
+    <line x1="-200" y1="0" x2="-65" y2="0" stroke="#3f6378" stroke-width="0.6"/>
+    <line x1="65" y1="0" x2="200" y2="0" stroke="#3f6378" stroke-width="0.6"/>
+    <g fill="#6f97ac">
+      <path d="M -55 0 L -50 -4 L -45 0 L -50 4 Z"/>
+      <path d="M 55 0 L 50 -4 L 45 0 L 50 4 Z"/>
+    </g>
+    <text x="0" y="5" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+          font-size="11" font-style="italic" letter-spacing="7" fill="#8fb2c4">A NOVEL OF THE OUTER HEGEMONY</text>
+  </g>
+
+  <text x="400" y="150" text-anchor="middle" font-family="Georgia, serif"
+        font-size="17" letter-spacing="16" fill="#aecbdc" font-weight="300">PIRA</text>
+
+  <!-- MAIN TITLE -->
+  <g transform="translate(400, 1000)" filter="url(#titleShadow)">
+    <text x="0" y="-95" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+          font-size="30" letter-spacing="22" fill="#9db6c6" font-style="italic" font-weight="300">THE</text>
+    <text x="0" y="-32" text-anchor="middle" font-family="'Trajan Pro', 'Cinzel', Georgia, serif"
+          font-size="100" letter-spacing="10" fill="url(#titleFill)" font-weight="900">WARD</text>
+    <text x="0" y="22" text-anchor="middle" font-family="Georgia, serif"
+          font-size="24" letter-spacing="10" fill="#6f93a8" font-style="italic">of</text>
+    <text x="0" y="88" text-anchor="middle" font-family="'Trajan Pro', 'Cinzel', Georgia, serif"
+          font-size="90" letter-spacing="18" fill="url(#titleFill)" font-weight="900">KORYA</text>
+  </g>
+
+  <g transform="translate(400, 1115)">
+    <line x1="-180" y1="0" x2="180" y2="0" stroke="url(#iceAccent)" stroke-width="1.2"/>
+    <circle cx="0" cy="0" r="3" fill="#9fc6dc"/>
+    <circle cx="-30" cy="0" r="1.5" fill="#4a6678" opacity="0.8"/>
+    <circle cx="30" cy="0" r="1.5" fill="#4a6678" opacity="0.8"/>
+  </g>
+
+  <text x="400" y="1155" text-anchor="middle" font-family="Georgia, serif"
+        font-size="10" letter-spacing="9" fill="#5f88a0" font-style="italic">BOOK TWO OF THE TARTAROS CYCLE</text>
+  <text x="400" y="1180" text-anchor="middle" font-family="Georgia, serif"
+        font-size="9" letter-spacing="5" fill="#42647a" opacity="0.9">THE COLD KEEPS ITS OWN</text>
+
+  <rect width="800" height="1200" filter="url(#grain)" opacity="0.5"/>
+  <rect width="800" height="1200" fill="url(#vignette)"/>
+</svg>

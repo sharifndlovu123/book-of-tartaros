@@ -1,0 +1,196 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <radialGradient id="hallBg" cx="50%" cy="40%" r="95%">
+      <stop offset="0%" stop-color="#10151c"/>
+      <stop offset="45%" stop-color="#090c11"/>
+      <stop offset="100%" stop-color="#020304"/>
+    </radialGradient>
+
+    <linearGradient id="shaft" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#dce8f0" stop-opacity="0.30"/>
+      <stop offset="55%" stop-color="#a9c2d2" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#a9c2d2" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="seatGlow" cx="50%" cy="42%" r="60%">
+      <stop offset="0%" stop-color="#9fc6dc" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#9fc6dc" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="slabGlow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#c9a14a" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#1a1206" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="haze" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1a2630" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#020304" stop-opacity="0.7"/>
+    </linearGradient>
+
+    <linearGradient id="titleFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#eef1f4"/>
+      <stop offset="42%" stop-color="#c4cad2"/>
+      <stop offset="82%" stop-color="#6c7682"/>
+      <stop offset="100%" stop-color="#1e242c"/>
+    </linearGradient>
+
+    <linearGradient id="goldAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5a4a22" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#cBA75a"/>
+      <stop offset="100%" stop-color="#5a4a22" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+
+    <filter id="grain" x="0%" y="0%" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="2.2" numOctaves="3" seed="37"/>
+      <feColorMatrix values="0 0 0 0 0.5
+                             0 0 0 0 0.52
+                             0 0 0 0 0.56
+                             0 0 0 0.06 0"/>
+    </filter>
+
+    <filter id="titleShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="2.5"/>
+      <feOffset dx="0" dy="5" result="shadow"/>
+      <feFlood flood-color="#010203" flood-opacity="0.95"/>
+      <feComposite in2="shadow" operator="in"/>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <pattern id="motes" x="0" y="0" width="260" height="260" patternUnits="userSpaceOnUse">
+      <circle cx="30" cy="60" r="0.6" fill="#cfe0ea" opacity="0.35"/>
+      <circle cx="110" cy="30" r="0.4" fill="#fff" opacity="0.25"/>
+      <circle cx="180" cy="100" r="0.7" fill="#cfe0ea" opacity="0.3"/>
+      <circle cx="220" cy="180" r="0.4" fill="#fff" opacity="0.2"/>
+      <circle cx="70" cy="170" r="0.5" fill="#cfe0ea" opacity="0.28"/>
+      <circle cx="150" cy="210" r="0.45" fill="#fff" opacity="0.22"/>
+    </pattern>
+
+    <radialGradient id="vignette" cx="50%" cy="46%" r="78%">
+      <stop offset="50%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.8"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="800" height="1200" fill="url(#hallBg)"/>
+  <rect width="800" height="1200" fill="url(#motes)" opacity="0.5"/>
+
+  <!-- THE THOLOS — the round hall, older than the Homonoia -->
+  <g stroke="#1c252e" stroke-width="1" fill="none" opacity="0.7">
+    <ellipse cx="400" cy="250" rx="470" ry="150"/>
+    <ellipse cx="400" cy="250" rx="360" ry="112"/>
+    <ellipse cx="400" cy="250" rx="250" ry="78"/>
+  </g>
+  <!-- low ceiling shadow -->
+  <path d="M 0 0 L 800 0 L 800 110 Q 400 180 0 110 Z" fill="#02040a" opacity="0.5"/>
+
+  <!-- shaft of cold light falling on the vacant seat -->
+  <polygon points="350,70 450,70 520,640 280,640" fill="url(#shaft)" filter="url(#soft)"/>
+
+  <!-- floor of the circular hall (perspective) -->
+  <ellipse cx="400" cy="600" rx="350" ry="120" fill="#0d1117"/>
+  <ellipse cx="400" cy="600" rx="350" ry="120" fill="none" stroke="#222c36" stroke-width="1.5" opacity="0.6"/>
+  <ellipse cx="400" cy="600" rx="250" ry="84" fill="none" stroke="#1a232c" stroke-width="1" opacity="0.5"/>
+
+  <!-- central stone slab: the Synedrion's records -->
+  <ellipse cx="400" cy="592" rx="90" ry="30" fill="url(#slabGlow)"/>
+  <rect x="352" y="566" width="96" height="26" rx="3" fill="#15191f"/>
+  <rect x="352" y="566" width="96" height="8" rx="3" fill="#222a32"/>
+  <rect x="372" y="572" width="56" height="3" fill="#c9a14a" opacity="0.5"/>
+
+  <!-- EIGHT OCCUPIED SEATS around the ring (each different; a faint presence in each) -->
+  <g>
+    <!-- back row (further, smaller) -->
+    <g opacity="0.9">
+      <ellipse cx="300" cy="498" rx="13" ry="18" fill="#5f7d96" opacity="0.16"/>
+      <rect x="289" y="470" width="22" height="40" fill="#0c1016"/><rect x="287" y="508" width="26" height="6" fill="#0c1016"/>
+      <ellipse cx="360" cy="486" rx="12" ry="17" fill="#5f7d96" opacity="0.15"/>
+      <rect x="350" y="458" width="20" height="40" fill="#0b0f14"/><rect x="348" y="496" width="24" height="6" fill="#0b0f14"/>
+      <ellipse cx="440" cy="486" rx="12" ry="17" fill="#5f7d96" opacity="0.15"/>
+      <rect x="430" y="458" width="20" height="40" fill="#0b0f14"/><rect x="428" y="496" width="24" height="6" fill="#0b0f14"/>
+      <ellipse cx="500" cy="498" rx="13" ry="18" fill="#5f7d96" opacity="0.16"/>
+      <rect x="489" y="470" width="22" height="40" fill="#0c1016"/><rect x="487" y="508" width="26" height="6" fill="#0c1016"/>
+    </g>
+    <!-- sides -->
+    <g>
+      <ellipse cx="178" cy="556" rx="15" ry="20" fill="#5f7d96" opacity="0.16"/>
+      <rect x="166" y="524" width="24" height="46" fill="#0d1117"/><rect x="163" y="568" width="30" height="7" fill="#0d1117"/>
+      <ellipse cx="622" cy="556" rx="15" ry="20" fill="#5f7d96" opacity="0.16"/>
+      <rect x="610" y="524" width="24" height="46" fill="#0d1117"/><rect x="607" y="568" width="30" height="7" fill="#0d1117"/>
+    </g>
+    <!-- near corners (larger) -->
+    <g>
+      <ellipse cx="232" cy="648" rx="17" ry="23" fill="#5f7d96" opacity="0.15"/>
+      <rect x="218" y="610" width="28" height="52" fill="#0e1218"/><rect x="214" y="660" width="36" height="8" fill="#0e1218"/>
+      <ellipse cx="568" cy="648" rx="17" ry="23" fill="#5f7d96" opacity="0.15"/>
+      <rect x="554" y="610" width="28" height="52" fill="#0e1218"/><rect x="550" y="660" width="36" height="8" fill="#0e1218"/>
+    </g>
+  </g>
+
+  <!-- THE EMPTY CHAIR — the Keris seat, vacant two centuries, lit and distinct -->
+  <g>
+    <ellipse cx="400" cy="600" rx="60" ry="40" fill="url(#seatGlow)"/>
+    <!-- tall, slightly different high back -->
+    <path d="M 368 600 L 368 430 Q 368 392 400 380 Q 432 392 432 430 L 432 600 Z" fill="#121821"/>
+    <!-- lit face (shaft side) -->
+    <path d="M 400 380 Q 432 392 432 430 L 432 600 L 400 600 Z" fill="#1c2733"/>
+    <!-- inner empty shadow -->
+    <path d="M 380 590 L 380 432 Q 380 404 400 396 Q 420 404 420 432 L 420 590 Z" fill="#070a0e"/>
+    <!-- seat slab -->
+    <rect x="356" y="592" width="88" height="16" rx="2" fill="#161d26"/>
+    <rect x="356" y="592" width="88" height="5" rx="2" fill="#243140"/>
+    <!-- legs -->
+    <rect x="364" y="606" width="9" height="46" fill="#0e141b"/>
+    <rect x="427" y="606" width="9" height="46" fill="#0e141b"/>
+    <!-- cold edge-light: the seat about to be claimed -->
+    <path d="M 368 600 L 368 430 Q 368 392 400 380" fill="none" stroke="#9fc6dc" stroke-width="2" opacity="0.85"/>
+    <path d="M 356 593 L 444 593" stroke="#9fc6dc" stroke-width="1.4" opacity="0.7"/>
+    <circle cx="400" cy="384" r="2.5" fill="#cfe6f4" opacity="0.9"/>
+    <circle cx="400" cy="384" r="7" fill="#9fc6dc" opacity="0.25"/>
+  </g>
+
+  <rect x="0" y="640" width="800" height="560" fill="url(#haze)"/>
+
+  <!-- TYPOGRAPHY -->
+  <g transform="translate(400, 92)">
+    <line x1="-200" y1="0" x2="-65" y2="0" stroke="#6a5a30" stroke-width="0.6"/>
+    <line x1="65" y1="0" x2="200" y2="0" stroke="#6a5a30" stroke-width="0.6"/>
+    <g fill="#9a8240">
+      <path d="M -55 0 L -50 -4 L -45 0 L -50 4 Z"/>
+      <path d="M 55 0 L 50 -4 L 45 0 L 50 4 Z"/>
+    </g>
+    <text x="0" y="5" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+          font-size="11" font-style="italic" letter-spacing="7" fill="#b6a36a">A NOVEL OF THE OUTER HEGEMONY</text>
+  </g>
+
+  <text x="400" y="150" text-anchor="middle" font-family="Georgia, serif"
+        font-size="17" letter-spacing="14" fill="#cbb885" font-weight="300">MOTHER HESSA</text>
+
+  <!-- MAIN TITLE -->
+  <g transform="translate(400, 1000)" filter="url(#titleShadow)">
+    <text x="0" y="-92" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
+          font-size="30" letter-spacing="24" fill="#9aa2ac" font-style="italic" font-weight="300">THE</text>
+    <text x="0" y="-22" text-anchor="middle" font-family="'Trajan Pro', 'Cinzel', Georgia, serif"
+          font-size="92" letter-spacing="14" fill="url(#titleFill)" font-weight="900">EMPTY</text>
+    <text x="0" y="74" text-anchor="middle" font-family="'Trajan Pro', 'Cinzel', Georgia, serif"
+          font-size="92" letter-spacing="20" fill="url(#titleFill)" font-weight="900">CHAIR</text>
+  </g>
+
+  <g transform="translate(400, 1115)">
+    <line x1="-180" y1="0" x2="180" y2="0" stroke="url(#goldAccent)" stroke-width="1.2"/>
+    <circle cx="0" cy="0" r="3" fill="#cBA75a"/>
+    <circle cx="-30" cy="0" r="1.5" fill="#6a5a30" opacity="0.8"/>
+    <circle cx="30" cy="0" r="1.5" fill="#6a5a30" opacity="0.8"/>
+  </g>
+
+  <text x="400" y="1155" text-anchor="middle" font-family="Georgia, serif"
+        font-size="10" letter-spacing="9" fill="#8a7740" font-style="italic">BOOK THREE OF THE TARTAROS CYCLE</text>
+  <text x="400" y="1180" text-anchor="middle" font-family="Georgia, serif"
+        font-size="9" letter-spacing="5" fill="#6a5a30" opacity="0.9">THE SEAT WAS NEVER REASSIGNED</text>
+
+  <rect width="800" height="1200" filter="url(#grain)" opacity="0.5"/>
+  <rect width="800" height="1200" fill="url(#vignette)"/>
+</svg>
