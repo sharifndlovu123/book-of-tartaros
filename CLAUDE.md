@@ -35,7 +35,7 @@ Do not contradict these. If new work seems to, flag it and ask before proceeding
 
 Interior, slightly cool, attentive to institutional textures and character interiority. Avoid melodrama. Hold complications open rather than resolving them too cleanly. Do not reach for heroic gestures, assassin-daughter tropes, or neat redemption arcs — the bible documents the harder, truer choices.
 
-**Dialogue:** follow **`bible/DIALOGUE_STYLE.md`** before drafting or revising any scene with people in it. It anchors on the Martin model (class/culture-marked idiolect, POV-colored close-third narration, wit-as-armor) with a no-phonetic-spelling rule, and includes per-character **voice cards** (Xerxes, Marella, Bastien, Quintus, Sable, Kester, Hessa, Cassian, Kazimir, Roan) plus mechanics and before/after examples. The cover-the-tags test: if you can't tell who's speaking with the tags removed, the line is wrong.
+**Dialogue:** follow **`bible/DIALOGUE_STYLE.md`** before drafting or revising any scene with people in it. It anchors on the Martin model (class/culture-marked idiolect, POV-colored close-third narration, wit-as-armor) with a no-phonetic-spelling rule, and includes per-character **voice cards** — the ten principal voices in full (Xerxes, Marella, Bastien, Quintus, Sable, Kester, Hessa, Cassian, Kazimir, Roan), plus condensed cards for the wider cast (Orrel/Aemilius/Caradec Vendine, the Asclepi & Limine figures, the Synedrion, the Keris, the resistance) — with mechanics and before/after examples. The cover-the-tags test: if you can't tell who's speaking with the tags removed, the line is wrong.
 
 **Naming registers:**
 - Latinate-Greek: senior aristocracy and institutional figures (Bastien, Aemilius, Aurelius, Quintus, Marcus)

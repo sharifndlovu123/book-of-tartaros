@@ -253,6 +253,144 @@ For each major character, fill:
 
 ---
 
+## Voice cards — the wider cast
+
+*Condensed cards (Voice / Refuses / Under pressure & humor / Signature). The full
+template above is reserved for the ten principal voices; expand any of these as the
+character earns more dialogue. Grounded in the Part II character entries.*
+
+### House Orrel & House Aemilius (Vendine)
+
+**Aldric Orrel — the dying patriarch.**
+- *Voice:* cold Vendine formality, sparse; disappointment delivered by omission, not attack; long silences that function as judgments.
+- *Refuses:* to praise Bastien; to speak of Mireille (46 years of buried grief); to name the favoritism.
+- *Pressure/humor:* colder and shorter; no humor.
+- *Signature:* *"Your brother understands what the house requires."*
+
+**Roderic Orrel — the favored heir.**
+- *Voice:* correct Vendine, in his father's image — but warmer the moment Aldric leaves the room; a private decency that leaks out as small honesty.
+- *Refuses:* to openly question the favoritism he profited from; to disown Bastien.
+- *Pressure/humor:* retreats into correctness; light, careful humor.
+- *Signature:* *"I won't pretend I earned it. But I won't burn it either."*
+
+**Aurelan Orrel — the internal dissenter.**
+- *Voice:* cadet-branch, scholarly; precise, interpretive; reads people and documents the same careful way.
+- *Refuses:* to say her reading aloud (until late); to comfort with the family myth.
+- *Pressure/humor:* steadier as it sharpens; dry.
+- *Signature:* *"It was an apology, Bastien. Not a blessing. You built a cathedral on a man's grief."*
+
+**Marcus Aemilius — the great warrior.**
+- *Voice:* plain, physical, concrete; a man who says little because the body says it; won't chase a subject.
+- *Refuses:* to discuss Bastien; to take a side; sentiment.
+- *Pressure/humor:* withdraws into silence/the colosseum; dry soldier's humor.
+- *Signature:* *"I fight. I don't make speeches about it."*
+
+**Lavinia Aemilius — the matriarch.**
+- *Voice:* high-social Vendine; voluble, warm, surface-bright; fills silences; assumes the best.
+- *Refuses:* to look hard at her sister; to see the dark under the family.
+- *Pressure/humor:* chatters more; easy social humor.
+- *Signature:* *"Octavia? Oh, she's the quiet one. She handles things."*
+
+**Octavia Aemilius — the hidden hand.**
+- *Voice:* institutionally invisible; minimal, exact; answers narrowly, volunteers nothing; an operator's calm.
+- *Refuses:* anything about her work; any warmth that could be traced.
+- *Pressure/humor:* unchanged — that is the warning; none.
+- *Signature:* *"I'll see to it."*
+
+**Tancred Caradec — the dissenting house head.**
+- *Voice:* Vendine, formal and hard; speaks of the *form* as a living thing; invokes his dead brother obliquely.
+- *Refuses:* to say it publicly (until book three); to debase the form.
+- *Pressure/humor:* austere, controlled; grim.
+- *Signature:* *"A warrior chooses the form. Those children chose nothing. That is not our way — it is the end of it."*
+
+### The Asclepi & the Limine (medical, frontier)
+
+**Aelia Mardin — Medical Director.**
+- *Voice:* cosmopolitan, clinical, diplomatic; the connector who has spoken to everyone; turns hard questions into procedure; looks away *in language*.
+- *Refuses:* her infertility and her husband's affairs; what the augmentation costs the children.
+- *Pressure/humor:* smoother and more clinical (composure is the tell); cool dry wit.
+- *Signature:* *"Let's not be dramatic. It's a procedure, and procedures have outcomes."*
+
+**Professor Cyrus — senior researcher.**
+- *Voice:* pre-Hegemony precision (a register-cousin to Xerxes); exact, qualified, weary; self-justifies — *without me it would be worse.*
+- *Refuses:* to name the dead children plainly; to admit the threat to his daughters governs him.
+- *Pressure/humor:* retreats into data and caveats; bleak academic dryness.
+- *Signature:* *"I have kept the records accurate. Someone should. Someone who minds."*
+
+**Edric — Frontier senior coordinator.**
+- *Voice:* managerial, evasive, built to deny; constructs plausible ignorance in real time; clipped and cold to his son, a hidden tenderness only for the married woman.
+- *Refuses:* to know more than he must; to show the one love he has.
+- *Pressure/humor:* more procedural — *that was below my level*; thin defensive humor.
+- *Signature:* *"I oversee the territories. I don't read every requisition. That's rather the point."*
+
+**Raknir Vehl — regional governor.**
+- *Voice:* frontier authority, controlled, weighty; the diplomat's polish from old trade work; the man who brings order.
+- *Refuses:* weakness; to fall fully under the syndicate.
+- *Pressure/humor:* lordly calm; dry.
+- *Signature:* *"This world ran on blood before I came. Now it runs on my word. Choose which you'd prefer."*
+
+**Atticus Vehl — the disavowed son.**
+- *Voice:* frontier-rough, cynical, honorless; blunt, mocking, transactional; needles authority.
+- *Refuses:* respect; his father's name with any warmth.
+- *Pressure/humor:* sharper, crueler; quick cruel humor.
+- *Signature:* *"My father keeps order. I keep the things order can't be seen touching."*
+
+### The Synedrion
+
+**Aurelius — Old Houses (House Corvinus).**
+- *Voice:* Latinate, scholarly, archival; allusive and periodic; cites papers and precedent; the cousin who could have been Summum, grief under the dryness.
+- *Refuses:* to claim the place he lost; to act until forced.
+- *Pressure/humor:* steadier, sadder; dry bookish wit.
+- *Signature:* *"My uncle chose Xerxes. I have spent thirty years deciding whether he was wrong. I have my answer now."*
+
+**Mistress Veliya — the Healer.**
+- *Voice:* the old healing tradition; plain, bodily, unhurried; older than Hessa and blunter about death; says the plain thing softly.
+- *Refuses:* the Medical arm's euphemisms; to pretend the split was ever legitimate.
+- *Pressure/humor:* unhurried; dry, earthy.
+- *Signature:* *"They call it a procedure. I have washed what their procedures leave. It has another name."*
+
+### The Keris of Korya
+
+**Imir — the grandfather.**
+- *Voice:* eldest Keris; slow, parable-shaped, the long view; answers with a lesson or a question; lets time argue for him.
+- *Refuses:* haste; to hate cleanly; to strike before the blow can be fatal.
+- *Pressure/humor:* *slower*, not faster; gentle ancient humor.
+- *Signature:* *"My grandfather was a slave. I am not. We did this once, slowly. We will do it once more."*
+
+**Kazimir's daughter — Ivana (~7).**
+- *Voice:* Keris child, fighter-trained; proud, blunt, literal; treats fighting as ordinary; corrects the outsider.
+- *Refuses:* softness; being told she's too small.
+- *Pressure/humor:* fiercer; hard kid's bravado.
+- *Signature:* *"Hold it like this. Not like that. You'll lose the hand you hold it wrong with."*
+
+**Nadya — Pira's best friend (9).**
+- *Voice:* ordinary Keris child; warm, chattering, kind; the caves are simply home; explains the world to Pira without weight.
+- *Refuses:* very little — she's the one place with no wall.
+- *Pressure/humor:* bright child's humor.
+- *Signature:* *"Everyone's scared of the dark down here at first. Then it's just home. You'll see."*
+
+**Pira — the ward (6 in book two).**
+- *Voice:* a child between two worlds; Keris dialect now, Compact memories fading; spare, watchful; grief surfaces sideways (the stuffed animal, the names she keeps).
+- *Refuses:* to talk about the crash directly; to call anyone *mother*.
+- *Pressure/humor:* goes quiet and still; small, rare, surprising humor.
+- *Signature:* *"Sable said she'd remember. Every day. So I do too."*
+
+### The resistance
+
+**Resh — Sable's protectee (18).**
+- *Voice:* near-silent; when he speaks, spare and raw; one short true sentence after long silence; speaks to Mouse when he won't speak to others.
+- *Refuses:* almost all speech; his grief, except sideways.
+- *Pressure/humor:* shuts down further; a rare dark flicker.
+- *Signature:* *(after a long silence)* *"I knew her. Before. I think I knew her."*
+
+**Mouse — the prototype (horror-object).**
+- *Voice:* programmed flatness; compliance-speech, literal, present-tense; repeats instructions; a near-human crack only when Resh is close.
+- *Refuses:* (cannot) — the programming refuses *for* her; the horror is what has been removed.
+- *Pressure/humor:* flatter, more compliant — until the single late POV beat where the conditioning wavers; no humor, and the absence is the point.
+- *Signature:* *"I am ready for the next instruction."* — and, once, off-script: *"…Resh."*
+
+---
+
 ## Before / after — the method in action
 
 **1. Quintus (patience, the declarative-question device, silence as instrument)**
