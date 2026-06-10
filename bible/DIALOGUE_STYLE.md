@@ -178,7 +178,7 @@ For each major character, fill:
 - **Register/origin:** Vendine, oldest formality; fifty years in council rooms.
 - **Diction:** spare, exact; the fewest words that will hold.
 - **Rhythm:** long silences, then one brief intervention that turns the room.
-- **Tics:** lets a question hang for hours so the answer carries the weight of having been waited for; speaks last.
+- **Tics:** lets a question hang for hours so the answer carries the weight of having been waited for; speaks last; answers with a single low grunt — *sparingly* — when a word would be one too many (a verdict you cannot argue with).
 - **Refuses:** to commit early; to show feeling; the lie he tells himself about the form.
 - **Humor:** almost none; the driest possible understatement.
 - **Under pressure:** *more* silent — silence is his instrument.
@@ -227,7 +227,7 @@ For each major character, fill:
 - **Humor:** the trilogy's wittiest voice — urbane, self-aware, a Tyrion register.
 - **Under pressure:** *more* flippant — until the one moment the wit fails and something true falls out.
 - **Others vs. self:** others read a wastrel; he is harder to move than anyone believes, and chose this life on purpose.
-- **Signature line:** *"You want me to risk my neck for the truth. I don't even risk it for breakfast."*
+- **Signature line:** *"I print the truth for a living. You'd be amazed how little of it survives the edit."*
 
 ### Kazimir — the Keris son
 - **Register/origin:** Keris (Slavic-register, communal, martial); raised to fight, raised in exile.
@@ -295,7 +295,7 @@ character earns more dialogue. Grounded in the Part II character entries.*
 - *Voice:* institutionally invisible; minimal, exact; answers narrowly, volunteers nothing; an operator's calm.
 - *Refuses:* anything about her work; any warmth that could be traced.
 - *Pressure/humor:* unchanged — that is the warning; none.
-- *Signature:* *"I'll see to it."*
+- *Signature:* *"I'll see to it."* — though more often, before you have finished asking: *"It's already done."* (what you need handled is in motion before the request leaves your mouth)
 
 **Tancred Caradec — the dissenting house head.**
 - *Voice:* Vendine, formal and hard; speaks of the *form* as a living thing; invokes his dead brother obliquely.
@@ -347,7 +347,7 @@ character earns more dialogue. Grounded in the Part II character entries.*
 - *Voice:* the old healing tradition; plain, bodily, unhurried; older than Hessa and blunter about death; says the plain thing softly.
 - *Refuses:* the Medical arm's euphemisms; to pretend the split was ever legitimate.
 - *Pressure/humor:* unhurried; dry, earthy.
-- *Signature:* *"They call it a procedure. I have washed what their procedures leave. It has another name."*
+- *Signature:* *"I have sat with more of the dying than they have of the living. I know what their medicine is for."*
 
 ### The Keris of Korya
 
@@ -387,7 +387,7 @@ character earns more dialogue. Grounded in the Part II character entries.*
 - *Voice:* programmed flatness; compliance-speech, literal, present-tense; repeats instructions; a near-human crack only when Resh is close.
 - *Refuses:* (cannot) — the programming refuses *for* her; the horror is what has been removed.
 - *Pressure/humor:* flatter, more compliant — until the single late POV beat where the conditioning wavers; no humor, and the absence is the point.
-- *Signature:* *"I am ready for the next instruction."* — and, once, off-script: *"…Resh."*
+- *Signature:* *"I don't have a name for that."* — and, once, off-script: *"…Resh."*
 
 ---
 
