@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <radialGradient id="hallBg" cx="50%" cy="40%" r="92%">
+      <stop offset="0%" stop-color="#10151c"/>
+      <stop offset="50%" stop-color="#090c11"/>
+      <stop offset="100%" stop-color="#020304"/>
+    </radialGradient>
+
+    <linearGradient id="horizonGlow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2a2410" stop-opacity="0"/>
+      <stop offset="60%" stop-color="#4a3a1a" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#050402" stop-opacity="0.4"/>
+    </linearGradient>
+
+    <radialGradient id="distantGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7a6028" stop-opacity="0.4"/>
+      <stop offset="60%" stop-color="#3a2e12" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#0a0804" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="goldAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5a4a22" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#cba75a"/>
+      <stop offset="100%" stop-color="#5a4a22" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="titleFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#eef1f4"/>
+      <stop offset="50%" stop-color="#c4cad2"/>
+      <stop offset="100%" stop-color="#6c7682"/>
+    </linearGradient>
+
+    <filter id="grain" x="0%" y="0%" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="2.2" numOctaves="3" seed="41"/>
+      <feColorMatrix values="0 0 0 0 0.5
+                             0 0 0 0 0.52
+                             0 0 0 0 0.56
+                             0 0 0 0.06 0"/>
+    </filter>
+
+    <pattern id="motes" x="0" y="0" width="260" height="260" patternUnits="userSpaceOnUse">
+      <circle cx="30" cy="60" r="0.6" fill="#cfe0ea" opacity="0.3"/>
+      <circle cx="110" cy="30" r="0.4" fill="#fff" opacity="0.22"/>
+      <circle cx="180" cy="100" r="0.6" fill="#cfe0ea" opacity="0.26"/>
+      <circle cx="220" cy="180" r="0.4" fill="#fff" opacity="0.2"/>
+      <circle cx="70" cy="170" r="0.5" fill="#cfe0ea" opacity="0.24"/>
+      <circle cx="150" cy="210" r="0.45" fill="#fff" opacity="0.2"/>
+    </pattern>
+  </defs>
+
+  <rect width="800" height="1200" fill="url(#hallBg)"/>
+  <rect width="800" height="1200" fill="url(#motes)" opacity="0.45"/>
+
+  <!-- faint distant motif: a lit, empty seat, upper-right -->
+  <circle cx="690" cy="120" r="240" fill="url(#distantGlow)" opacity="0.7"/>
+  <g stroke="#9fc6dc" stroke-width="1.4" fill="none" opacity="0.16" transform="translate(690,120) scale(0.9)">
+    <path d="M -16 50 L -16 -34 Q -16 -50 0 -56 Q 16 -50 16 -34 L 16 50 Z"/>
+    <path d="M -22 52 L 22 52"/>
+    <path d="M -14 56 L -14 78 M 14 56 L 14 78"/>
+  </g>
+
+  <rect x="0" y="900" width="800" height="300" fill="url(#horizonGlow)"/>
+
+  <!-- top ornament -->
+  <g transform="translate(400, 90)">
+    <line x1="-180" y1="0" x2="-50" y2="0" stroke="#6a5a30" stroke-width="0.6"/>
+    <line x1="50" y1="0" x2="180" y2="0" stroke="#6a5a30" stroke-width="0.6"/>
+    <g fill="#9a8240">
+      <path d="M -42 0 L -37 -4 L -32 0 L -37 4 Z"/>
+      <path d="M 42 0 L 37 -4 L 32 0 L 37 4 Z"/>
+    </g>
+    <text x="0" y="5" text-anchor="middle" font-family="Georgia, serif"
+          font-size="10" font-style="italic" letter-spacing="6" fill="#b6a36a">SCIENCE FICTION &#8226; THRILLER</text>
+  </g>
+
+  <!-- PULL QUOTE -->
+  <g transform="translate(400, 200)">
+    <text x="0" y="0" text-anchor="middle" font-family="Georgia, serif" font-size="27" font-style="italic" fill="#e8dcc0" font-weight="300">
+      <tspan x="0" dy="0">&#8220;There is a chair no one may fill.&#8221;</tspan>
+    </text>
+    <text x="0" y="42" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#cbb885" font-weight="300">
+      <tspan x="0" dy="0">&#8220;It has waited two hundred years.&#8221;</tspan>
+    </text>
+    <text x="0" y="74" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#9a8240" font-weight="300">
+      <tspan x="0" dy="0">&#8220;It will not wait much longer.&#8221;</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(400, 320)">
+    <line x1="-100" y1="0" x2="-15" y2="0" stroke="url(#goldAccent)" stroke-width="0.8"/>
+    <circle cx="0" cy="0" r="2.5" fill="#cba75a"/>
+    <line x1="15" y1="0" x2="100" y2="0" stroke="url(#goldAccent)" stroke-width="0.8"/>
+  </g>
+
+  <!-- BLURB -->
+  <g transform="translate(400, 380)" font-family="Georgia, 'Times New Roman', serif" fill="#cdc4ac">
+    <text x="0" y="0" text-anchor="middle" font-size="16">
+      <tspan x="0" dy="0">The Cleanse cannot stay buried forever. After decades of</tspan>
+      <tspan x="0" dy="26">silence, the evidence &#8212; testimony, papers, protocols, an</tspan>
+      <tspan x="0" dy="26">archive carried across the dark &#8212; begins to converge on the</tspan>
+      <tspan x="0" dy="26">one council old enough to judge the Homonoia.</tspan>
+    </text>
+    <text x="0" y="160" text-anchor="middle" font-size="16">
+      <tspan x="0" dy="0">An old woman who has held her peace for forty years must</tspan>
+      <tspan x="0" dy="26">finally speak, knowing it will break the order she loves.</tspan>
+      <tspan x="0" dy="26">A house built on a lie must answer for it. And the exiles the</tspan>
+      <tspan x="0" dy="26">empire tried to erase are coming home.</tspan>
+    </text>
+    <text x="0" y="320" text-anchor="middle" font-size="16">
+      <tspan x="0" dy="0">But exposure is not the same as justice. Not everyone who</tspan>
+      <tspan x="0" dy="26">is guilty will fall, and victory has a way of becoming the thing</tspan>
+      <tspan x="0" dy="26">it fought. The empire will reckon with what it has done.</tspan>
+      <tspan x="0" dy="26">What stands after is another question.</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(400, 850)">
+    <line x1="-180" y1="0" x2="-15" y2="0" stroke="url(#goldAccent)" stroke-width="0.8"/>
+    <circle cx="0" cy="0" r="3" fill="#cba75a"/>
+    <line x1="15" y1="0" x2="180" y2="0" stroke="url(#goldAccent)" stroke-width="0.8"/>
+  </g>
+
+  <!-- DREAD LINE -->
+  <g transform="translate(400, 920)">
+    <text x="0" y="0" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#e8dcc0">
+      <tspan x="0" dy="0">A council older than the empire. A seat held two centuries.</tspan>
+      <tspan x="0" dy="32">A reckoning the powerful cannot file away.</tspan>
+    </text>
+  </g>
+
+  <!-- FOOTER -->
+  <g transform="translate(400, 1050)">
+    <text x="0" y="0" text-anchor="middle" font-family="'Trajan Pro', 'Cinzel', Georgia, serif"
+          font-size="24" letter-spacing="8" fill="url(#titleFill)" font-weight="900">THE EMPTY CHAIR</text>
+  </g>
+  <text x="400" y="1090" text-anchor="middle" font-family="Georgia, serif"
+        font-size="13" letter-spacing="8" fill="#b6a36a" font-style="italic">A NOVEL BY MOTHER HESSA</text>
+  <text x="400" y="1135" text-anchor="middle" font-family="Georgia, serif"
+        font-size="10" letter-spacing="8" fill="#8a7740" font-style="italic">BOOK THREE OF THE TARTAROS CYCLE</text>
+  <text x="400" y="1170" text-anchor="middle" font-family="Georgia, serif"
+        font-size="9" letter-spacing="5" fill="#6a5a30" opacity="0.9">THE SEAT WAS NEVER REASSIGNED</text>
+
+  <rect width="800" height="1200" filter="url(#grain)" opacity="0.5"/>
+  <radialGradient id="vignette" cx="50%" cy="46%" r="80%">
+    <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+    <stop offset="100%" stop-color="#000" stop-opacity="0.7"/>
+  </radialGradient>
+  <rect width="800" height="1200" fill="url(#vignette)"/>
+</svg>

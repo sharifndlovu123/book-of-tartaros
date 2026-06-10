@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <radialGradient id="spaceBg" cx="50%" cy="40%" r="90%">
+      <stop offset="0%" stop-color="#0c2030"/>
+      <stop offset="50%" stop-color="#07131f"/>
+      <stop offset="100%" stop-color="#02060a"/>
+    </radialGradient>
+
+    <linearGradient id="horizonGlow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1a3a4a" stop-opacity="0"/>
+      <stop offset="60%" stop-color="#2a4a60" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#04101a" stop-opacity="0.4"/>
+    </linearGradient>
+
+    <radialGradient id="distantWorld" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#4a7088" stop-opacity="0.5"/>
+      <stop offset="60%" stop-color="#1a3040" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#0a1620" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="iceAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3a5d72" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#9fc6dc"/>
+      <stop offset="100%" stop-color="#3a5d72" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="titleFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#eef5fa"/>
+      <stop offset="50%" stop-color="#bcccd8"/>
+      <stop offset="100%" stop-color="#5f7d96"/>
+    </linearGradient>
+
+    <filter id="grain" x="0%" y="0%" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="2.2" numOctaves="3" seed="29"/>
+      <feColorMatrix values="0 0 0 0 0.42
+                             0 0 0 0 0.55
+                             0 0 0 0 0.66
+                             0 0 0 0.06 0"/>
+    </filter>
+
+    <pattern id="stars" x="0" y="0" width="240" height="240" patternUnits="userSpaceOnUse">
+      <circle cx="20" cy="40" r="0.6" fill="#dff" opacity="0.4"/>
+      <circle cx="80" cy="20" r="0.4" fill="#fff" opacity="0.3"/>
+      <circle cx="150" cy="80" r="0.7" fill="#cfe6f4" opacity="0.35"/>
+      <circle cx="200" cy="160" r="0.4" fill="#fff" opacity="0.28"/>
+      <circle cx="50" cy="150" r="0.5" fill="#fff" opacity="0.35"/>
+      <circle cx="120" cy="180" r="0.4" fill="#cfe6f4" opacity="0.28"/>
+      <circle cx="35" cy="100" r="0.3" fill="#fff" opacity="0.22"/>
+      <circle cx="180" cy="50" r="0.35" fill="#fff" opacity="0.28"/>
+      <circle cx="220" cy="220" r="0.45" fill="#dff" opacity="0.3"/>
+    </pattern>
+  </defs>
+
+  <rect width="800" height="1200" fill="url(#spaceBg)"/>
+  <rect width="800" height="1200" fill="url(#stars)" opacity="0.4"/>
+
+  <!-- faint distant Korya in the upper-right -->
+  <circle cx="700" cy="100" r="280" fill="url(#distantWorld)" opacity="0.6"/>
+  <circle cx="700" cy="100" r="170" fill="#16303f" opacity="0.4"/>
+  <circle cx="700" cy="100" r="110" fill="#204153" opacity="0.3"/>
+  <ellipse cx="700" cy="60" rx="160" ry="6" fill="#cfe0ea" opacity="0.12"/>
+
+  <rect x="0" y="900" width="800" height="300" fill="url(#horizonGlow)"/>
+
+  <!-- top ornament -->
+  <g transform="translate(400, 90)">
+    <line x1="-180" y1="0" x2="-50" y2="0" stroke="#3f6378" stroke-width="0.6"/>
+    <line x1="50" y1="0" x2="180" y2="0" stroke="#3f6378" stroke-width="0.6"/>
+    <g fill="#6f97ac">
+      <path d="M -42 0 L -37 -4 L -32 0 L -37 4 Z"/>
+      <path d="M 42 0 L 37 -4 L 32 0 L 37 4 Z"/>
+    </g>
+    <text x="0" y="5" text-anchor="middle" font-family="Georgia, serif"
+          font-size="10" font-style="italic" letter-spacing="6" fill="#8fb2c4">SCIENCE FICTION &#8226; THRILLER</text>
+  </g>
+
+  <!-- PULL QUOTE -->
+  <g transform="translate(400, 200)">
+    <text x="0" y="0" text-anchor="middle" font-family="Georgia, serif" font-size="28" font-style="italic" fill="#cfe2ee" font-weight="300">
+      <tspan x="0" dy="0">&#8220;They pulled her from the wreck.&#8221;</tspan>
+    </text>
+    <text x="0" y="42" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#9db6c6" font-weight="300">
+      <tspan x="0" dy="0">&#8220;They could have saved thousands more.&#8221;</tspan>
+    </text>
+    <text x="0" y="74" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#6f93a8" font-weight="300">
+      <tspan x="0" dy="0">&#8220;They chose not to.&#8221;</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(400, 320)">
+    <line x1="-100" y1="0" x2="-15" y2="0" stroke="url(#iceAccent)" stroke-width="0.8"/>
+    <circle cx="0" cy="0" r="2.5" fill="#9fc6dc"/>
+    <line x1="15" y1="0" x2="100" y2="0" stroke="url(#iceAccent)" stroke-width="0.8"/>
+  </g>
+
+  <!-- BLURB -->
+  <g transform="translate(400, 380)" font-family="Georgia, 'Times New Roman', serif" fill="#c2d6e2">
+    <text x="0" y="0" text-anchor="middle" font-size="16">
+      <tspan x="0" dy="0">Two years gone. On a frozen world that hides a civilization</tspan>
+      <tspan x="0" dy="26">in its caves, a child who should be dead is growing up among</tspan>
+      <tspan x="0" dy="26">the people who saved her &#8212; learning their language, their</tspan>
+      <tspan x="0" dy="26">patience, and slowly, what they are willing to do to win.</tspan>
+    </text>
+    <text x="0" y="160" text-anchor="middle" font-size="16">
+      <tspan x="0" dy="0">Light-years away, the survivors of Tartaros believe they have</tspan>
+      <tspan x="0" dy="26">lost her. Sable, Kester, and the others bury their grief in the</tspan>
+      <tspan x="0" dy="26">slow, dangerous work of building a record the empire cannot</tspan>
+      <tspan x="0" dy="26">bury &#8212; and pay for it.</tspan>
+    </text>
+    <text x="0" y="320" text-anchor="middle" font-size="16">
+      <tspan x="0" dy="0">But the cold keeps its own. The old man who rules the bloodline</tspan>
+      <tspan x="0" dy="26">is dying, and his son will not wait. Two sides who think they</tspan>
+      <tspan x="0" dy="26">have lost everything are about to find each other &#8212; and learn</tspan>
+      <tspan x="0" dy="26">what resistance costs the people who choose it.</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(400, 850)">
+    <line x1="-180" y1="0" x2="-15" y2="0" stroke="url(#iceAccent)" stroke-width="0.8"/>
+    <circle cx="0" cy="0" r="3" fill="#9fc6dc"/>
+    <line x1="15" y1="0" x2="180" y2="0" stroke="url(#iceAccent)" stroke-width="0.8"/>
+  </g>
+
+  <!-- DREAD LINE -->
+  <g transform="translate(400, 920)">
+    <text x="0" y="0" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#cfe2ee">
+      <tspan x="0" dy="0">A frozen world. A bloodline in exile.</tspan>
+      <tspan x="0" dy="32">A cure withheld while an empire grieves its dead.</tspan>
+    </text>
+  </g>
+
+  <!-- FOOTER -->
+  <g transform="translate(400, 1050)">
+    <text x="0" y="0" text-anchor="middle" font-family="'Trajan Pro', 'Cinzel', Georgia, serif"
+          font-size="22" letter-spacing="6" fill="url(#titleFill)" font-weight="900">THE WARD of KORYA</text>
+  </g>
+  <text x="400" y="1090" text-anchor="middle" font-family="Georgia, serif"
+        font-size="13" letter-spacing="9" fill="#8fb2c4" font-style="italic">A NOVEL BY PIRA</text>
+  <text x="400" y="1135" text-anchor="middle" font-family="Georgia, serif"
+        font-size="10" letter-spacing="8" fill="#5f88a0" font-style="italic">BOOK TWO OF THE TARTAROS CYCLE</text>
+  <text x="400" y="1170" text-anchor="middle" font-family="Georgia, serif"
+        font-size="9" letter-spacing="5" fill="#42647a" opacity="0.9">THE COLD KEEPS ITS OWN</text>
+
+  <rect width="800" height="1200" filter="url(#grain)" opacity="0.5"/>
+  <radialGradient id="vignette" cx="50%" cy="50%" r="80%">
+    <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+    <stop offset="100%" stop-color="#000" stop-opacity="0.65"/>
+  </radialGradient>
+  <rect width="800" height="1200" fill="url(#vignette)"/>
+</svg>
