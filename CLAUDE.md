@@ -15,6 +15,10 @@ Two files are the canonical source of truth for everything in the trilogy:
 
 If a task is purely mechanical (rename a file, fix a typo), the bible is optional. For anything touching plot, character, worldbuilding, or voice — read the bible first.
 
+**For quick orientation** (faster than the full bible):
+- **`bible/TRILOGY_SYNOPSIS.md`** — what happens across books 1–3 and how it ends, with a `LOCKED` / "never alter" list. Read this before any plot work to avoid contradicting the ending.
+- **`reference/CHARACTER_MAP.md`** — who's who, grouped by house/faction, with family trees (Mermaid diagrams).
+
 ## The trilogy's load-bearing ironies
 
 Do not contradict these. If new work seems to, flag it and ask before proceeding.
