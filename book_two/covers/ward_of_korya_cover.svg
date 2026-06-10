@@ -171,18 +171,18 @@
 
   <!-- TYPOGRAPHY -->
   <g transform="translate(400, 92)">
-    <line x1="-200" y1="0" x2="-65" y2="0" stroke="#3f6378" stroke-width="0.6"/>
-    <line x1="65" y1="0" x2="200" y2="0" stroke="#3f6378" stroke-width="0.6"/>
-    <g fill="#6f97ac">
+    <line x1="-200" y1="0" x2="-65" y2="0" stroke="#04101a" stroke-width="0.8"/>
+    <line x1="65" y1="0" x2="200" y2="0" stroke="#04101a" stroke-width="0.8"/>
+    <g fill="#04101a">
       <path d="M -55 0 L -50 -4 L -45 0 L -50 4 Z"/>
       <path d="M 55 0 L 50 -4 L 45 0 L 50 4 Z"/>
     </g>
     <text x="0" y="5" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif"
-          font-size="11" font-style="italic" letter-spacing="7" fill="#8fb2c4">A NOVEL OF THE OUTER HEGEMONY</text>
+          font-size="11" font-style="italic" letter-spacing="7" fill="#04101a">A NOVEL OF THE OUTER HEGEMONY</text>
   </g>
 
   <text x="400" y="150" text-anchor="middle" font-family="Georgia, serif"
-        font-size="17" letter-spacing="16" fill="#aecbdc" font-weight="300">PIRA</text>
+        font-size="17" letter-spacing="16" fill="#04101a" font-weight="300">PIRA</text>
 
   <!-- MAIN TITLE -->
   <g transform="translate(400, 1000)" filter="url(#titleShadow)">
