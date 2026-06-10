@@ -1,8 +1,13 @@
 # The Q&A Process — closing the open character questions
 
+> **Status (2026-06-10): COMPLETE.** The question tracker is fully closed
+> (222/222 answered) and the interactive tool `open_questions.html` has been
+> retired. This document is kept as the *method*: if new questions arise during
+> drafting, add them to `bible/TARTAROS_QUESTIONS.md` and regenerate a page from
+> the steps below.
+
 This document describes how Sharif and Claude work through the open questions in
-`bible/TARTAROS_QUESTIONS.md`. It is the agreed, repeatable workflow. Read it
-before running a Q&A session.
+`bible/TARTAROS_QUESTIONS.md`. It is the agreed, repeatable workflow.
 
 ## The two artifacts
 

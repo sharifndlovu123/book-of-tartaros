@@ -43,16 +43,16 @@
   <text x="110" y="197" text-anchor="middle" class="ts vendine-text">Defense — black, silver</text>
 
   <rect x="200" y="155" width="140" height="56" rx="8" class="medical" stroke-width="0.5"/>
-  <text x="270" y="179" text-anchor="middle" class="th medical-text">The Medical</text>
-  <text x="270" y="197" text-anchor="middle" class="ts medical-text">Olive, brass</text>
+  <text x="270" y="179" text-anchor="middle" class="th medical-text">The Asclepi</text>
+  <text x="270" y="197" text-anchor="middle" class="ts medical-text">Medical — olive, brass</text>
 
   <rect x="360" y="155" width="140" height="56" rx="8" class="frontier" stroke-width="0.5"/>
-  <text x="430" y="179" text-anchor="middle" class="th frontier-text">The Frontier</text>
-  <text x="430" y="197" text-anchor="middle" class="ts frontier-text">Rust, bronze</text>
+  <text x="430" y="179" text-anchor="middle" class="th frontier-text">The Limine</text>
+  <text x="430" y="197" text-anchor="middle" class="ts frontier-text">Frontier — rust, bronze</text>
 
   <rect x="520" y="155" width="140" height="56" rx="8" class="comms" stroke-width="0.5"/>
-  <text x="590" y="179" text-anchor="middle" class="th comms-text">Communications</text>
-  <text x="590" y="197" text-anchor="middle" class="ts comms-text">Oxblood, pewter</text>
+  <text x="590" y="179" text-anchor="middle" class="th comms-text">The Narrine</text>
+  <text x="590" y="197" text-anchor="middle" class="ts comms-text">Communications — oxblood, pewter</text>
 
   <line x1="340" y1="116" x2="110" y2="155" class="arrow"/>
   <line x1="340" y1="116" x2="270" y2="155" class="arrow"/>

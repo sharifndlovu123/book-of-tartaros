@@ -893,41 +893,45 @@ His accommodation is therefore not purely intellectual; it is *enforced*. He has
 
 ## PART IV — TIMELINE
 
-*All dates in Hegemony Common Era (HCE). Book one occurs in HCE 2378. Year zero of HCE is the founding of the Homonoia, approximately 200 years before book one.*
+*All dates in Hegemony Common Era (HCE). Book one occurs in HCE 2378. HCE counts from an older epoch; the Homonoia was founded approximately 200 years before book one (~HCE 2178).*
 
 ### Pre-Trilogy
 
-**~HCE 0** (approx. 200 years before book one): The Homonoia consolidates. The Keris bloodline is nearly destroyed. Survivors flee to Korya.
+**~HCE 2178** (approx. 200 years before book one): The Homonoia consolidates. The Keris bloodline is nearly destroyed; its Adjudicate arm is disbanded and its Synedrion seat left empty. Survivors flee to Korya.
 
-**HCE 0 to ~HCE 160**: The Keris persist quietly on Korya. The mountain population is a known curiosity to the Compact's frontier arm. No significant capability developed yet — they are surviving, not preparing.
+**~HCE 2178 to ~HCE 2338**: The Keris persist quietly on Korya — a known curiosity to the frontier arm's surveys. No significant capability yet; surviving, not preparing.
 
-**~HCE 160** (approx. 40 years before book one): The original ship crashes on Korya. The Compact sends a routine survey team that finds nothing significant. The Keris recover the ship, the survivor (who dies shortly after), and the intelligence the ship carried. This is the foundational event for the Keris's preparation. From this point forward, the Keris build capability in silence.
+**~HCE 2338** (approx. 40 years before book one): The original ship crashes on Korya. A routine survey finds nothing significant. The Keris recover the ship, the dying survivor, and its intelligence — the foundation of their forty-year preparation. From here they build in silence.
 
-**HCE 343** (Bastien's birth): Bastien Orrel is born to House Orrel of the Vendine arm.
+**HCE 2320**: Bastien Orrel is born to House Orrel of the Vendine arm. *(Age 58 in book one.)*
 
-**HCE 355** (35 years before book one): Calderon Trench. Bastien is twenty-six, junior officer. His unit is shattered. He survives. He returns home with the thesis. His grandfather rejects him. The Architect recruits him within months.
+**HCE 2330–2333**: The Sirenne Insurrection. In HCE 2332, Mireille Orrel is killed in a Federation-affiliated raid on the orbital shipyards; Bastien is twelve.
 
-**HCE 356-357**: The Architect introduces Bastien to the program he is building. The Tartaros prototype begins. Bastien becomes the operational lead for Site One (Tartaros).
+**HCE 2346** (32 years before book one): Calderon Trench. Bastien is twenty-six, a junior officer; his unit is shattered, he survives, he returns home with the thesis, his grandfather rejects him. The Architect — Xerxes, then a rising Communications-arm figure — recruits him within months to run the program Xerxes is building.
 
-**HCE 360**: The first cohort begins. Early failures, including the death of Tomas Reyek (Sable's brother) and many others.
+**~HCE 2347**: Bastien becomes operational lead for Site One (Tartaros); the prototype begins.
 
-**HCE 365**: The Successor unlocks the substrate question. The program begins to scale. The seven sites come online over the next several years.
+**~HCE 2350**: The first cohort begins. Early failures, including the death of Tomas Reyek (Sable's brother).
 
-**HCE 369**: Kester arrives at Tartaros. He is hired as a senior logistics officer. He has been told nothing of the program.
+**~HCE 2355**: Xerxes's uncle dies; Xerxes is elevated to Summum. *(He has thus coordinated the Homonoia for ~23 years by book one.)*
 
-**HCE 376**: Lira stops writing to Kester.
+**~HCE 2356**: The Successor unlocks the substrate question; the program scales to full operation across the seven sites. *(The Cleanse's ~22 years of operation are counted from here.)*
 
-**HCE 378**: Book one events. Kester defects. The broadcast. The Undersiders. Pell's sacrifice. The cipher. Aleya. The palace. Tev. The shuttle. The Harvester. The dinner. The augmented man at the door.
+**HCE 2369**: Kester arrives at Tartaros as a senior logistics officer (nine years before book one), told nothing of the program.
+
+**HCE 2371**: Lira stops responding; Kester stops writing (seven years before book one).
+
+**HCE 2378**: Book one. Kester defects. The broadcast. The Undersiders. Pell's sacrifice. The cipher. Aleya. The palace. Tev. The shuttle. The Conservatory (the Harvester). The dinner. The augmented man at the door.
 
 ### Book Two Timeline
 
-**HCE 378, late**: The shuttle crash. Yenna and Chayne die. Pira survives in the vault. The Keris recover the ship.
+**HCE 2378, late**: The shuttle crash. Yenna and Chayne die. Pira survives in the vault. The Keris recover the ship and the archive.
 
-**HCE 378-380** (two years): Pira settles among the Keris. The grandfather and son begin to disagree about how to use the archive. Sable, Kester, Mouse, Resh, Davour are doing **[TBD]** on the Compact side.
+**HCE 2378–2380** (two years): Pira settles among the Keris; the grandfather and son begin to disagree about the archive. On the Compact side, Sable, Kester, Mouse, Resh, and Davour run Thread B's four movements — the failed search for Pira, the crushed exposure that turns them into archive-builders, the extraction of the Successor (Yara), and the approach to Korya (see Part I §10).
 
-**HCE 380**: Book two opens. Pira is six. Two years have passed. Asham calls her name and book two begins.
+**HCE 2380**: Book two opens. Pira is six; two years have passed; Asham calls her name.
 
-**HCE 380, mid-to-late**: The grandfather dies during book two. The son's restraint is tested. Thread B converges with thread A. Sable arrives on Korya. Reunion with Pira closes book two.
+**HCE 2380, mid-to-late**: Imir dies during book two; Kazimir's restraint is tested. Thread B converges with Thread A; Sable arrives on Korya; the reunion with Pira closes book two.
 
 ### Book Three Timeline
 
@@ -940,53 +944,69 @@ His accommodation is therefore not purely intellectual; it is *enforced*. He has
 ### House Orrel (Vendine Arm)
 
 ```
-                    [Grandfather Orrel] (head of house, deceased)
-                              |
-                    [Bastien's father — TBD: name]
-                              |
-                    Bastien Orrel (b. HCE 343, age 35 in book one)
-                              |
-                    [Children — TBD: whether Bastien has any]
+   [Grandfather Orrel †] (name TBD)  —  Mathilde Orrel †
+                     |
+     +---------------+----------------+
+     |               |                |
+  Idris †         Lyra Orrel       Aldric Orrel (~80, dying)
+ (at birth)     (renouncer, 80s)    |          |
+                              m.1 Mireille †   m.2 Camille
+                                   |               |
+                            Bastien Orrel     Roderic Orrel (heir)
+                          (b. HCE 2320, 58)        |
+                            [no children]     Cedric Orrel (small child)
+
+   Aurelan Orrel — cadet-branch niece; the internal dissenter
+   Beatrice Carnay — Mistress of the Household (the Carnay servant line)
 ```
 
-**[TBD]** Bastien's mother, his father's name and status, whether he has siblings, whether he has children of his own. Likely answer: he has no children — the Cleanse has been his life — and his siblings are senior figures in the Vendine arm whom we may meet in book three.
+**[CONFIRMED]** Bastien has no children — the Cleanse has been his life. His mother **Mireille** (who named him) died when he was twelve; the **grandfather's given name remains [TBD]**. The favored line runs Aldric → Roderic → Cedric. Full detail in the Part II entries.
 
 ### The Keris Bloodline
 
 ```
-                    [Earlier generations — survivors of the consolidation]
-                              |
-                    [The Grandfather — TBD: name]
-                              |
-                    [The Son — TBD: name] (will lead the war)
-                              |
-                    [The youngest generation — TBD]
+   [Earlier generations — survivors of the consolidation]
+                     |
+        Imir (80s, dies bk2)  —  wife † (d. in exile)
+                     |
+        +------------+------------+
+        |                         |
+  second son †               Kazimir (the son, will lead the war)  —  Milana
+ (imprisoned, died)                |
+                          +--------+--------+
+                          |                 |
+                      Ivana (~7)        unborn son
+                   (fighter child)
+
+   Asham — married into the bloodline (extended marriage); Pira's caregiver
+   Nadya — ordinary (non-royal) Keris child, 9; Pira's closest friend
+   Pira — outsider child (6), settled with Asham; carries the archive
 ```
 
-**[TBD]** Whether the son has children. Whether there are siblings. Whether the bloodline has cousins or cadet branches.
+**[CONFIRMED]** Full detail in the Part II Keris entries. The bloodline's **family name remains [TBD]** (currently *Keris*).
 
 ### Kester's Family
 
 ```
-                    [Kester's parents — TBD]
-                              |
-                    Kester Vaile (b. ~HCE 333, age 45 in book one)
-                              |
-                    Lira Vaile (b. HCE 356, age 22 in book one)
-                              |
-                    [Lira's mother — Kester's wife or partner — TBD]
+   [Kester's parents — TBD]
+              |
+   Kester Vaile (b. ~HCE 2333, 45)  —  Maren (separated, never finalized)
+              |
+   Lira Vaile (b. HCE 2356, 22; Cresswell University)
 ```
 
-**[TBD]** Lira's mother. Whether she is alive. Whether the marriage ended badly or whether she died. Why Kester has not seen Lira in eleven years — is it about Lira's mother or about Kester's posting at Tartaros or both?
+**[CONFIRMED]** Lira's mother is **Maren**; she and Kester are separated but never legally finalized. The marriage broke on Kester's secret work against the family; the eleven-year estrangement is shame and danger compounding over time. See the Lira Vaile entry in Part II.
 
 ### Sable's Family
 
 ```
-                    [Parents — TBD]
-                              |
-                    +---+
-                    |       |
-                Sable    Tomas (deceased, killed at Wing Seven HCE 360 cohort)
+   [Parents — TBD]
+         |
+   +-----+-----+
+   |           |
+ Sable       Tomas † (killed at Wing Seven, ~HCE 2350 cohort)
+
+   Resh — Sable's protectee / adopted brother (his own brother died at Wing Seven)
 ```
 
 **[TBD]** Sable's parents — alive or dead, and what they think of what she has become.
@@ -1191,4 +1211,4 @@ The Architect and the Keris grandfather are the trilogy's two old men — differ
 
 ---
 
-*End of canonical document. Revision: 0.20, draft. Last updated: heraldry & sigils defined for every faction, house, arm, Synedrion seat, the Keris, and the Roan (see `reference/sigils.html`); the Federation hub renamed **Cairn** (was Concord) and the Successor renamed **Yara** (was Wren). Previously (0.19): Round Eight resolved (items 3–7). Thread B given a four-movement structure (Sable's failed search for Pira → false grief; crushed early exposure → archive-building; the child-extraction of the Successor; convergence at Korya and the Sable–Pira reunion). Mouse's interiority refracted through Resh with one late direct-POV beat; she is recovered from the Architect's people early, Resh-driven. The Successor given one moment of presence as the extracted child, named Yara. World/facility names: Korya confirmed; Verdaine (Vendine homeworld); Elysse (Medical homeworld); the Conservatory as the official name for the facility whose true name is the Harvester; Federation worlds plainly named (Halden, Auster) with hub Cairn. The four arms' formal names assigned: the Vendine, the Asclepi (medical), the Limine (frontier), the Narrine (communications). Only open question left in the whole document: when to begin book-one draft two. Previously (rev 0.18): Q&A batch of 58 answers written in (all marked [Author-decided, pending review] where the author deferred). Roan confirmed as the boss's name with the syndicate named after him (age 57; vice-and-waste-disposal origins; murdered wife — "the name they don't speak of"; parentless childhood and a younger sibling he raised; funds Hessa for territorial standing; discovers the medical arm has been steering him via his waste-disposal arm). Dissenting Vendine house = House Caradec (Tancred; brother Aubin; wife Ysabeau of House Tarsenne; sons Joscelin and Garin). Cassian: daily = The Andra Meridian; two killed pieces (prisoner-rehabilitation, medical-supply theft); the book-three leak completes the killed supply story (procurement records → seven sites). Marella's daughter = Severine Vren (46; disliked by Marella as the uncontrollable mirror; schemes to place her three sons in grand houses — the Cassian plan repeating a generation down; hedges her image on the Cleanse). Mira Tolan (Hessa's birth name). Aurelius = House Corvinus (heir grand-niece Livia; survives as the historian of the fall). Mistress Veliya mononymous (husband and a healer daughter). Synedrion hall = the Tholos. Asham 76 — an outsider married into the bloodline, frontier trade-tongue, raised and lost two children, calls Pira "zornitsa". Pira's friends now a two-child structure: Ivana (fighting/lineage) and the new non-royal Nadya, 9 (everyday belonging). Kazimir's hopes for his children resolved. Lira Vaile expanded (mother Maren; separated-but-complicated; naive politics — a book-two blocker cleared; law-student roommates; Hessa as distant icon; reunion at the eastern-quarter coffee house). Visual identity: House Orrel's silver heron; Raknir's hereditary bronze city-key; the Vendine–Sisters pairing confirmed centuries-old with the Veillance rite; novice Sisters in undyed linen. Previously: Lavinia and Octavia's sister-protection backstory added — as children, despite Octavia being younger, she was the one who protected her willful elder sister Lavinia in difficult moments. The protective acts were calm, decisive, and unobserved by anyone except Quintus, who used the recognition to begin shaping Octavia toward the institutional role she eventually took. The capacity for quiet correction Octavia developed naturally as a child became the capacity for quiet removal as an adult. The childhood pattern has continued into adulthood as silent shielding — Octavia protecting Lavinia from awareness of her institutional work. Lavinia is the social butterfly, willful like her mother; Octavia is the institutional invisible. Two outcomes of the same childhood, and only Octavia knows it.*
+*End of canonical document. Revision: 0.21, draft. Last updated: coherence pass across bible/ and reference/. Part IV/V timeline reconciled to the firm character anchors (Bastien b. HCE 2320, age 58; Calderon HCE 2346 at 26; all dates four-digit HCE; the Cleanse's ~22 years of operation dated from ~2356 and Xerxes's Summum tenure from ~2355; Kester 2369, Lira 2371). Part V family trees filled with current canon (Orrel, Keris, Kester, Sable). `reference/institutional_architecture.svg` arm labels corrected to the Asclepi / the Limine / the Narrine; `reference/CHARACTER_MAP.md` Ivana age corrected (~7, not 9). `bible/TARTAROS_CHARACTER_DEVELOPMENT.md` retired as superseded; `open_questions.html` removed (the question tracker is closed). NOTE for the author: one soft figure left unreconciled — line ~239 says House Orrel saw Bastien as the saint "over the next twenty-three years," which fits a later recruitment (~2355) better than the 2346 Calderon recruitment now in the timeline; adjust if it matters. Previously (0.20): heraldry & sigils defined for every faction, house, arm, Synedrion seat, the Keris, and the Roan (`reference/sigils.html`); the Federation hub renamed **Cairn** (was Concord) and the Successor renamed **Yara** (was Wren). Previously (0.19): Round Eight resolved (items 3–7). Thread B given a four-movement structure (Sable's failed search for Pira → false grief; crushed early exposure → archive-building; the child-extraction of the Successor; convergence at Korya and the Sable–Pira reunion). Mouse's interiority refracted through Resh with one late direct-POV beat; she is recovered from the Architect's people early, Resh-driven. The Successor given one moment of presence as the extracted child, named Yara. World/facility names: Korya confirmed; Verdaine (Vendine homeworld); Elysse (Medical homeworld); the Conservatory as the official name for the facility whose true name is the Harvester; Federation worlds plainly named (Halden, Auster) with hub Cairn. The four arms' formal names assigned: the Vendine, the Asclepi (medical), the Limine (frontier), the Narrine (communications). Only open question left in the whole document: when to begin book-one draft two. Previously (rev 0.18): Q&A batch of 58 answers written in (all marked [Author-decided, pending review] where the author deferred). Roan confirmed as the boss's name with the syndicate named after him (age 57; vice-and-waste-disposal origins; murdered wife — "the name they don't speak of"; parentless childhood and a younger sibling he raised; funds Hessa for territorial standing; discovers the medical arm has been steering him via his waste-disposal arm). Dissenting Vendine house = House Caradec (Tancred; brother Aubin; wife Ysabeau of House Tarsenne; sons Joscelin and Garin). Cassian: daily = The Andra Meridian; two killed pieces (prisoner-rehabilitation, medical-supply theft); the book-three leak completes the killed supply story (procurement records → seven sites). Marella's daughter = Severine Vren (46; disliked by Marella as the uncontrollable mirror; schemes to place her three sons in grand houses — the Cassian plan repeating a generation down; hedges her image on the Cleanse). Mira Tolan (Hessa's birth name). Aurelius = House Corvinus (heir grand-niece Livia; survives as the historian of the fall). Mistress Veliya mononymous (husband and a healer daughter). Synedrion hall = the Tholos. Asham 76 — an outsider married into the bloodline, frontier trade-tongue, raised and lost two children, calls Pira "zornitsa". Pira's friends now a two-child structure: Ivana (fighting/lineage) and the new non-royal Nadya, 9 (everyday belonging). Kazimir's hopes for his children resolved. Lira Vaile expanded (mother Maren; separated-but-complicated; naive politics — a book-two blocker cleared; law-student roommates; Hessa as distant icon; reunion at the eastern-quarter coffee house). Visual identity: House Orrel's silver heron; Raknir's hereditary bronze city-key; the Vendine–Sisters pairing confirmed centuries-old with the Veillance rite; novice Sisters in undyed linen. Previously: Lavinia and Octavia's sister-protection backstory added — as children, despite Octavia being younger, she was the one who protected her willful elder sister Lavinia in difficult moments. The protective acts were calm, decisive, and unobserved by anyone except Quintus, who used the recognition to begin shaping Octavia toward the institutional role she eventually took. The capacity for quiet correction Octavia developed naturally as a child became the capacity for quiet removal as an adult. The childhood pattern has continued into adulthood as silent shielding — Octavia protecting Lavinia from awareness of her institutional work. Lavinia is the social butterfly, willful like her mother; Octavia is the institutional invisible. Two outcomes of the same childhood, and only Octavia knows it.*

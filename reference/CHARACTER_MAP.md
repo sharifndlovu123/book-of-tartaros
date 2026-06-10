@@ -113,7 +113,7 @@ graph TD
   IMI --> SON2["second son † · imprisoned, died"]
   MILA["Milana · Kazimir's wife"]
   KAZ --- MILA
-  KAZ --> IVA["Ivana · daughter · fighter · ~9"]
+  KAZ --> IVA["Ivana · daughter · fighter · ~7"]
   KAZ --> UNB["unborn son"]
   ASH["Asham · married into the bloodline · Pira's caregiver"]
   ASH -. raises .-> PIR["Pira · outsider child · 6 · carries the archive"]
@@ -129,7 +129,7 @@ graph TD
 graph TD
   MARE["Marella Vren · Narrine director · 'the knife and the bandage'"]
   MARE --> CAS["Cassian · editor of The Andra Meridian · the leaker (bk3)"]
-  MARE --> SVR["Severine · Asclepi deputy · disliked by Marella"]
+  MARE --> SVR["Severine · 46 · Asclepi deputy · disliked by Marella"]
   HUS["husband · the family's anchor"]
   SVR --- HUS
   SVR --> S3["three sons · she schemes to place them in grand houses"]
@@ -187,7 +187,8 @@ graph TD
   RESH -. recovers .-> MOU
   KES --- MAREN["Maren · separated"]
   KES --> LIR["Lira Vaile · 22 · estranged 11 years"]
-  WRE["Yara · the Successor · extracted in book two"]
+  YAR["Yara · the Successor · extracted in book two"]
+  SAB -. extracts .-> YAR
   FALL["The fallen of book one: Yenna † · Chayne † · Tev † · Pell † (daughter Iyani) · Aleya †"]
 ```
 

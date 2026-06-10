@@ -1,6 +1,17 @@
 # THE TARTAROS CYCLE
 ## Organizational Tree and Character Development Questions
 
+> ⚠️ **SUPERSEDED (2026-06-10) — not current canon.** This is an early
+> question-tracker written before the trilogy's naming and structural decisions
+> were made. Its placeholders are stale (it still shows working arm names,
+> "Bastien's elder sibling" — now the younger half-brother Roderic — and many
+> `[TBD]`s that are resolved), and every question in it is answered elsewhere.
+> **Do not treat anything here as current.** Use instead:
+> `TARTAROS_CYCLE_BIBLE.md` (canon), `TARTAROS_QUESTIONS.md` (the tracker, now
+> closed), `TRILOGY_SYNOPSIS.md`, and `../reference/CHARACTER_MAP.md`. Kept only
+> as a historical record. Any name that appears *only* here (e.g. "Sennae" for
+> Vorlith) is **not** canon unless it also appears in the bible.
+
 *Companion document to the Tartaros Cycle Bible. This document maps every named role in the trilogy's institutional landscape and provides focused question sets for developing each character. Names marked **[TBD]** are awaiting assignment; names in italics are working names from the Bible.*
 
 *Status markers: **[CONFIRMED]** the role is settled, **[WORKING]** the role exists with a placeholder, **[TBD]** still to decide.*

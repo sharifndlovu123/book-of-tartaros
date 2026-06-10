@@ -58,27 +58,19 @@ Interior, slightly cool, attentive to institutional textures and character inter
 2. **Update the bible when decisions are made.** If a session resolves a question, update both `bible/TARTAROS_CYCLE_BIBLE.md` and `bible/TARTAROS_QUESTIONS.md`. Bump the revision number (0.17 → 0.18) and update the footer description.
 3. **Suggest a commit after meaningful changes.** Git history is the trilogy's edit memory.
 
-## Closing open questions — the Q&A process
+## Question tracker — closed
 
-There is an agreed workflow for working through the open/partial questions in
-`bible/TARTAROS_QUESTIONS.md`. **Read `QA_PROCESS.md` before running a Q&A
-session.** In short:
+The character-question tracker (`bible/TARTAROS_QUESTIONS.md`) is **fully closed
+(222/222 answered)**. The interactive answering tool (`open_questions.html`) has
+been retired. The repeatable method is preserved in `QA_PROCESS.md`; if new
+questions arise during drafting, add them to the tracker and regenerate a page
+from that method.
 
-- The user answers in `open_questions.html` (a self-contained page listing all
-  open/partial questions by collective, each with a "ripples" panel showing what
-  the answer affects), clicks **Copy answers**, and pastes the block into chat.
-- Each answer arrives tagged with an **ID** like `R7-C25-Q5` (Round 7,
-  Character 25, Question 5) so both sides agree on what is being answered.
-- For each answer: give feedback (fit with bible, effect on load-bearing
-  ironies), ask follow-ups only where a real new decision opens, and propose
-  gap-fills (marked `[Author-decided, pending review]`) only where the user
-  leaves a blank or says "you decide".
-- Write settled answers back into **both** the questions document and the bible;
-  bump the revision; suggest a commit.
-- **Book-two blockers come first** (`R8-4`, `R8-7`, `R8-3`, `R7-C25-Q5`).
-
-If the question set in `bible/TARTAROS_QUESTIONS.md` changes, regenerate the
-question data in `open_questions.html` to match.
+Many late answers are tagged `[Author-decided, pending review]` in the bible —
+treat those as provisional canon until the author confirms. When writing back any
+new decision, update **both** the bible and the questions tracker, bump the bible
+revision, and keep `reference/CHARACTER_MAP.md`, `bible/TRILOGY_SYNOPSIS.md`, and
+`reference/sigils.html` in sync.
 
 ## Common task patterns
 
