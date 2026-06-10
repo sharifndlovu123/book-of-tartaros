@@ -2,7 +2,7 @@
 
 ## Status
 
-Book one is complete. Book two has not been drafted. The bible (revision 0.21) is now structurally complete enough to begin drafting: **all four blocking decisions below are resolved.**
+Book one is complete. Book two has not been drafted. The bible (revision 0.22) is now structurally complete enough to begin drafting: **all four blocking decisions below are resolved.**
 
 ## Structural questions that were blocking book two — NOW RESOLVED
 
