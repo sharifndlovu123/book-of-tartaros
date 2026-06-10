@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tartaros Cycle — Sigils & Colours</title>
+<style>
+  :root{ --bg:#15171c; --panel:#1d2027; --line:#33373f; --ink:#e8e2d4; --dim:#9aa0ab; --faint:#6b7280; }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font:16px/1.5 "Iowan Old Style",Georgia,"Times New Roman",serif}
+  .wrap{max-width:1100px;margin:0 auto;padding:28px 20px 90px}
+  h1{font-size:24px;letter-spacing:.3px;margin:0 0 4px}
+  .sub{color:var(--dim);font-size:13.5px;text-transform:uppercase;letter-spacing:1px;margin-bottom:18px}
+  .intro{background:var(--panel);border:1px solid var(--line);border-radius:10px;
+    padding:14px 16px;color:var(--dim);font-size:14px;margin-bottom:28px}
+  .intro b{color:var(--ink)}
+  .intro code{background:#0f1115;padding:1px 6px;border-radius:4px;font-family:ui-monospace,Menlo,monospace;font-size:12.5px;color:#efe9da}
+  h2{font-size:13px;text-transform:uppercase;letter-spacing:1.5px;color:var(--faint);
+    border-bottom:1px solid var(--line);padding-bottom:8px;margin:34px 0 16px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:16px}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px;display:flex;gap:14px}
+  .sig{flex:none;width:62px;height:62px;display:flex;align-items:center;justify-content:center;
+    background:#0f1115;border:1px solid var(--line);border-radius:10px}
+  .sig svg{width:48px;height:48px;display:block}
+  .meta{min-width:0}
+  .nm{font-weight:600;font-size:15.5px;color:#efe9da;line-height:1.2}
+  .bl{font-size:13px;color:var(--dim);margin:5px 0 8px;font-style:italic}
+  .sw{display:flex;gap:5px;flex-wrap:wrap}
+  .sw span{width:18px;height:18px;border-radius:4px;border:1px solid #0006;display:inline-block}
+  .ad{display:inline-block;font-size:9.5px;text-transform:uppercase;letter-spacing:.5px;
+    color:#c9a14a;border:1px solid #5a4d2a;background:#3a3320;border-radius:20px;padding:1px 6px;margin-top:7px}
+  footer{color:var(--faint);font-size:12.5px;margin-top:34px;line-height:1.7}
+  footer code{font-family:ui-monospace,Menlo,monospace}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>The Tartaros Cycle — Sigils &amp; Colours</h1>
+  <div class="sub">heraldry of the houses, arms, Synedrion seats, the Keris, and the Roan</div>
+
+  <div class="intro">
+    A device and a colour palette for every faction in the trilogy. Locked colours
+    (the four arms, the Sisters, the Keris) come from the bible's Round Nine; the
+    <b>sigils are proposals</b> for your review, and palettes I invented for entities
+    the bible hadn't coloured carry an <span class="ad">proposed</span> tag. Open this
+    file in a browser to see it rendered. Detail lives in
+    <code>../bible/TARTAROS_CYCLE_BIBLE.md</code>; the cast and family trees are in
+    <code>CHARACTER_MAP.md</code>.
+  </div>
+
+  <div id="root"></div>
+
+  <footer>
+    Sigils are line-drawn so they read at any size and can be lifted into standalone
+    SVG files later if you want them as assets. Tell me which devices to keep, swap,
+    or redraw.<br>
+    Generated against bible revision 0.20.
+  </footer>
+</div>
+
+<script>
+/* Each entry: name, blazon (one line), palette (true hex swatches),
+   ink (light tint the sigil is drawn in so it reads on the dark card),
+   sig (inline SVG), ad (true = palette/sigil proposed, not yet bible-locked). */
+const G = [
+{
+  group:"The Homonoia &amp; its arms",
+  items:[
+    {name:"The Homonoia", blazon:"One body, four arms — a quartered ring in the arm-colours.", pal:["#2b2e33","#5c613b","#7a4a2b","#6e3438"], ink:"#c8ccd2", ad:true,
+     sig:`<svg viewBox="0 0 64 64"><g fill="none" stroke-width="6" stroke-linecap="round"><path d="M32 12 A20 20 0 0 1 52 32" stroke="#3a3f46"/><path d="M52 32 A20 20 0 0 1 32 52" stroke="#7d8254"/><path d="M32 52 A20 20 0 0 1 12 32" stroke="#a35f33"/><path d="M12 32 A20 20 0 0 1 32 12" stroke="#9c4a4a"/></g><circle cx="32" cy="32" r="3.5" fill="#c8ccd2"/></svg>`},
+    {name:"The Architect (Summum)", blazon:"A keystone — the wedge that holds the arch; pull it and the arms fall out of step.", pal:["#aeb2b8","#6b6f76"], ink:"#c2c6cc", ad:true,
+     sig:`<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linejoin="round"><path d="M18 22 L46 22 L40 46 L24 46 Z"/><path d="M32 25 L31 43" stroke-width="1.8"/></svg>`},
+    {name:"The Vendine — defense", blazon:"The upright blade — the form; war as ceremony.", pal:["#2b2e33","#5f6670","#c8ccd2"], ink:"#c8ccd2",
+     sig:`<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"><path d="M28 12 L32 8 L36 12"/><path d="M32 8 L32 46"/><path d="M22 46 L42 46"/><path d="M32 46 L32 54"/><circle cx="32" cy="57" r="2.4" fill="currentColor"/></svg>`},
+    {name:"The Asclepi — medical", blazon:"The rod of Asclepius — medicine and augmentation.", pal:["#5c613b","#b08d57"], ink:"#d8b87a",
+     sig:`<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round"><path d="M32 10 L32 54"/><path d="M26 18 C42 24 22 32 38 38 C26 44 40 50 28 54"/><circle cx="26" cy="18" r="1.8" fill="currentColor"/></svg>`},
+    {name:"The Limine — frontier", blazon:"The frontier wall (limes) — prisons, colonies, the boundary.", pal:["#7a4a2b","#8a6a45"], ink:"#d09a6e",
+     sig:`<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linejoin="round"><path d="M12 50 L12 30 L20 30 L20 24 L28 24 L28 30 L36 30 L36 24 L44 24 L44 30 L52 30 L52 50 Z"/></svg>`},
+    {name:"The Narrine — communications", blazon:"The quill — narrative and the archive; heard, not seen.", pal:["#6e3438","#6b6f76"], ink:"#cf8a90",
+     sig:`<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M48 14 L24 46"/><path d="M48 14 C40 16 33 23 29 33 C36 31 43 26 48 14 Z"/><path d="M24 46 L20 52"/></svg>`}
+  ]
+},
+{
+  group:"The Vendine houses",
+  items:[
+    {name:"House Orrel", blazon:"A wading heron in silver — patient, solitary, watchful (Bastien's silver).", pal:["#2b2e33","#5f6670","#c8ccd2"], ink:"#d2d6db",
+     sig:`<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M28 53 L29 43"/><path d="M34 53 L33 43"/><ellipse cx="31" cy="40" rx="9" ry="5"/><path d="M38 38 C44 32 30 28 33 18"/><circle cx="33" cy="16" r="2.2" fill="currentColor"/><path d="M34 15 L43 13"/><path d="M22 40 L13 44"/></svg>`},
+    {name:"House Aemilius", blazon:"A laurel wreath — the champion's crown (Marcus) and the patient elder (Quintus).", pal:["#2b2e33","#5f6670","#c8ccd2"], ink:"#d2d6db",
+     sig:`<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round"><path d="M32 54 C16 50 12 30 24 16"/><path d="M32 54 C48 50 52 30 40 16"/><path d="M20 41 L14 39 M22 33 L16 29 M26 24 L21 19"/><path d="M44 41 L50 39 M42 33 L48 29 M38 24 L43 19"/></svg>`},
+    {name:"House Caradec", blazon:"Stag's antlers — the un-augmented natural form; fidelity to the old way.", pal:["#2b2e33","#5f6670","#c8ccd2"], ink:"#cfd3d8",
+     sig:`<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M32 52 L32 38"/><path d="M32 38 C26 34 24 26 22 16"/><path d="M26 30 L18 26 M24 24 L16 22 M23 19 L27 12"/><path d="M32 38 C38 34 40 26 42 16"/><path d="M38 30 L46 26 M40 24 L48 22 M41 19 L37 12"/></svg>`},
+    {name:"House Tarsenne", blazon:"Two bound rings — the small alliance of two quietly-dissenting houses.", pal:["#2b2e33","#5f6670"], ink:"#c3c8cf", ad:true,
+     sig:`<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="3.4"><ellipse cx="26" cy="32" rx="11" ry="8"/><ellipse cx="40" cy="32" rx="11" ry="8"/></svg>`}
+  ]
+},
+{
+  group:"Other families &amp; old houses",
+  items:[
+    {name:"The Vren family", blazon:"A blade bound in cloth — Marella's knife and bandage; narrative that wounds and binds.", pal:["#6e3438","#6b6f76"], ink:"#cf8a90", ad:true,
+     sig:`<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><path d="M28 14 L32 10 L36 14"/><path d="M32 10 L32 42"/><path d="M25 42 L39 42"/><path d="M32 42 L32 52"/><path d="M20 28 C28 23 36 33 44 28"/></svg>`},
+    {name:"House Corvinus", blazon:"The raven — the archivist Old House; keeper of the family papers.", pal:["#1a1a1f","#d8cfb8"], ink:"#cdd3da", ad:true,
+     sig:`<svg viewBox="0 0 64 64" fill="currentColor"><path d="M13 42 C16 33 26 31 32 33 L43 24 L40 34 C47 36 47 44 38 45 L44 51 L33 46 C26 48 17 47 13 42 Z"/></svg>`}
+  ]
+},
+{
+  group:"The Synedrion — nine seats",
+  items:[
+    {name:"Sisters of the Long Patience", blazon:"No charge, by tradition — navy over worn cream; the order does not display.", pal:["#39506b","#efe9da"], ink:"#efe9da",
+     sig:`<svg viewBox="0 0 64 64"><path d="M16 14 L48 14 L48 34 C48 46 40 52 32 56 C24 52 16 46 16 34 Z" fill="#39506b"/><path d="M16 31 L48 31 L48 34 C48 46 40 52 32 56 C24 52 16 46 16 34 Z" fill="#efe9da"/><path d="M16 14 L48 14 L48 34 C48 46 40 52 32 56 C24 52 16 46 16 34 Z" fill="none" stroke="#11131a" stroke-width="2"/></svg>`},
+    {name:"Order of the Just Reading", blazon:"Book and balance — fidelity to the texts, and the will to judge.", pal:["#3a3d44","#b08d57"], ink:"#d6b96a", ad:true,
+     sig:`<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14 44 L32 40 L50 44 L50 50 L32 46 L14 50 Z"/><path d="M32 40 L32 24"/><path d="M18 24 L46 24"/><path d="M18 24 C18 30 26 30 26 24"/><path d="M38 24 C38 30 46 30 46 24"/><circle cx="32" cy="22" r="1.8" fill="currentColor"/></svg>`},
+    {name:"Old Houses", blazon:"A fluted column — pre-Homonoia continuity. Held now by House Corvinus.", pal:["#4a4a52","#d8cfb8"], ink:"#cdd3da", ad:true,
+     sig:`<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"><path d="M16 16 L48 16"/><path d="M20 16 L20 48 M28 16 L28 48 M36 16 L36 48 M44 16 L44 48"/><path d="M16 48 L48 48"/><path d="M13 53 L51 53"/></svg>`},
+    {name:"The Healers", blazon:"A bowl and sprig — the older healing tradition; care over augmentation.", pal:["#6f8f78","#e6e0d2"], ink:"#9fc0a8", ad:true,
+     sig:`<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 40 C16 50 48 50 48 40"/><path d="M16 40 L48 40"/><path d="M32 40 L32 20"/><path d="M32 28 C26 26 24 20 26 15 C30 17 33 22 32 28"/><path d="M32 24 C38 22 40 16 38 12 C34 14 31 18 32 24"/></svg>`},
+    {name:"The Universities", blazon:"The lamp of learning.", pal:["#4a5a64","#c9a14a"], ink:"#e0c46a", ad:true,
+     sig:`<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 48 L44 48"/><path d="M24 48 C24 42 40 42 40 48"/><path d="M32 42 L32 38"/><path d="M32 38 C27 33 30 26 32 22 C34 26 37 33 32 38 Z"/></svg>`},
+    {name:"The Retired Officers", blazon:"A reversed sword — service ended, honour kept.", pal:["#5f6670","#9aa0a8"], ink:"#b9c0c8", ad:true,
+     sig:`<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><path d="M28 50 L32 54 L36 50"/><path d="M32 54 L32 18"/><path d="M22 18 L42 18"/><path d="M32 18 L32 10"/><circle cx="32" cy="8" r="2.4" fill="currentColor"/></svg>`},
+    {name:"The Mercantile Guilds", blazon:"A coin — the federated guilds (shipping, metal, agriculture).", pal:["#9a7b3a","#6b6f76"], ink:"#d4a85a", ad:true,
+     sig:`<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="3"><circle cx="32" cy="32" r="20"/><circle cx="32" cy="32" r="13"/><path d="M32 24 L37 32 L32 40 L27 32 Z" fill="currentColor" stroke="none"/></svg>`},
+    {name:"The Frontier Worlds", blazon:"Sun over the horizon — the frontier peoples (not the arm's governors).", pal:["#7a5a3a","#c9a14a"], ink:"#d8b06a", ad:true,
+     sig:`<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round"><path d="M10 46 L54 46"/><path d="M22 46 A10 10 0 0 1 42 46"/><path d="M32 28 L32 22 M45 33 L49 29 M19 33 L15 29"/></svg>`},
+    {name:"The Keris seat (empty)", blazon:"An empty chair — vacant two centuries; filled in book three.", pal:["#5f7d96","#b8c4cc"], ink:"#8a93a0",
+     sig:`<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 3"><path d="M22 12 L22 40 L44 40"/><path d="M22 26 L40 26 L40 12"/><path d="M22 40 L22 52 M44 40 L44 52"/></svg>`}
+  ]
+},
+{
+  group:"Beyond the Homonoia",
+  items:[
+    {name:"The Keris bloodline", blazon:"Scales over a peak — the lost Adjudicate (judgment) in glacier cold.", pal:["#5f7d96","#b8c4cc","#7fb0c8"], ink:"#9fc6dc",
+     sig:`<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.9" stroke-linecap="round" stroke-linejoin="round"><path d="M32 14 L32 40"/><path d="M18 20 L46 20"/><path d="M18 20 C18 27 26 27 26 20"/><path d="M38 20 C38 27 46 27 46 20"/><path d="M20 48 L32 38 L44 48 Z"/></svg>`},
+    {name:"The Roan", blazon:"A horseshoe — the eastern-quarter syndicate, named for the man Roan.", pal:["#6b4a3a","#4a4a4f","#5b7d99"], ink:"#c79a6e", ad:true,
+     sig:`<svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="4.2" stroke-linecap="round"><path d="M20 16 C6 28 6 50 22 54 C30 56 34 56 42 54 C58 50 58 28 44 16"/><g fill="currentColor" stroke="none"><circle cx="15" cy="27" r="1.6"/><circle cx="13" cy="39" r="1.6"/><circle cx="20" cy="49" r="1.6"/><circle cx="49" cy="27" r="1.6"/><circle cx="51" cy="39" r="1.6"/><circle cx="44" cy="49" r="1.6"/></g></svg>`}
+  ]
+}
+];
+
+const root=document.getElementById("root");
+G.forEach(sec=>{
+  const h=document.createElement("h2"); h.innerHTML=sec.group; root.appendChild(h);
+  const grid=document.createElement("div"); grid.className="grid";
+  sec.items.forEach(it=>{
+    const sw=it.pal.map(c=>`<span style="background:${c}" title="${c}"></span>`).join("");
+    const card=document.createElement("div"); card.className="card";
+    card.innerHTML=`
+      <div class="sig" style="color:${it.ink}">${it.sig}</div>
+      <div class="meta">
+        <div class="nm">${it.name}</div>
+        <div class="bl">${it.blazon}</div>
+        <div class="sw">${sw}</div>
+        ${it.ad?'<span class="ad">palette/sigil proposed</span>':''}
+      </div>`;
+    grid.appendChild(card);
+  });
+  root.appendChild(grid);
+});
+</script>
+</body>
+</html>

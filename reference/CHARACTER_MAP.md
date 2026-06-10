@@ -15,7 +15,7 @@ other relation (service, friendship, mentorship, etc.).
 ```mermaid
 graph TD
   HEG["THE HEGEMONY · capital Andra Prime"]
-  FED["THE FEDERATION · rival · hub Concord"]
+  FED["THE FEDERATION · rival · hub Cairn"]
   HEG -. cover-story war .- FED
   HEG --> HOM["THE HOMONOIA — the conglomerate"]
   HOM --> ARCH["Xerxes · the Architect (Summum)"]
@@ -187,7 +187,7 @@ graph TD
   RESH -. recovers .-> MOU
   KES --- MAREN["Maren · separated"]
   KES --> LIR["Lira Vaile · 22 · estranged 11 years"]
-  WRE["Wren · the Successor · extracted in book two"]
+  WRE["Yara · the Successor · extracted in book two"]
   FALL["The fallen of book one: Yenna † · Chayne † · Tev † · Pell † (daughter Iyani) · Aleya †"]
 ```
 

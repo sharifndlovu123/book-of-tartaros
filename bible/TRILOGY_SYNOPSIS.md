@@ -50,7 +50,7 @@ without him.
 by **Resh**, the one she recognized), Resh, and **Davour**. In four movements:
 (1) Sable's search for Pira ends in apparent proof she is *dead* — false grief is
 the engine of the two years; (2) a crushed attempt to expose the Cleanse turns
-them into **archive-builders**; (3) the archive reveals **Wren** (the Successor),
+them into **archive-builders**; (3) the archive reveals **Yara** (the Successor),
 and they extract her — one child, at real cost; (4) intelligence leads them to
 the unsurveyed Korya, where they arrive not knowing Pira is there.
 

@@ -10,7 +10,7 @@ These had to be decided before drafting could sensibly begin. All four are now s
 
 1. **Thread B — what Sable, Kester, Mouse, Resh, Davour do for two years.** ✅ **RESOLVED.** Armature A (archive-building) spine, with B and C layered in, in four movements: (1) Sable's failed search for Pira → false grief; (2) crushed early exposure → archive-building; (3) the child-extraction of the Successor; (4) convergence at Korya, Sable–Pira reunion closing the book. (Bible Part I §10.)
 
-2. **The Successor — cipher or one moment of presence.** ✅ **RESOLVED.** One moment of presence: she is the child Thread B extracts in movement 3; named **Wren**. (Bible Part I §4.)
+2. **The Successor — cipher or one moment of presence.** ✅ **RESOLVED.** One moment of presence: she is the child Thread B extracts in movement 3; named **Yara**. (Bible Part I §4.)
 
 3. **Mouse's interiority — POV or horror-object.** ✅ **RESOLVED.** Refracted through Resh across the book (held largely as horror-object), with one late direct-POV beat; recovered from the Architect's people early, Resh-driven. (Bible, Mouse entry.)
 

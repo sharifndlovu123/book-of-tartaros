@@ -18,6 +18,7 @@ If a task is purely mechanical (rename a file, fix a typo), the bible is optiona
 **For quick orientation** (faster than the full bible):
 - **`bible/TRILOGY_SYNOPSIS.md`** — what happens across books 1–3 and how it ends, with a `LOCKED` / "never alter" list. Read this before any plot work to avoid contradicting the ending.
 - **`reference/CHARACTER_MAP.md`** — who's who, grouped by house/faction, with family trees (Mermaid diagrams).
+- **`reference/sigils.html`** — a device (sigil) and colour palette for every faction, house, arm, Synedrion seat, the Keris, and the Roan. Colours for the four arms / Sisters / Keris are bible-locked; sigils and the other palettes are proposals (tagged in the page).
 
 ## The trilogy's load-bearing ironies
 
