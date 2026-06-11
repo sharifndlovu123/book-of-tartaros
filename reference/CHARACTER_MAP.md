@@ -180,7 +180,7 @@ graph TD
   KES["Kester Vaile · the conscience · carries the procurement secret"]
   RESH["Resh · 18 · Sable's protectee"]
   MOU["Mouse · 19 · the prototype · horror-object"]
-  DAV["Davour Kell · ex-MP"]
+  DAV["Kell Davour · ex-MP (she)"]
   SAB --- KES
   SAB --- RESH
   SAB --- DAV

@@ -30,7 +30,9 @@ the bible (now **rev 0.24**):
 - **Custody → freedom gap.** ✅ Recorded as a book-two task: book two's opening chapters (1–3) must establish how the group got free of Harvester custody and what the two-year gap did to them (added to `book_two/notes/STARTING_NOTES.md`). "We will see."
 - **Broadcast reach.** ✅ **Contained.** The Narrine throttled the book-one broadcast's reach and discredited it as an "unauthorized" fabrication, so the public stayed ignorant — documented in the bible (Narrine entry); seeds Thread B's crushed exposure in book two.
 
-**LEFT AS-IS (deliberate / low-stakes):** ch7's "Nine bodies" rhetorical count (intentional misdirection); Davour addressed as "Kell" (surname) — consider a Davour voice card in draft two; Calderon's invented 16,000-soldier scale — optionally write back to the bible later.
+**RESOLVED (2026-06-11, follow-up):** ch7's "Nine bodies" beat cleaned up — the floating count is gone; the nine dead now land once, in context (`Tev was dead. Sten was alive…` → `…there were nine bodies on the floor`). **Davour** given a full voice card (the resistance, in `DIALOGUE_STYLE.md`) and reconciled to the manuscript: she is **female**, given name **Kell** / surname **Davour**, with a proposed particular war (frontier labor-rising crackdown for the Limine); "Kell" is now a documented comrades'-address feature, not a slip. Bible entry, footer (rev 0.25), and `CHARACTER_MAP.md` updated.
+
+**LEFT AS-IS (deliberate / low-stakes):** Calderon's invented 16,000-soldier scale — optionally write back to the bible later.
 
 The Tier 1–4 findings below are the original audit, preserved for the record.
 

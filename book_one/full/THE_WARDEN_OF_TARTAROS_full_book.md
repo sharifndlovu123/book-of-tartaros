@@ -2178,9 +2178,7 @@ He was crying without sound. He was not making any noise at all. Tears were runn
 
 Kester stood in the middle of the chamber and looked around it.
 
-Nine bodies.
-
-Tev. Sten was alive but bleeding. Chayne was alive in his chair. The child was alive on the cot.
+Tev was dead. Sten was alive but bleeding. Chayne was alive in his chair. The child was alive on the cot.
 
 Of the rest of the chamber's population — the unnamed Undersiders, the older children who had been hidden here, the people who had received Sable's broadcast as a victory and Aleya's death as a wound — there were nine bodies on the floor, and there were no others. There had been perhaps thirty people in the chamber when the expedition left. There were thirteen alive now, including the six who had just returned. Seven Undersiders survived: Chayne. Sten. The child. And four others Kester would not learn the names of for another several hours, who had escaped through deeper passages when the attack began, and who would trickle back into the chamber over the course of the night.
 
