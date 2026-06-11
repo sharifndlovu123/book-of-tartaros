@@ -369,7 +369,7 @@ Yenna kept reading.
 
 It was Yenna who found the Undersider files.
 
-There was a folder, slim, indexed under *Tartaros Node — Surface Containment*. Inside it: surveillance summaries. Photographs taken from inside the chamber, somehow, at angles Kester could not source. A diagram of the chamber's layout that was almost correct but slightly outdated. A list of names, with annotations. *Sable Reyek. Chayne Olret. Tev Marn. Roon Haveric. Ivo Vens.* The names of the principal Undersiders, with brief biographical notes, with assessments of their likely behavior under various contingencies.
+There was a folder, slim, indexed under *Tartaros Node — Surface Containment*. Inside it: surveillance summaries. Photographs taken from inside the chamber, somehow, at angles Kester could not source. A diagram of the chamber's layout that was almost correct but slightly outdated. A list of names, with annotations. *Sable Reyek. Chayne Olret. Tev Marn. Sten Haveric. Ivo Vens.* The names of the principal Undersiders, with brief biographical notes, with assessments of their likely behavior under various contingencies.
 
 The list contained forty-three names of children.
 
@@ -461,11 +461,11 @@ The chamber's worklights were still on. The air recyclers were still running. Th
 
 Tev was on the floor of the alcove. She had fallen between the children's cots and the door. Her body was where she would have placed it deliberately if she had had time to plan — between the door and the cots, between the threat and the children. She had not had time to plan. She had moved, when she heard the boots, and she had moved to the place she would have planned to move to, because the place was the same place either way. She had been hit twice. She was not breathing.
 
-Roon was against the chamber's east wall. He was sitting up. He was bleeding from a wound in his thigh and a wound in his side and he was holding a salvaged welding torch in his right hand as if the welding torch were a weapon, which it was not, and which it had not been when the guards came through, and which he had presumably been using for something practical when the attack began. He was conscious. His eyes tracked Sable as she came into the chamber. He made a sound that was not a word. His mouth tried to make a word and could not.
+Sten was against the chamber's east wall. He was sitting up. He was bleeding from a wound in his thigh and a wound in his side and he was holding a salvaged welding torch in his right hand as if the welding torch were a weapon, which it was not, and which it had not been when the guards came through, and which he had presumably been using for something practical when the attack began. He was conscious. His eyes tracked Sable as she came into the chamber. He made a sound that was not a word. His mouth tried to make a word and could not.
 
 Chayne was not in the chamber's main area.
 
-Sable moved toward Roon. Davour moved with her, already pulling a field kit from her own pack, already kneeling. Yenna ran for Tev because Yenna had not yet absorbed that Tev was past help, and the running was Yenna's body refusing to absorb it for another few seconds. Resh stood in the doorway and did not move and did not make a sound.
+Sable moved toward Sten. Davour moved with her, already pulling a field kit from her own pack, already kneeling. Yenna ran for Tev because Yenna had not yet absorbed that Tev was past help, and the running was Yenna's body refusing to absorb it for another few seconds. Resh stood in the doorway and did not move and did not make a sound.
 
 Kester walked to the wall.
 
@@ -521,9 +521,9 @@ Kester stood in the middle of the chamber and looked around it.
 
 Nine bodies.
 
-Tev. Roon was alive but bleeding. Chayne was alive in his chair. The child was alive on the cot.
+Tev. Sten was alive but bleeding. Chayne was alive in his chair. The child was alive on the cot.
 
-Of the rest of the chamber's population — the unnamed Undersiders, the older children who had been hidden here, the people who had received Sable's broadcast as a victory and Aleya's death as a wound — there were nine bodies on the floor, and there were no others. There had been perhaps thirty people in the chamber when the expedition left. There were thirteen alive now, including the six who had just returned. Seven Undersiders survived: Chayne. Roon. The child. And four others Kester would not learn the names of for another several hours, who had escaped through deeper passages when the attack began, and who would trickle back into the chamber over the course of the night.
+Of the rest of the chamber's population — the unnamed Undersiders, the older children who had been hidden here, the people who had received Sable's broadcast as a victory and Aleya's death as a wound — there were nine bodies on the floor, and there were no others. There had been perhaps thirty people in the chamber when the expedition left. There were thirteen alive now, including the six who had just returned. Seven Undersiders survived: Chayne. Sten. The child. And four others Kester would not learn the names of for another several hours, who had escaped through deeper passages when the attack began, and who would trickle back into the chamber over the course of the night.
 
 Seven.
 
@@ -537,7 +537,7 @@ He still had three fingers left over.
 
 Sable was kneeling beside Tev's body.
 
-She had not, since they came into the chamber, made a sound. She had moved to Roon first, helped Davour stabilize him, accepted the field kit, applied the dressings. She had moved to Chayne next, listened to his account, said *thank you, Chayne, you did right*. She had moved to the child on the cot, looked at her, touched her hair very lightly, said nothing.
+She had not, since they came into the chamber, made a sound. She had moved to Sten first, helped Davour stabilize him, accepted the field kit, applied the dressings. She had moved to Chayne next, listened to his account, said *thank you, Chayne, you did right*. She had moved to the child on the cot, looked at her, touched her hair very lightly, said nothing.
 
 She had come to Tev last.
 
@@ -551,7 +551,7 @@ Then she stood up, slowly, and she turned, and she looked at the chamber, and sh
 
 She said, in a voice that was perfectly steady:
 
-"We bury them tonight. We take care of Roon. We feed the child. Tomorrow we move. The chamber is no longer ours. The under-levels are no longer ours. The Board has known about this place for years and we have been living in their attic. We are going to find somewhere they have not yet thought of, and we are going to take what Yenna has, and we are going to figure out what to do next." She paused. Her eyes moved across the chamber. They moved across Kester's face. They did not linger. "Kester."
+"We bury them tonight. We take care of Sten. We feed the child. Tomorrow we move. The chamber is no longer ours. The under-levels are no longer ours. The Board has known about this place for years and we have been living in their attic. We are going to find somewhere they have not yet thought of, and we are going to take what Yenna has, and we are going to figure out what to do next." She paused. Her eyes moved across the chamber. They moved across Kester's face. They did not linger. "Kester."
 
 "Yes."
 

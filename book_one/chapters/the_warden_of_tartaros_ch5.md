@@ -5,7 +5,7 @@ The first reports came through the under-levels' stolen feed at oh-six-hundred l
 
 They were watching, specifically, an emergency broadcast from the Hegemony Information Office.
 
-Sable, Kester, Chayne, Tev, Roon, and a half-dozen other Undersiders were crowded around the cracked salvaged display in the chamber's east alcove. The feed kept stuttering. The audio was running half a second behind the picture. None of that mattered.
+Sable, Kester, Chayne, Tev, Sten, and a half-dozen other Undersiders were crowded around the cracked salvaged display in the chamber's east alcove. The feed kept stuttering. The audio was running half a second behind the picture. None of that mattered.
 
 A woman in the gray uniform of the Information Office was reading from a prepared statement. Behind her, a still photograph of Bastien Orrel filled most of the screen — a younger Orrel, Kester noted with a small distant shock, perhaps fifteen years younger, in formal Hegemony Corrections dress, accepting some commendation from a man whose face had been carefully cropped out of the frame.
 
@@ -23,7 +23,7 @@ Tev made a small, ugly sound in the back of her throat.
 
 "That's the first wave," Chayne said quietly. "There will be more. They will not address Wing Seven directly for several days. They will let the news cycle find its shape, and then they will release a 'preliminary finding' that confirms abuses and identifies a specific subset of personnel responsible. They will arrest five or six guards. They will name Orrel as the central figure but decline to comment further pending trial. They will offer compensation to the families of the named dead. They will be very, very careful with the language. By the end of the second week, the story will be a *reform story* rather than an *atrocity story*. By the end of the month, it will be a story about how well the Hegemony self-corrects."
 
-"You sound like you've watched this happen before," Roon said.
+"You sound like you've watched this happen before," Sten said.
 
 "I have," Chayne said. "Many times. From the inside."
 
@@ -67,13 +67,13 @@ He did not say this out loud. He was learning, slowly, that some things did not 
 
 The records came an hour later.
 
-Roon brought them down on a salvaged data tablet — the Undersiders had been quietly siphoning administrative documents from the facility's network for years, storing them on cold drives buried in the under-level's structural concrete, and Kester had given Chayne a list of what to look for the night before. Chayne had given the list to Roon. Roon had spent six hours pulling files.
+Sten brought them down on a salvaged data tablet — the Undersiders had been quietly siphoning administrative documents from the facility's network for years, storing them on cold drives buried in the under-level's structural concrete, and Kester had given Chayne a list of what to look for the night before. Chayne had given the list to Sten. Sten had spent six hours pulling files.
 
 There were a lot of files.
 
 "Vorlith first," Kester said.
 
-Roon scrolled. "Sennae Vorlith, Doctor of — " He squinted at the screen. "Doctor of *applied biosystemic integration*, that's a department I've never heard of. University of Cresswell, on Andra Prime. Hegemony Research Council, Tier Three clearance. Travel records to Tartaros, twice yearly, 2363 through 2369. After 2369, no travel records to Tartaros at all."
+Sten scrolled. "Sennae Vorlith, Doctor of — " He squinted at the screen. "Doctor of *applied biosystemic integration*, that's a department I've never heard of. University of Cresswell, on Andra Prime. Hegemony Research Council, Tier Three clearance. Travel records to Tartaros, twice yearly, 2363 through 2369. After 2369, no travel records to Tartaros at all."
 
 "Where did she go after 2369."
 
@@ -85,7 +85,7 @@ Roon scrolled. "Sennae Vorlith, Doctor of — " He squinted at the screen. "Doct
 
 "What did she do here. Before she stopped coming."
 
-Roon scrolled again. "Site visits to Wing Seven, every visit. Site visits to the medical wing's secondary lab — that's the one in the lower complex, the one that doesn't appear on most of the floor plans. Site visits to — " He paused. "Huh."
+Sten scrolled again. "Site visits to Wing Seven, every visit. Site visits to the medical wing's secondary lab — that's the one in the lower complex, the one that doesn't appear on most of the floor plans. Site visits to — " He paused. "Huh."
 
 "What."
 
@@ -105,7 +105,7 @@ Kester felt something cold slide along the inside of his ribs.
 
 Kester did not answer.
 
-Chayne said, very carefully: "Roon. How often did Dr. Vorlith visit Building Twelve."
+Chayne said, very carefully: "Sten. How often did Dr. Vorlith visit Building Twelve."
 
 "Every trip."
 
@@ -115,7 +115,7 @@ Chayne said, very carefully: "Roon. How often did Dr. Vorlith visit Building Twe
 
 "What was she doing there."
 
-Roon scrolled through the records. "Visit purpose: *cohort assessment.* That's the only phrase listed. For all of them. Six years of *cohort assessment.*"
+Sten scrolled through the records. "Visit purpose: *cohort assessment.* That's the only phrase listed. For all of them. Six years of *cohort assessment.*"
 
 The phrase landed in the chamber and sat there, in the cold air, between all of them.
 
@@ -131,11 +131,11 @@ For six years.
 
 "Show me the pediatric records," Kester said. His voice did not sound like his own. "Building Twelve. From 2363 forward."
 
-Roon hesitated. "Kester — "
+Sten hesitated. "Kester — "
 
 "Show me."
 
-Roon pulled up the file. It was a thin file. Building Twelve was a small ward and the Hegemony did not waste paperwork on prisoners' children — admission records, growth charts, a few discharge notes when children turned eighteen and were transferred to the general adult population.
+Sten pulled up the file. It was a thin file. Building Twelve was a small ward and the Hegemony did not waste paperwork on prisoners' children — admission records, growth charts, a few discharge notes when children turned eighteen and were transferred to the general adult population.
 
 Kester read.
 
@@ -237,7 +237,7 @@ She did not slam any doors. She did not hit any walls. She walked out, into the 
 
 Tev was crying without sound. Chayne sat with his hands folded on his knees and his eyes closed.
 
-Roon was looking at Kester.
+Sten was looking at Kester.
 
 "You didn't know," he said.
 
@@ -247,11 +247,11 @@ Roon was looking at Kester.
 
 "I knew there was a line item called Substrate Maintenance that I filed every quarter. I — I didn't know. I told myself I didn't know."
 
-"There's a difference," Roon said.
+"There's a difference," Sten said.
 
 "Is there."
 
-Roon thought about it.
+Sten thought about it.
 
 "I don't know," he said, finally.
 
@@ -259,11 +259,11 @@ Roon thought about it.
 
 Kester sat with the file open on the tablet for an hour.
 
-He read through the forty-seven records again. He read them slowly. He made himself look at each name. He made himself sit with the dates. He made himself acknowledge that the children had been ages two, and four, and seven, and ten, and one of them had been fourteen years old and had died of *cardiac arrest* on a date that aligned exactly with Dr. Vorlith's spring 2367 visit, and he had probably signed the woman's travel voucher for that trip.
+He read through the forty-seven records again. He read them slowly. He made himself look at each name. He made himself sit with the dates. He made himself acknowledge that the children had been ages two, and four, and seven, and ten, and one of them had been fourteen years old and had died of *cardiac arrest* on a date that aligned exactly with Dr. Vorlith's spring 2367 visit — one of the visits that predated his posting to Tartaros, though he had signed her travel vouchers, year after year, in the time since.
 
 He thought about his daughter.
 
-Lira had been ten years old, on Andra Prime, the year that fourteen-year-old girl had died in Building Twelve. Lira had been eating real strawberries under sodium lamps and going to school on water-skids across the under-ice canals. She had been writing him letters that he had not, that year, yet stopped receiving. She had been — what had she been doing on the spring afternoon when he signed the voucher that brought Sennae Vorlith to Tartaros? He did not know. He had not known then. He could not know now. He had been a man who did not look at his daughter's life with sufficient attention to retain its details, because he had been a man who was busy, and his work had been important, and the work had paid for the strawberries, and on some level he had believed that the strawberries were the point.
+Lira had been eleven years old, on Andra Prime, the year that fourteen-year-old girl had died in Building Twelve. Lira had been eating real strawberries under sodium lamps and riding the cable-trams to school between the terraces. She had been writing him letters that he had not, that year, yet stopped receiving. She had been — what had she been doing on the spring afternoon when he signed the voucher that brought Sennae Vorlith to Tartaros? He did not know. He had not known then. He could not know now. He had been a man who did not look at his daughter's life with sufficient attention to retain its details, because he had been a man who was busy, and his work had been important, and the work had paid for the strawberries, and on some level he had believed that the strawberries were the point.
 
 Andra Prime. The terraced city. The home world.
 

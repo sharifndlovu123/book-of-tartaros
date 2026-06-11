@@ -1,11 +1,11 @@
 # The Warden of Tartaros
 ## Chapter Six: Building Twelve
 
-They went in through a service shaft that Roon had spent two years opening, one welded grate at a time, and they came out in a maintenance corridor sixty meters east of Building Twelve's south door.
+They went in through a service shaft that Sten had spent two years opening, one welded grate at a time, and they came out in a maintenance corridor sixty meters east of Building Twelve's south door.
 
 It was 02:14 facility time. The corridor was empty. The pediatric ward, on its visible schedule, ran a skeleton night staff of two — one nurse, one orderly — and Tev had spent the last six hours teaching Sable and Kester both their faces.
 
-Kester carried a stolen sidearm he had not yet fired. Sable carried a pry bar and a salvaged stun baton. Tev carried a medical bag. Roon stayed behind in the under-levels with the broadcast deck and the comms relay; if they did not return by 04:30, he would burn the access shaft and reseal it from the chamber side, and the under-levels would lose Building Twelve forever.
+Kester carried a stolen sidearm he had not yet fired. Sable carried a pry bar and a salvaged stun baton. Tev carried a medical bag. Sten stayed behind in the under-levels with the broadcast deck and the comms relay; if they did not return by 04:30, he would burn the access shaft and reseal it from the chamber side, and the under-levels would lose Building Twelve forever.
 
 They did not say anything to each other in the corridor.
 
@@ -25,15 +25,15 @@ She was perhaps fifty, gray-haired, wearing the faded blue scrubs of long-term w
 
 "Tev?" she said.
 
-"Hello, Maren."
+"Hello, Esme."
 
-Maren did not reach for an alarm. She did not stand up. She looked at Tev, and at Sable, and at Kester, and at the pry bar and the stun baton and the sidearm, and she said, very quietly:
+Esme did not reach for an alarm. She did not stand up. She looked at Tev, and at Sable, and at Kester, and at the pry bar and the stun baton and the sidearm, and she said, very quietly:
 
 "Are you here for the children."
 
 "Yes," Tev said.
 
-Maren closed her eyes.
+Esme closed her eyes.
 
 "Thank you," she said.
 
@@ -45,7 +45,7 @@ Sable's face did not change.
 
 "Where."
 
-"Down. The lab. They got an alert from somewhere — I don't know where, I'm just on duty up here. They came up the stairs and they took every child and they brought them down. I tried to ask. I am not authorized to ask." Maren's hands were shaking now. She had not stood up. "There is one child still in Room Two. They left her. She is — she has been ill for a week, they said she was not viable for transfer. I have been giving her water. I have not been able to do anything else. I am not authorized."
+"Down. The lab. They got an alert from somewhere — I don't know where, I'm just on duty up here. They came up the stairs and they took every child and they brought them down. I tried to ask. I am not authorized to ask." Esme's hands were shaking now. She had not stood up. "There is one child still in Room Two. They left her. She is — she has been ill for a week, they said she was not viable for transfer. I have been giving her water. I have not been able to do anything else. I am not authorized."
 
 "Her name," Tev said.
 
@@ -53,13 +53,13 @@ Sable's face did not change.
 
 Tev nodded.
 
-"Maren," she said. "We are going to take Aleya. We are going to go down to the lab. We are not going to come back this way. You understand what will happen to you when they find us missing."
+"Esme," she said. "We are going to take Aleya. We are going to go down to the lab. We are not going to come back this way. You understand what will happen to you when they find us missing."
 
 "Yes."
 
 "Why are you helping us."
 
-Maren looked at Tev. Her mouth worked for a moment.
+Esme looked at Tev. Her mouth worked for a moment.
 
 "My son," she said. "He came through this ward in 2358. He was four. They told me he died of pneumonia. I worked here for sixteen more years because they told me if I left, my husband would be reassigned. My husband died in 2367 of an industrial accident that I do not believe was an accident. I have been waiting for sixteen years to be asked the question you have just asked me. I am very tired, Tev. Please go get the girl."
 
@@ -93,7 +93,7 @@ Sable was at the door. Her face had gone the particular color it went when she w
 
 "They have the rest of them. We have to go."
 
-Kester said, quietly: "Sable. The cohort has been moved. By the time we get down there they will have moved them again, or — or done what they need to do. We have Aleya. We have Maren's testimony. We have what we came for."
+Kester said, quietly: "Sable. The cohort has been moved. By the time we get down there they will have moved them again, or — or done what they need to do. We have Aleya. We have Esme's testimony. We have what we came for."
 
 "We came," Sable said, "for the children."
 
@@ -101,27 +101,27 @@ Kester said, quietly: "Sable. The cohort has been moved. By the time we get down
 
 "There are eleven more in that lab."
 
-"And if we go down there now, there will be twelve dead bodies including ours, and Aleya will die in a corridor on the way out, and we will not have been a witness to anything anyone will ever read about." Kester was speaking very carefully. He was speaking the way he had spoken to Orrel at the dinner table in 2367 when Orrel had wanted to send a prisoner he liked to Wing Seven and Kester had argued, on procedural grounds, that the prisoner should be assigned elsewhere. He had won that argument. He had saved that prisoner. The prisoner had died fourteen months later in a labor accident that was probably not an accident, but he had won the argument at the table. "Sable. We came for evidence. We have a witness. We have a survivor. We have a name. We can't save the eleven tonight. We can carry one of them home."
+"And if we go down there now, there will be twelve dead bodies including ours, and Aleya will die in a corridor on the way out, and we will not have been a witness to anything anyone will ever read about." Kester was speaking very carefully. He was speaking the way he had spoken to Orrel at the dinner table in 2371 when Orrel had wanted to send a prisoner he liked to Wing Seven and Kester had argued, on procedural grounds, that the prisoner should be assigned elsewhere. He had won that argument. He had saved that prisoner. The prisoner had died fourteen months later in a labor accident that was probably not an accident, but he had won the argument at the table. "Sable. We came for evidence. We have a witness. We have a survivor. We have a name. We can't save the eleven tonight. We can carry one of them home."
 
 Sable looked at him.
 
 She looked at Aleya, asleep on Tev's shoulder.
 
-She looked at Maren, who had not moved from her seat at the front desk.
+She looked at Esme, who had not moved from her seat at the front desk.
 
-"Maren," Sable said.
+"Esme," Sable said.
 
 "Yes."
 
 "What is in the lab. Right now. Tonight."
 
-Maren's hands tightened on the edge of her desk.
+Esme's hands tightened on the edge of her desk.
 
-"I don't know specifically. I only know what I have been told over the years, in fragments, by colleagues who were not careful. There is a procedure they perform on the children in batches. The children who survive the procedure are — they are kept. Somewhere. Not in this building. The children who do not survive are — there is a recovery protocol." Maren's voice was steady, the way a person's voice is steady when they have rehearsed something many times in their head before saying it aloud. "The procedures happen in waves. Twice a year, when the doctor visits. Tonight is not a wave. Tonight is — I think tonight the children are being moved because of you. I think they are being moved off Tartaros."
+"I don't know specifically. I only know what I have been told over the years, in fragments, by colleagues who were not careful. There is a procedure they perform on the children in batches. The children who survive the procedure are — they are kept. Somewhere. Not in this building. The children who do not survive are — there is a recovery protocol." Esme's voice was steady, the way a person's voice is steady when they have rehearsed something many times in their head before saying it aloud. "The procedures happen in waves. Twice a year, when the doctor visits. Tonight is not a wave. Tonight is — I think tonight the children are being moved because of you. I think they are being moved off Tartaros."
 
 "Off Tartaros," Sable repeated.
 
-"There is a transport. It comes once a year. It takes the children who have survived the procedures to — somewhere else. Another facility. I do not know where. I am not authorized." Maren's voice cracked slightly. "If they have moved the children to the lab tonight, it is because the transport is leaving early. It is because they are protecting the cohort from you."
+"There is a transport. It comes once a year. It takes the children who have survived the procedures to — somewhere else. Another facility. I do not know where. I am not authorized." Esme's voice cracked slightly. "If they have moved the children to the lab tonight, it is because the transport is leaving early. It is because they are protecting the cohort from you."
 
 Sable closed her eyes.
 
@@ -129,15 +129,15 @@ For a moment Kester thought she was going to argue. He thought she was going to 
 
 Sable did not argue.
 
-She opened her eyes. She nodded, once, to Tev. She turned to Maren.
+She opened her eyes. She nodded, once, to Tev. She turned to Esme.
 
-"Maren," she said. "Come with us."
+"Esme," she said. "Come with us."
 
 "I cannot."
 
-"Maren — "
+"Esme — "
 
-"If I disappear tonight they will know within an hour. If I am at this desk when the morning shift arrives, they will not know for hours. By then you will be deep enough in the under-levels that they will not find you tonight. This is the help I can give you. Please take it." Maren's eyes were wet but her voice was not. "Take Aleya. Tell someone what happened to my son. His name was Riel. He was four. Please."
+"If I disappear tonight they will know within an hour. If I am at this desk when the morning shift arrives, they will not know for hours. By then you will be deep enough in the under-levels that they will not find you tonight. This is the help I can give you. Please take it." Esme's eyes were wet but her voice was not. "Take Aleya. Tell someone what happened to my son. His name was Riel. He was four. Please."
 
 Sable looked at her for a long moment.
 
@@ -145,25 +145,25 @@ Sable looked at her for a long moment.
 
 "Thank you."
 
-"I will tell everyone, Maren. I will not stop telling them."
+"I will tell everyone, Esme. I will not stop telling them."
 
-Maren nodded.
+Esme nodded.
 
 They left.
 
 ---
 
-They went out through the maintenance corridor and back through Roon's shaft and they did not encounter another human being for the entire return. Aleya slept against Tev's shoulder for the whole walk. She woke briefly, twice, and asked Tev where they were going, and Tev told her *somewhere warmer*, and Aleya seemed to find this answer sufficient.
+They went out through the maintenance corridor and back through Sten's shaft and they did not encounter another human being for the entire return. Aleya slept against Tev's shoulder for the whole walk. She woke briefly, twice, and asked Tev where they were going, and Tev told her *somewhere warmer*, and Aleya seemed to find this answer sufficient.
 
 When they came up into the under-levels' chamber, the Undersiders rose to their feet without speaking.
 
-Roon saw the child. His face did something Kester had not expected to see on Roon's face — it broke open, briefly, into something that was not joy but was a close cousin of joy, the way a person looks when they have been carrying a load too heavy for too long and have just been told they can set part of it down.
+Sten saw the child. His face did something Kester had not expected to see on Sten's face — it broke open, briefly, into something that was not joy but was a close cousin of joy, the way a person looks when they have been carrying a load too heavy for too long and have just been told they can set part of it down.
 
 Chayne brought a clean blanket. Someone had heated water on a salvaged burner. Tev carried Aleya to a cot they had prepared three hours earlier, in a quieter alcove with a single worklight, and she set the child down with the practiced gentleness of a woman who had nursed for fifteen years before her conviction.
 
 For perhaps an hour, the chamber was full of life.
 
-Sable sat by Aleya's cot and held the girl's hand and did not let go. Aleya woke once and asked Sable who she was, and Sable said *I'm a friend*, and Aleya nodded and went back to sleep. Tev was at her medical bag, working through it with the focused calm of a professional preparing for something. Chayne brought broth. Roon brought clean water. The worklight was warm and the blanket was clean and the chamber was, for the first time since the broadcast, a place where something had gone *right*.
+Sable sat by Aleya's cot and held the girl's hand and did not let go. Aleya woke once and asked Sable who she was, and Sable said *I'm a friend*, and Aleya nodded and went back to sleep. Tev was at her medical bag, working through it with the focused calm of a professional preparing for something. Chayne brought broth. Sten brought clean water. The worklight was warm and the blanket was clean and the chamber was, for the first time since the broadcast, a place where something had gone *right*.
 
 Kester sat at the table where his ration cards still lay in their underlined forest.
 
@@ -235,7 +235,7 @@ Kester nodded.
 
 Tev looked at him.
 
-"You sit with your cards, Kester. You write down everything Maren told us. You write down the name *Riel*, age four, year 2358. You write down everything Aleya says before she goes to sleep. You write down the words Maren used for the procedures. You make a record. That is what you do." She paused. "The rest of us are going to grieve. The chamber is going to be a hard place tonight. Make a record. It is the work you can do. It is the work you are good at. Do it."
+"You sit with your cards, Kester. You write down everything Esme told us. You write down the name *Riel*, age four, year 2358. You write down everything Aleya says before she goes to sleep. You write down the words Esme used for the procedures. You make a record. That is what you do." She paused. "The rest of us are going to grieve. The chamber is going to be a hard place tonight. Make a record. It is the work you can do. It is the work you are good at. Do it."
 
 She stood up.
 
@@ -245,7 +245,7 @@ She knelt by the cot.
 
 She began to speak, very quietly.
 
-Kester did not look up. He picked up his pencil. He wrote, on a fresh ration card: *Maren. Pediatric ward, Building Twelve. Son: Riel, age 4, died 2358, official cause pneumonia. Husband: industrial accident 2367, suspect deliberate. Sixteen years' service post-son's death under coercion. Gave us access this night.*
+Kester did not look up. He picked up his pencil. He wrote, on a fresh ration card: *Esme. Pediatric ward, Building Twelve. Son: Riel, age 4, died 2358, official cause pneumonia. Husband: industrial accident 2367, suspect deliberate. Sixteen years' service post-son's death under coercion. Gave us access this night.*
 
 He underlined *Riel*.
 
@@ -263,7 +263,7 @@ Tev had a low voice and she did not sing well and she was singing something Kest
 
 Kester wrote.
 
-He wrote down the details of the operation, in the order they had occurred. He wrote down what Maren had said about the cohort being moved off Tartaros. He wrote down what Tev had said about the compound and its use in cohort terminations. He wrote down a sentence Aleya had said earlier, in the corridor, when Tev had been carrying her — *Are we going somewhere*, the small voice, the hands around the neck — and he wrote it down because Tev had told him to write down what Aleya said and he was going to write down everything Aleya said for as long as Aleya kept saying things, because that was the work he could do, and he had spent nine years learning to do work and not look up from it, and now finally that skill was good for something.
+He wrote down the details of the operation, in the order they had occurred. He wrote down what Esme had said about the cohort being moved off Tartaros. He wrote down what Tev had said about the compound and its use in cohort terminations. He wrote down a sentence Aleya had said earlier, in the corridor, when Tev had been carrying her — *Are we going somewhere*, the small voice, the hands around the neck — and he wrote it down because Tev had told him to write down what Aleya said and he was going to write down everything Aleya said for as long as Aleya kept saying things, because that was the work he could do, and he had spent nine years learning to do work and not look up from it, and now finally that skill was good for something.
 
 He wrote.
 
@@ -273,7 +273,7 @@ The lullaby continued.
 
 Two hours into the vigil, the feed cut through.
 
-Roon, who had been sitting at the comm relay, stood up suddenly and said, "Kester. You should see this."
+Sten, who had been sitting at the comm relay, stood up suddenly and said, "Kester. You should see this."
 
 Kester did not want to see it.
 
@@ -285,7 +285,7 @@ The Hegemony Information Office was running a special bulletin. The same gray-un
 
 The picture changed. Updated graphic. **REFORM COMMISSION ANNOUNCES SITE VISIT.**
 
-Roon snorted.
+Sten snorted.
 
 "They're going to send observers," he said. "To a facility where the lab moved tonight."
 
@@ -329,7 +329,7 @@ He kept writing.
 
 At 04:51, Tev stopped singing.
 
-She did not say anything. She simply stopped. The chamber went very quiet. Sable was holding Aleya's hand. Chayne was sitting on a folding chair with his face in his hands. Roon had turned off the relay screen and was standing with his back to the alcove, looking at nothing.
+She did not say anything. She simply stopped. The chamber went very quiet. Sable was holding Aleya's hand. Chayne was sitting on a folding chair with his face in his hands. Sten had turned off the relay screen and was standing with his back to the alcove, looking at nothing.
 
 Kester stopped writing.
 
@@ -361,7 +361,7 @@ The Hegemony had not lost tonight.
 
 The Hegemony had given them a child to lose.
 
-Six kilometers above them, in a citadel that the Hegemony had publicly told the public was now under caretaker administration, Bastien Orrel was awake. He had been awake all night. He had received the alert at 02:14, when Roon's shaft had triggered a passive sensor that the Undersiders did not know about and that Orrel had installed eight years ago against the contingency of exactly this. He had ordered the cohort moved at 02:18. He had selected the compound at 02:23. He had instructed his medical staff to leave one child behind, at 02:25, with the compound administered, because — he had explained to Dr. Vorlith over the comm, in a voice that was not warm but was patient — *we should let them feel as though they have rescued something. The lesson is more durable that way.*
+Six kilometers above them, in a citadel that the Hegemony had publicly told the public was now under caretaker administration, Bastien Orrel was awake. He had been awake all night. He had received the alert at 02:14, when Sten's shaft had triggered a passive sensor that the Undersiders did not know about and that Orrel had installed eight years ago against the contingency of exactly this. He had ordered the cohort moved at 02:18. He had selected the compound at 02:23. He had instructed his medical staff to leave one child behind, at 02:25, with the compound administered, because — he had explained to Dr. Vorlith over the comm, in a voice that was not warm but was patient — *we should let them feel as though they have rescued something. The lesson is more durable that way.*
 
 He had watched the operation through the facility's internal cameras until the team disappeared into the under-levels. Then he had poured himself a small brandy and gone to check on Mouse, who was sleeping in the room across from his office. He had stood in her doorway for a few minutes watching her breathe. Her implant was holding well. Her vital signs were stable. She would be ready for the next phase in approximately thirty-six hours.
 

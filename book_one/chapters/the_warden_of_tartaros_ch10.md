@@ -53,7 +53,7 @@ He thought about Lira.
 
 He thought about Pira on the shuttle to Andra Prime.
 
-He thought about the four uncounted children in the under-levels with Roon.
+He thought about the four uncounted children in the under-levels with Sten.
 
 He thought, with the small dim clarity of a man who had been outwitted at every stage of an operation he had thought was his, that he was now in exactly the place a Hegemony Internal Security report would describe as *Detained Subject Vaile in custody at the Harvester facility, pending arraignment*. He had walked here under his own power. He had hijacked a military shuttle to do it. The shuttle's manifest, signed by Orrel, was now the legal record by which his presence on this planet was documented. There was no version of the next several days in which Kester did not go on trial somewhere, for something. The only question was whether the trial was Hegemony or Federation, and whether he was alive when it happened.
 

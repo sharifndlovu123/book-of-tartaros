@@ -40,7 +40,7 @@ The tram car smelled like rust and old blood, and Kester Vaile was handcuffed to
 
 "You're quiet, Kester."
 
-Warden Bastien Orrel sat with his legs crossed, one polished boot swinging lazily in the low gravity. He was sixty, silver-haired, and wore the black dress uniform of the Hegemony Corrections Authority like a priest wore his vestments — with reverence. Behind him, through the tram's reinforced window, the surface of Tartaros scrolled past: a rust-red moon pockmarked with mining pits and the grey concrete scars of Facility Nine. Somewhere up above, past the haze, the gas giant Moloch filled half the sky like a bruised eye.
+Warden Bastien Orrel sat with his legs crossed, one polished boot swinging lazily in the low gravity. He was fifty-eight, silver-haired, and wore the black dress uniform of the Hegemony Corrections Authority like a priest wore his vestments — with reverence. Behind him, through the tram's reinforced window, the surface of Tartaros scrolled past: a rust-red moon pockmarked with mining pits and the grey concrete scars of Facility Nine. Somewhere up above, past the haze, the gas giant Moloch filled half the sky like a bruised eye.
 
 "I've got nothing to say to you," Kester said.
 
@@ -112,7 +112,7 @@ Kester swallowed. Wing Seven had been the medical trial block. Forty-two prisone
 
 She was quiet for a long moment. Then she lowered the rivet gun, and said, conversationally: "My brother was in Wing Seven."
 
-"I know," Kester said. "Tomas Reyek. Prisoner 8841-C. He was a welder. He had a daughter named Mira on Ganymede. He made it forty-one days."
+"I know," Kester said. "Tomas Reyek. Prisoner 8841-C. He was a welder. He had a daughter named Mira on Sephara. He made it forty-one days."
 
 Her face didn't change. But something behind her eyes did.
 
@@ -199,9 +199,9 @@ Above him, through the grating, the red eye of Moloch watched everything.
 
 The maintenance shaft beneath the comms array was forty-eight meters of vertical rust, and Kester Vaile was thinking about his daughter.
 
-He hadn't seen Lira in six years. She lived on Europa with her mother, in one of the union habitats where they grew real strawberries under sodium lamps and the children went to school on water-skids across the under-ice canals. He used to send her letters. He used to send her money. He used to tell himself that the work he did on Tartaros was *for* her, that every credit he banked was a wall against the kind of poverty that had eaten his own childhood whole.
+He hadn't seen Lira in eleven years. She lived on Andra Prime with her mother, in one of the terrace districts where they grew real strawberries under sodium lamps and the children rode the cable-trams to school between the terraces. He used to send her letters. He used to send her money. He used to tell himself that the work he did on Tartaros was *for* her, that every credit he banked was a wall against the kind of poverty that had eaten his own childhood whole.
 
-Then she'd turned twelve, and she'd written him back exactly once, and the letter had said: *Mom told me what you do. Please don't write me anymore.*
+Then, seven years ago, she'd written him back exactly once, and the letter had said: *Mom told me what you do. Please don't write me anymore.*
 
 He'd kept climbing the corporate ladder anyway. What else was there to do.
 
@@ -233,7 +233,7 @@ They had been waiting for a key.
 
 Kester was the key.
 
-His biometric signature — retina, palm, voice — was still in the system, because Orrel had wanted him alive long enough to extract the inspector's data core location. The warden had not yet had time, in the chaos of the tram bombing and Kester's disappearance into the under-levels, to revoke his clearance. Orrel was many things, but he was also a man who hated paperwork; revocation required a signed order through Hegemony Central, and Orrel preferred to do it personally, with ceremony, over a glass of the Martian brandy he kept locked in his desk.
+His biometric signature — retina, palm, voice — was still in the system, because Orrel had wanted him alive long enough to extract the inspector's data core location. The warden had not yet had time, in the chaos of the tram bombing and Kester's disappearance into the under-levels, to revoke his clearance. Orrel was many things, but he was also a man who hated paperwork; revocation required a signed order through Hegemony Central, and Orrel preferred to do it personally, with ceremony, over a glass of the Verdaine brandy he kept locked in his desk.
 
 Kester had sat across from him during three such revocations, over the years. He had watched Orrel pour the brandy with one hand and sign the death warrant with the other.
 
@@ -249,7 +249,7 @@ Kester froze. Above them, through the shaft's open grating, a guard's footsteps 
 
 The footsteps stopped directly above them.
 
-Kester held his breath. He watched, through the slats of the grating, the guard's silhouette: helmet, rifle, the dull green glow of a heads-up display reflected on a faceplate. He could smell the man's cigarettes through the ventilation. *Vorka brand*, he thought, with the strange clarity of fear. *He buys them from the commissary on credit. His name is Renko. He has a wife on Phobos. I approved his hardship leave last year so he could attend her father's funeral.*
+Kester held his breath. He watched, through the slats of the grating, the guard's silhouette: helmet, rifle, the dull green glow of a heads-up display reflected on a faceplate. He could smell the man's cigarettes through the ventilation. *Vorka brand*, he thought, with the strange clarity of fear. *He buys them from the commissary on credit. His name is Renko. He has a wife on Sephara. I approved his hardship leave last year so he could attend her father's funeral.*
 
 Renko coughed. Spat. Moved on.
 
@@ -367,7 +367,7 @@ Then she sat down at the console, and pulled the microphone toward her, and said
 
 She kept talking.
 
-And six kilometers away, in a citadel lit by red emergency strobes, Warden Bastien Orrel set down his glass of Martian brandy, very carefully, and reached for the kill-switch he kept in his vest pocket.
+And six kilometers away, in a citadel lit by red emergency strobes, Warden Bastien Orrel set down his glass of Verdaine brandy, very carefully, and reached for the kill-switch he kept in his vest pocket.
 
 ---
 
@@ -440,7 +440,7 @@ The crawl ran for two hundred meters and dropped them into a service lock he had
 
 She was nineteen.
 
-She was nineteen and she had taken the keycard off the dead man without looking at his face, because she had known him for years and she had also known, in some operational compartment of her mind, that this was going to happen and she had decided in advance that she would not look. Kester thought of his daughter on Europa. Lira would be twenty-two now. He thought of the strawberries under sodium lamps. He thought of the way Mouse moved — competent, calm, terrible — and he understood that there was no version of this story where she got to grow into the woman she might have been if she had been born somewhere else.
+She was nineteen and she had taken the keycard off the dead man without looking at his face, because she had known him for years and she had also known, in some operational compartment of her mind, that this was going to happen and she had decided in advance that she would not look. Kester thought of his daughter on Andra Prime. Lira would be twenty-two now. He thought of the strawberries under sodium lamps. He thought of the way Mouse moved — competent, calm, terrible — and he understood that there was no version of this story where she got to grow into the woman she might have been if she had been born somewhere else.
 
 He hated, in that moment, the man who had built her into this. He hated, in that moment, every version of himself who had helped.
 
@@ -643,7 +643,7 @@ He had a stub of pencil and a stack of salvaged ration cards — the Undersiders
 
 He had written *Wing Seven*. He had written *external consultants*. He had written *Calderon*, three times, in three different places on three different cards, as if writing it more would make him understand it more. It had not.
 
-He had also written a name. *Dr. Sennae Vorlith.* He had stared at the name for a long time before writing it down, because he had not thought of it in seven years and he was not entirely sure he had not invented it. But the more he held it in his mind, the more solid it became. She had come to Tartaros twice a year for six years. She had stopped coming sometime around 2369. He had filed her travel vouchers personally. He had once shared an elevator with her and she had said *good morning, Mr. Vaile*, and her voice had been soft and academic and entirely unmemorable, and he had filed her vouchers for three years afterward without ever once asking what a Dr. Sennae Vorlith was a doctor *of*.
+He had also written a name. *Dr. Sennae Vorlith.* He had stared at the name for a long time before writing it down, because he had not thought of it in seven years and he was not entirely sure he had not invented it. But the more he held it in his mind, the more solid it became. She had come to Tartaros twice a year for six years. She had stopped coming sometime around 2369. He had filed her travel vouchers personally. He had once shared an elevator with her and she had said *good morning, Mr. Vaile*, and her voice had been soft and academic and entirely unmemorable, and he had filed what vouchers of hers crossed his desk in the time afterward without ever once asking what a Dr. Sennae Vorlith was a doctor *of*.
 
 He wrote her name on the card.
 
@@ -657,13 +657,13 @@ Sable was somewhere in the chamber's east wing, doing whatever a person does whe
 
 So he sat with the pencil and the ration cards and the worklight and tried to remember.
 
-It came back the way memory always came back to him — sideways, in fragments, prompted by the wrong things. The smell of the under-levels' machine oil reminded him of a service report he had filed in 2367 about a malfunctioning autoclave in the medical wing. The autoclave had been running hot for months. The report had recommended replacement. Replacement had been denied. He had refiled the report three times before the request was approved, by which point the autoclave had been running hot for two years, and Kester had not asked why an autoclave running hot was acceptable for two years in a medical wing that handled human tissue.
+It came back the way memory always came back to him — sideways, in fragments, prompted by the wrong things. The smell of the under-levels' machine oil reminded him of a service report he had filed in 2370 about a malfunctioning autoclave in the medical wing. The autoclave had been running hot for months. The report had recommended replacement. Replacement had been denied. He had refiled the report three times before the request was approved, by which point the autoclave had been running hot for two years, and Kester had not asked why an autoclave running hot was acceptable for two years in a medical wing that handled human tissue.
 
 Now, in the cold of the under-level, he asked.
 
 *Because they didn't want it sterile,* his mind answered, in a voice that was perhaps his own and perhaps not. *Because whatever they were running through it, sterilization would have damaged.*
 
-He wrote *autoclave 2367* on a ration card.
+He wrote *autoclave 2370* on a ration card.
 
 He underlined it.
 
@@ -679,7 +679,7 @@ He set the card aside.
 
 ---
 
-There were people in the chamber with him, though he had been ignoring them. Three Undersiders Sable had introduced him to before she walked away — a woman called Tev who had been a nurse before her arrest, a man called Roon who had been nothing in particular before his arrest and was now apparently the one who managed the chamber's air recyclers, and a thin elderly man called Chayne who Kester suspected had been a teacher of some kind in his previous life and who was watching Kester with an expression of mild, patient curiosity that Kester found unbearable.
+There were people in the chamber with him, though he had been ignoring them. Three Undersiders Sable had introduced him to before she walked away — a woman called Tev who had been a nurse before her arrest, a man called Sten who had been nothing in particular before his arrest and was now apparently the one who managed the chamber's air recyclers, and a thin elderly man called Chayne who Kester suspected had been a teacher of some kind in his previous life and who was watching Kester with an expression of mild, patient curiosity that Kester found unbearable.
 
 "Mr. Vaile," Chayne said, eventually.
 
@@ -697,7 +697,7 @@ Kester opened his mouth to say no, and then he stopped, and he thought about it.
 
 Chayne pulled a folding chair over and sat down. He moved like a man who was in pain and had been for a long time, and who had decided years ago not to mention it. He set his hands on his knees. His knuckles were swollen.
 
-"I was a records officer," Chayne said. "Before. On Korya. I worked in municipal archives for thirty-one years."
+"I was a records officer," Chayne said. "Before. On Sephara. I worked in municipal archives for thirty-one years."
 
 "Why are you here."
 
@@ -823,7 +823,7 @@ Then she said: "We need a next move."
 
 "That's where I want to start."
 
-"Then we start there. Tonight. Chayne can help with the records. Tev knows the medical wing's old layout — she nursed there for two years before she was transferred. Roon can get us power and air for as deep as we need to go." Sable rubbed her face. "We have two objectives now, Kester. Mouse and the truth. If we can get one we can probably get both. If we can't get either we are going to die down here in the dark."
+"Then we start there. Tonight. Chayne can help with the records. Tev knows the medical wing's old layout — she nursed there for two years before she was transferred. Sten can get us power and air for as deep as we need to go." Sable rubbed her face. "We have two objectives now, Kester. Mouse and the truth. If we can get one we can probably get both. If we can't get either we are going to die down here in the dark."
 
 "Yes."
 
@@ -889,7 +889,7 @@ Kester had filed those phrases for nine years.
 
 He had not yet realized that he had been carrying the cipher in his hands the entire time.
 
-He fell asleep, finally, just before the air recyclers cycled into their dawn rotation. He dreamed of his daughter on Europa, walking on water-skids across the under-ice canals, holding a strawberry up to the sodium lamps to see the light through it. In the dream she turned to him and smiled, and her smile was Mouse's smile, and he woke up before he could decide what that meant.
+He fell asleep, finally, just before the air recyclers cycled into their dawn rotation. He dreamed of his daughter on Andra Prime, riding the cable-trams down through the terraces, holding a strawberry up to the sodium lamps to see the light through it. In the dream she turned to him and smiled, and her smile was Mouse's smile, and he woke up before he could decide what that meant.
 
 ---
 
@@ -902,7 +902,7 @@ The first reports came through the under-levels' stolen feed at oh-six-hundred l
 
 They were watching, specifically, an emergency broadcast from the Hegemony Information Office.
 
-Sable, Kester, Chayne, Tev, Roon, and a half-dozen other Undersiders were crowded around the cracked salvaged display in the chamber's east alcove. The feed kept stuttering. The audio was running half a second behind the picture. None of that mattered.
+Sable, Kester, Chayne, Tev, Sten, and a half-dozen other Undersiders were crowded around the cracked salvaged display in the chamber's east alcove. The feed kept stuttering. The audio was running half a second behind the picture. None of that mattered.
 
 A woman in the gray uniform of the Information Office was reading from a prepared statement. Behind her, a still photograph of Bastien Orrel filled most of the screen — a younger Orrel, Kester noted with a small distant shock, perhaps fifteen years younger, in formal Hegemony Corrections dress, accepting some commendation from a man whose face had been carefully cropped out of the frame.
 
@@ -920,7 +920,7 @@ Tev made a small, ugly sound in the back of her throat.
 
 "That's the first wave," Chayne said quietly. "There will be more. They will not address Wing Seven directly for several days. They will let the news cycle find its shape, and then they will release a 'preliminary finding' that confirms abuses and identifies a specific subset of personnel responsible. They will arrest five or six guards. They will name Orrel as the central figure but decline to comment further pending trial. They will offer compensation to the families of the named dead. They will be very, very careful with the language. By the end of the second week, the story will be a *reform story* rather than an *atrocity story*. By the end of the month, it will be a story about how well the Hegemony self-corrects."
 
-"You sound like you've watched this happen before," Roon said.
+"You sound like you've watched this happen before," Sten said.
 
 "I have," Chayne said. "Many times. From the inside."
 
@@ -964,13 +964,13 @@ He did not say this out loud. He was learning, slowly, that some things did not 
 
 The records came an hour later.
 
-Roon brought them down on a salvaged data tablet — the Undersiders had been quietly siphoning administrative documents from the facility's network for years, storing them on cold drives buried in the under-level's structural concrete, and Kester had given Chayne a list of what to look for the night before. Chayne had given the list to Roon. Roon had spent six hours pulling files.
+Sten brought them down on a salvaged data tablet — the Undersiders had been quietly siphoning administrative documents from the facility's network for years, storing them on cold drives buried in the under-level's structural concrete, and Kester had given Chayne a list of what to look for the night before. Chayne had given the list to Sten. Sten had spent six hours pulling files.
 
 There were a lot of files.
 
 "Vorlith first," Kester said.
 
-Roon scrolled. "Sennae Vorlith, Doctor of — " He squinted at the screen. "Doctor of *applied biosystemic integration*, that's a department I've never heard of. University of Cresswell, on Andra Prime. Hegemony Research Council, Tier Three clearance. Travel records to Tartaros, twice yearly, 2363 through 2369. After 2369, no travel records to Tartaros at all."
+Sten scrolled. "Sennae Vorlith, Doctor of — " He squinted at the screen. "Doctor of *applied biosystemic integration*, that's a department I've never heard of. University of Cresswell, on Andra Prime. Hegemony Research Council, Tier Three clearance. Travel records to Tartaros, twice yearly, 2363 through 2369. After 2369, no travel records to Tartaros at all."
 
 "Where did she go after 2369."
 
@@ -982,7 +982,7 @@ Roon scrolled. "Sennae Vorlith, Doctor of — " He squinted at the screen. "Doct
 
 "What did she do here. Before she stopped coming."
 
-Roon scrolled again. "Site visits to Wing Seven, every visit. Site visits to the medical wing's secondary lab — that's the one in the lower complex, the one that doesn't appear on most of the floor plans. Site visits to — " He paused. "Huh."
+Sten scrolled again. "Site visits to Wing Seven, every visit. Site visits to the medical wing's secondary lab — that's the one in the lower complex, the one that doesn't appear on most of the floor plans. Site visits to — " He paused. "Huh."
 
 "What."
 
@@ -1002,7 +1002,7 @@ Kester felt something cold slide along the inside of his ribs.
 
 Kester did not answer.
 
-Chayne said, very carefully: "Roon. How often did Dr. Vorlith visit Building Twelve."
+Chayne said, very carefully: "Sten. How often did Dr. Vorlith visit Building Twelve."
 
 "Every trip."
 
@@ -1012,7 +1012,7 @@ Chayne said, very carefully: "Roon. How often did Dr. Vorlith visit Building Twe
 
 "What was she doing there."
 
-Roon scrolled through the records. "Visit purpose: *cohort assessment.* That's the only phrase listed. For all of them. Six years of *cohort assessment.*"
+Sten scrolled through the records. "Visit purpose: *cohort assessment.* That's the only phrase listed. For all of them. Six years of *cohort assessment.*"
 
 The phrase landed in the chamber and sat there, in the cold air, between all of them.
 
@@ -1028,11 +1028,11 @@ For six years.
 
 "Show me the pediatric records," Kester said. His voice did not sound like his own. "Building Twelve. From 2363 forward."
 
-Roon hesitated. "Kester — "
+Sten hesitated. "Kester — "
 
 "Show me."
 
-Roon pulled up the file. It was a thin file. Building Twelve was a small ward and the Hegemony did not waste paperwork on prisoners' children — admission records, growth charts, a few discharge notes when children turned eighteen and were transferred to the general adult population.
+Sten pulled up the file. It was a thin file. Building Twelve was a small ward and the Hegemony did not waste paperwork on prisoners' children — admission records, growth charts, a few discharge notes when children turned eighteen and were transferred to the general adult population.
 
 Kester read.
 
@@ -1134,7 +1134,7 @@ She did not slam any doors. She did not hit any walls. She walked out, into the 
 
 Tev was crying without sound. Chayne sat with his hands folded on his knees and his eyes closed.
 
-Roon was looking at Kester.
+Sten was looking at Kester.
 
 "You didn't know," he said.
 
@@ -1144,11 +1144,11 @@ Roon was looking at Kester.
 
 "I knew there was a line item called Substrate Maintenance that I filed every quarter. I — I didn't know. I told myself I didn't know."
 
-"There's a difference," Roon said.
+"There's a difference," Sten said.
 
 "Is there."
 
-Roon thought about it.
+Sten thought about it.
 
 "I don't know," he said, finally.
 
@@ -1156,11 +1156,11 @@ Roon thought about it.
 
 Kester sat with the file open on the tablet for an hour.
 
-He read through the forty-seven records again. He read them slowly. He made himself look at each name. He made himself sit with the dates. He made himself acknowledge that the children had been ages two, and four, and seven, and ten, and one of them had been fourteen years old and had died of *cardiac arrest* on a date that aligned exactly with Dr. Vorlith's spring 2367 visit, and he had probably signed the woman's travel voucher for that trip.
+He read through the forty-seven records again. He read them slowly. He made himself look at each name. He made himself sit with the dates. He made himself acknowledge that the children had been ages two, and four, and seven, and ten, and one of them had been fourteen years old and had died of *cardiac arrest* on a date that aligned exactly with Dr. Vorlith's spring 2367 visit — one of the visits that predated his posting to Tartaros, though he had signed her travel vouchers, year after year, in the time since.
 
 He thought about his daughter.
 
-Lira had been ten years old, on Andra Prime, the year that fourteen-year-old girl had died in Building Twelve. Lira had been eating real strawberries under sodium lamps and going to school on water-skids across the under-ice canals. She had been writing him letters that he had not, that year, yet stopped receiving. She had been — what had she been doing on the spring afternoon when he signed the voucher that brought Sennae Vorlith to Tartaros? He did not know. He had not known then. He could not know now. He had been a man who did not look at his daughter's life with sufficient attention to retain its details, because he had been a man who was busy, and his work had been important, and the work had paid for the strawberries, and on some level he had believed that the strawberries were the point.
+Lira had been eleven years old, on Andra Prime, the year that fourteen-year-old girl had died in Building Twelve. Lira had been eating real strawberries under sodium lamps and riding the cable-trams to school between the terraces. She had been writing him letters that he had not, that year, yet stopped receiving. She had been — what had she been doing on the spring afternoon when he signed the voucher that brought Sennae Vorlith to Tartaros? He did not know. He had not known then. He could not know now. He had been a man who did not look at his daughter's life with sufficient attention to retain its details, because he had been a man who was busy, and his work had been important, and the work had paid for the strawberries, and on some level he had believed that the strawberries were the point.
 
 Andra Prime. The terraced city. The home world.
 
@@ -1279,11 +1279,11 @@ She was, in some compartment of herself that the implant could not reach, scream
 
 ## Chapter Six: Building Twelve
 
-They went in through a service shaft that Roon had spent two years opening, one welded grate at a time, and they came out in a maintenance corridor sixty meters east of Building Twelve's south door.
+They went in through a service shaft that Sten had spent two years opening, one welded grate at a time, and they came out in a maintenance corridor sixty meters east of Building Twelve's south door.
 
 It was 02:14 facility time. The corridor was empty. The pediatric ward, on its visible schedule, ran a skeleton night staff of two — one nurse, one orderly — and Tev had spent the last six hours teaching Sable and Kester both their faces.
 
-Kester carried a stolen sidearm he had not yet fired. Sable carried a pry bar and a salvaged stun baton. Tev carried a medical bag. Roon stayed behind in the under-levels with the broadcast deck and the comms relay; if they did not return by 04:30, he would burn the access shaft and reseal it from the chamber side, and the under-levels would lose Building Twelve forever.
+Kester carried a stolen sidearm he had not yet fired. Sable carried a pry bar and a salvaged stun baton. Tev carried a medical bag. Sten stayed behind in the under-levels with the broadcast deck and the comms relay; if they did not return by 04:30, he would burn the access shaft and reseal it from the chamber side, and the under-levels would lose Building Twelve forever.
 
 They did not say anything to each other in the corridor.
 
@@ -1303,15 +1303,15 @@ She was perhaps fifty, gray-haired, wearing the faded blue scrubs of long-term w
 
 "Tev?" she said.
 
-"Hello, Maren."
+"Hello, Esme."
 
-Maren did not reach for an alarm. She did not stand up. She looked at Tev, and at Sable, and at Kester, and at the pry bar and the stun baton and the sidearm, and she said, very quietly:
+Esme did not reach for an alarm. She did not stand up. She looked at Tev, and at Sable, and at Kester, and at the pry bar and the stun baton and the sidearm, and she said, very quietly:
 
 "Are you here for the children."
 
 "Yes," Tev said.
 
-Maren closed her eyes.
+Esme closed her eyes.
 
 "Thank you," she said.
 
@@ -1323,7 +1323,7 @@ Sable's face did not change.
 
 "Where."
 
-"Down. The lab. They got an alert from somewhere — I don't know where, I'm just on duty up here. They came up the stairs and they took every child and they brought them down. I tried to ask. I am not authorized to ask." Maren's hands were shaking now. She had not stood up. "There is one child still in Room Two. They left her. She is — she has been ill for a week, they said she was not viable for transfer. I have been giving her water. I have not been able to do anything else. I am not authorized."
+"Down. The lab. They got an alert from somewhere — I don't know where, I'm just on duty up here. They came up the stairs and they took every child and they brought them down. I tried to ask. I am not authorized to ask." Esme's hands were shaking now. She had not stood up. "There is one child still in Room Two. They left her. She is — she has been ill for a week, they said she was not viable for transfer. I have been giving her water. I have not been able to do anything else. I am not authorized."
 
 "Her name," Tev said.
 
@@ -1331,13 +1331,13 @@ Sable's face did not change.
 
 Tev nodded.
 
-"Maren," she said. "We are going to take Aleya. We are going to go down to the lab. We are not going to come back this way. You understand what will happen to you when they find us missing."
+"Esme," she said. "We are going to take Aleya. We are going to go down to the lab. We are not going to come back this way. You understand what will happen to you when they find us missing."
 
 "Yes."
 
 "Why are you helping us."
 
-Maren looked at Tev. Her mouth worked for a moment.
+Esme looked at Tev. Her mouth worked for a moment.
 
 "My son," she said. "He came through this ward in 2358. He was four. They told me he died of pneumonia. I worked here for sixteen more years because they told me if I left, my husband would be reassigned. My husband died in 2367 of an industrial accident that I do not believe was an accident. I have been waiting for sixteen years to be asked the question you have just asked me. I am very tired, Tev. Please go get the girl."
 
@@ -1371,7 +1371,7 @@ Sable was at the door. Her face had gone the particular color it went when she w
 
 "They have the rest of them. We have to go."
 
-Kester said, quietly: "Sable. The cohort has been moved. By the time we get down there they will have moved them again, or — or done what they need to do. We have Aleya. We have Maren's testimony. We have what we came for."
+Kester said, quietly: "Sable. The cohort has been moved. By the time we get down there they will have moved them again, or — or done what they need to do. We have Aleya. We have Esme's testimony. We have what we came for."
 
 "We came," Sable said, "for the children."
 
@@ -1379,27 +1379,27 @@ Kester said, quietly: "Sable. The cohort has been moved. By the time we get down
 
 "There are eleven more in that lab."
 
-"And if we go down there now, there will be twelve dead bodies including ours, and Aleya will die in a corridor on the way out, and we will not have been a witness to anything anyone will ever read about." Kester was speaking very carefully. He was speaking the way he had spoken to Orrel at the dinner table in 2367 when Orrel had wanted to send a prisoner he liked to Wing Seven and Kester had argued, on procedural grounds, that the prisoner should be assigned elsewhere. He had won that argument. He had saved that prisoner. The prisoner had died fourteen months later in a labor accident that was probably not an accident, but he had won the argument at the table. "Sable. We came for evidence. We have a witness. We have a survivor. We have a name. We can't save the eleven tonight. We can carry one of them home."
+"And if we go down there now, there will be twelve dead bodies including ours, and Aleya will die in a corridor on the way out, and we will not have been a witness to anything anyone will ever read about." Kester was speaking very carefully. He was speaking the way he had spoken to Orrel at the dinner table in 2371 when Orrel had wanted to send a prisoner he liked to Wing Seven and Kester had argued, on procedural grounds, that the prisoner should be assigned elsewhere. He had won that argument. He had saved that prisoner. The prisoner had died fourteen months later in a labor accident that was probably not an accident, but he had won the argument at the table. "Sable. We came for evidence. We have a witness. We have a survivor. We have a name. We can't save the eleven tonight. We can carry one of them home."
 
 Sable looked at him.
 
 She looked at Aleya, asleep on Tev's shoulder.
 
-She looked at Maren, who had not moved from her seat at the front desk.
+She looked at Esme, who had not moved from her seat at the front desk.
 
-"Maren," Sable said.
+"Esme," Sable said.
 
 "Yes."
 
 "What is in the lab. Right now. Tonight."
 
-Maren's hands tightened on the edge of her desk.
+Esme's hands tightened on the edge of her desk.
 
-"I don't know specifically. I only know what I have been told over the years, in fragments, by colleagues who were not careful. There is a procedure they perform on the children in batches. The children who survive the procedure are — they are kept. Somewhere. Not in this building. The children who do not survive are — there is a recovery protocol." Maren's voice was steady, the way a person's voice is steady when they have rehearsed something many times in their head before saying it aloud. "The procedures happen in waves. Twice a year, when the doctor visits. Tonight is not a wave. Tonight is — I think tonight the children are being moved because of you. I think they are being moved off Tartaros."
+"I don't know specifically. I only know what I have been told over the years, in fragments, by colleagues who were not careful. There is a procedure they perform on the children in batches. The children who survive the procedure are — they are kept. Somewhere. Not in this building. The children who do not survive are — there is a recovery protocol." Esme's voice was steady, the way a person's voice is steady when they have rehearsed something many times in their head before saying it aloud. "The procedures happen in waves. Twice a year, when the doctor visits. Tonight is not a wave. Tonight is — I think tonight the children are being moved because of you. I think they are being moved off Tartaros."
 
 "Off Tartaros," Sable repeated.
 
-"There is a transport. It comes once a year. It takes the children who have survived the procedures to — somewhere else. Another facility. I do not know where. I am not authorized." Maren's voice cracked slightly. "If they have moved the children to the lab tonight, it is because the transport is leaving early. It is because they are protecting the cohort from you."
+"There is a transport. It comes once a year. It takes the children who have survived the procedures to — somewhere else. Another facility. I do not know where. I am not authorized." Esme's voice cracked slightly. "If they have moved the children to the lab tonight, it is because the transport is leaving early. It is because they are protecting the cohort from you."
 
 Sable closed her eyes.
 
@@ -1407,15 +1407,15 @@ For a moment Kester thought she was going to argue. He thought she was going to 
 
 Sable did not argue.
 
-She opened her eyes. She nodded, once, to Tev. She turned to Maren.
+She opened her eyes. She nodded, once, to Tev. She turned to Esme.
 
-"Maren," she said. "Come with us."
+"Esme," she said. "Come with us."
 
 "I cannot."
 
-"Maren — "
+"Esme — "
 
-"If I disappear tonight they will know within an hour. If I am at this desk when the morning shift arrives, they will not know for hours. By then you will be deep enough in the under-levels that they will not find you tonight. This is the help I can give you. Please take it." Maren's eyes were wet but her voice was not. "Take Aleya. Tell someone what happened to my son. His name was Riel. He was four. Please."
+"If I disappear tonight they will know within an hour. If I am at this desk when the morning shift arrives, they will not know for hours. By then you will be deep enough in the under-levels that they will not find you tonight. This is the help I can give you. Please take it." Esme's eyes were wet but her voice was not. "Take Aleya. Tell someone what happened to my son. His name was Riel. He was four. Please."
 
 Sable looked at her for a long moment.
 
@@ -1423,25 +1423,25 @@ Sable looked at her for a long moment.
 
 "Thank you."
 
-"I will tell everyone, Maren. I will not stop telling them."
+"I will tell everyone, Esme. I will not stop telling them."
 
-Maren nodded.
+Esme nodded.
 
 They left.
 
 ---
 
-They went out through the maintenance corridor and back through Roon's shaft and they did not encounter another human being for the entire return. Aleya slept against Tev's shoulder for the whole walk. She woke briefly, twice, and asked Tev where they were going, and Tev told her *somewhere warmer*, and Aleya seemed to find this answer sufficient.
+They went out through the maintenance corridor and back through Sten's shaft and they did not encounter another human being for the entire return. Aleya slept against Tev's shoulder for the whole walk. She woke briefly, twice, and asked Tev where they were going, and Tev told her *somewhere warmer*, and Aleya seemed to find this answer sufficient.
 
 When they came up into the under-levels' chamber, the Undersiders rose to their feet without speaking.
 
-Roon saw the child. His face did something Kester had not expected to see on Roon's face — it broke open, briefly, into something that was not joy but was a close cousin of joy, the way a person looks when they have been carrying a load too heavy for too long and have just been told they can set part of it down.
+Sten saw the child. His face did something Kester had not expected to see on Sten's face — it broke open, briefly, into something that was not joy but was a close cousin of joy, the way a person looks when they have been carrying a load too heavy for too long and have just been told they can set part of it down.
 
 Chayne brought a clean blanket. Someone had heated water on a salvaged burner. Tev carried Aleya to a cot they had prepared three hours earlier, in a quieter alcove with a single worklight, and she set the child down with the practiced gentleness of a woman who had nursed for fifteen years before her conviction.
 
 For perhaps an hour, the chamber was full of life.
 
-Sable sat by Aleya's cot and held the girl's hand and did not let go. Aleya woke once and asked Sable who she was, and Sable said *I'm a friend*, and Aleya nodded and went back to sleep. Tev was at her medical bag, working through it with the focused calm of a professional preparing for something. Chayne brought broth. Roon brought clean water. The worklight was warm and the blanket was clean and the chamber was, for the first time since the broadcast, a place where something had gone *right*.
+Sable sat by Aleya's cot and held the girl's hand and did not let go. Aleya woke once and asked Sable who she was, and Sable said *I'm a friend*, and Aleya nodded and went back to sleep. Tev was at her medical bag, working through it with the focused calm of a professional preparing for something. Chayne brought broth. Sten brought clean water. The worklight was warm and the blanket was clean and the chamber was, for the first time since the broadcast, a place where something had gone *right*.
 
 Kester sat at the table where his ration cards still lay in their underlined forest.
 
@@ -1513,7 +1513,7 @@ Kester nodded.
 
 Tev looked at him.
 
-"You sit with your cards, Kester. You write down everything Maren told us. You write down the name *Riel*, age four, year 2358. You write down everything Aleya says before she goes to sleep. You write down the words Maren used for the procedures. You make a record. That is what you do." She paused. "The rest of us are going to grieve. The chamber is going to be a hard place tonight. Make a record. It is the work you can do. It is the work you are good at. Do it."
+"You sit with your cards, Kester. You write down everything Esme told us. You write down the name *Riel*, age four, year 2358. You write down everything Aleya says before she goes to sleep. You write down the words Esme used for the procedures. You make a record. That is what you do." She paused. "The rest of us are going to grieve. The chamber is going to be a hard place tonight. Make a record. It is the work you can do. It is the work you are good at. Do it."
 
 She stood up.
 
@@ -1523,7 +1523,7 @@ She knelt by the cot.
 
 She began to speak, very quietly.
 
-Kester did not look up. He picked up his pencil. He wrote, on a fresh ration card: *Maren. Pediatric ward, Building Twelve. Son: Riel, age 4, died 2358, official cause pneumonia. Husband: industrial accident 2367, suspect deliberate. Sixteen years' service post-son's death under coercion. Gave us access this night.*
+Kester did not look up. He picked up his pencil. He wrote, on a fresh ration card: *Esme. Pediatric ward, Building Twelve. Son: Riel, age 4, died 2358, official cause pneumonia. Husband: industrial accident 2367, suspect deliberate. Sixteen years' service post-son's death under coercion. Gave us access this night.*
 
 He underlined *Riel*.
 
@@ -1541,7 +1541,7 @@ Tev had a low voice and she did not sing well and she was singing something Kest
 
 Kester wrote.
 
-He wrote down the details of the operation, in the order they had occurred. He wrote down what Maren had said about the cohort being moved off Tartaros. He wrote down what Tev had said about the compound and its use in cohort terminations. He wrote down a sentence Aleya had said earlier, in the corridor, when Tev had been carrying her — *Are we going somewhere*, the small voice, the hands around the neck — and he wrote it down because Tev had told him to write down what Aleya said and he was going to write down everything Aleya said for as long as Aleya kept saying things, because that was the work he could do, and he had spent nine years learning to do work and not look up from it, and now finally that skill was good for something.
+He wrote down the details of the operation, in the order they had occurred. He wrote down what Esme had said about the cohort being moved off Tartaros. He wrote down what Tev had said about the compound and its use in cohort terminations. He wrote down a sentence Aleya had said earlier, in the corridor, when Tev had been carrying her — *Are we going somewhere*, the small voice, the hands around the neck — and he wrote it down because Tev had told him to write down what Aleya said and he was going to write down everything Aleya said for as long as Aleya kept saying things, because that was the work he could do, and he had spent nine years learning to do work and not look up from it, and now finally that skill was good for something.
 
 He wrote.
 
@@ -1551,7 +1551,7 @@ The lullaby continued.
 
 Two hours into the vigil, the feed cut through.
 
-Roon, who had been sitting at the comm relay, stood up suddenly and said, "Kester. You should see this."
+Sten, who had been sitting at the comm relay, stood up suddenly and said, "Kester. You should see this."
 
 Kester did not want to see it.
 
@@ -1563,7 +1563,7 @@ The Hegemony Information Office was running a special bulletin. The same gray-un
 
 The picture changed. Updated graphic. **REFORM COMMISSION ANNOUNCES SITE VISIT.**
 
-Roon snorted.
+Sten snorted.
 
 "They're going to send observers," he said. "To a facility where the lab moved tonight."
 
@@ -1607,7 +1607,7 @@ He kept writing.
 
 At 04:51, Tev stopped singing.
 
-She did not say anything. She simply stopped. The chamber went very quiet. Sable was holding Aleya's hand. Chayne was sitting on a folding chair with his face in his hands. Roon had turned off the relay screen and was standing with his back to the alcove, looking at nothing.
+She did not say anything. She simply stopped. The chamber went very quiet. Sable was holding Aleya's hand. Chayne was sitting on a folding chair with his face in his hands. Sten had turned off the relay screen and was standing with his back to the alcove, looking at nothing.
 
 Kester stopped writing.
 
@@ -1639,7 +1639,7 @@ The Hegemony had not lost tonight.
 
 The Hegemony had given them a child to lose.
 
-Six kilometers above them, in a citadel that the Hegemony had publicly told the public was now under caretaker administration, Bastien Orrel was awake. He had been awake all night. He had received the alert at 02:14, when Roon's shaft had triggered a passive sensor that the Undersiders did not know about and that Orrel had installed eight years ago against the contingency of exactly this. He had ordered the cohort moved at 02:18. He had selected the compound at 02:23. He had instructed his medical staff to leave one child behind, at 02:25, with the compound administered, because — he had explained to Dr. Vorlith over the comm, in a voice that was not warm but was patient — *we should let them feel as though they have rescued something. The lesson is more durable that way.*
+Six kilometers above them, in a citadel that the Hegemony had publicly told the public was now under caretaker administration, Bastien Orrel was awake. He had been awake all night. He had received the alert at 02:14, when Sten's shaft had triggered a passive sensor that the Undersiders did not know about and that Orrel had installed eight years ago against the contingency of exactly this. He had ordered the cohort moved at 02:18. He had selected the compound at 02:23. He had instructed his medical staff to leave one child behind, at 02:25, with the compound administered, because — he had explained to Dr. Vorlith over the comm, in a voice that was not warm but was patient — *we should let them feel as though they have rescued something. The lesson is more durable that way.*
 
 He had watched the operation through the facility's internal cameras until the team disappeared into the under-levels. Then he had poured himself a small brandy and gone to check on Mouse, who was sleeping in the room across from his office. He had stood in her doorway for a few minutes watching her breathe. Her implant was holding well. Her vital signs were stable. She would be ready for the next phase in approximately thirty-six hours.
 
@@ -2028,7 +2028,7 @@ Yenna kept reading.
 
 It was Yenna who found the Undersider files.
 
-There was a folder, slim, indexed under *Tartaros Node — Surface Containment*. Inside it: surveillance summaries. Photographs taken from inside the chamber, somehow, at angles Kester could not source. A diagram of the chamber's layout that was almost correct but slightly outdated. A list of names, with annotations. *Sable Reyek. Chayne Olret. Tev Marn. Roon Haveric. Ivo Vens.* The names of the principal Undersiders, with brief biographical notes, with assessments of their likely behavior under various contingencies.
+There was a folder, slim, indexed under *Tartaros Node — Surface Containment*. Inside it: surveillance summaries. Photographs taken from inside the chamber, somehow, at angles Kester could not source. A diagram of the chamber's layout that was almost correct but slightly outdated. A list of names, with annotations. *Sable Reyek. Chayne Olret. Tev Marn. Sten Haveric. Ivo Vens.* The names of the principal Undersiders, with brief biographical notes, with assessments of their likely behavior under various contingencies.
 
 The list contained forty-three names of children.
 
@@ -2120,11 +2120,11 @@ The chamber's worklights were still on. The air recyclers were still running. Th
 
 Tev was on the floor of the alcove. She had fallen between the children's cots and the door. Her body was where she would have placed it deliberately if she had had time to plan — between the door and the cots, between the threat and the children. She had not had time to plan. She had moved, when she heard the boots, and she had moved to the place she would have planned to move to, because the place was the same place either way. She had been hit twice. She was not breathing.
 
-Roon was against the chamber's east wall. He was sitting up. He was bleeding from a wound in his thigh and a wound in his side and he was holding a salvaged welding torch in his right hand as if the welding torch were a weapon, which it was not, and which it had not been when the guards came through, and which he had presumably been using for something practical when the attack began. He was conscious. His eyes tracked Sable as she came into the chamber. He made a sound that was not a word. His mouth tried to make a word and could not.
+Sten was against the chamber's east wall. He was sitting up. He was bleeding from a wound in his thigh and a wound in his side and he was holding a salvaged welding torch in his right hand as if the welding torch were a weapon, which it was not, and which it had not been when the guards came through, and which he had presumably been using for something practical when the attack began. He was conscious. His eyes tracked Sable as she came into the chamber. He made a sound that was not a word. His mouth tried to make a word and could not.
 
 Chayne was not in the chamber's main area.
 
-Sable moved toward Roon. Davour moved with her, already pulling a field kit from her own pack, already kneeling. Yenna ran for Tev because Yenna had not yet absorbed that Tev was past help, and the running was Yenna's body refusing to absorb it for another few seconds. Resh stood in the doorway and did not move and did not make a sound.
+Sable moved toward Sten. Davour moved with her, already pulling a field kit from her own pack, already kneeling. Yenna ran for Tev because Yenna had not yet absorbed that Tev was past help, and the running was Yenna's body refusing to absorb it for another few seconds. Resh stood in the doorway and did not move and did not make a sound.
 
 Kester walked to the wall.
 
@@ -2180,9 +2180,9 @@ Kester stood in the middle of the chamber and looked around it.
 
 Nine bodies.
 
-Tev. Roon was alive but bleeding. Chayne was alive in his chair. The child was alive on the cot.
+Tev. Sten was alive but bleeding. Chayne was alive in his chair. The child was alive on the cot.
 
-Of the rest of the chamber's population — the unnamed Undersiders, the older children who had been hidden here, the people who had received Sable's broadcast as a victory and Aleya's death as a wound — there were nine bodies on the floor, and there were no others. There had been perhaps thirty people in the chamber when the expedition left. There were thirteen alive now, including the six who had just returned. Seven Undersiders survived: Chayne. Roon. The child. And four others Kester would not learn the names of for another several hours, who had escaped through deeper passages when the attack began, and who would trickle back into the chamber over the course of the night.
+Of the rest of the chamber's population — the unnamed Undersiders, the older children who had been hidden here, the people who had received Sable's broadcast as a victory and Aleya's death as a wound — there were nine bodies on the floor, and there were no others. There had been perhaps thirty people in the chamber when the expedition left. There were thirteen alive now, including the six who had just returned. Seven Undersiders survived: Chayne. Sten. The child. And four others Kester would not learn the names of for another several hours, who had escaped through deeper passages when the attack began, and who would trickle back into the chamber over the course of the night.
 
 Seven.
 
@@ -2196,7 +2196,7 @@ He still had three fingers left over.
 
 Sable was kneeling beside Tev's body.
 
-She had not, since they came into the chamber, made a sound. She had moved to Roon first, helped Davour stabilize him, accepted the field kit, applied the dressings. She had moved to Chayne next, listened to his account, said *thank you, Chayne, you did right*. She had moved to the child on the cot, looked at her, touched her hair very lightly, said nothing.
+She had not, since they came into the chamber, made a sound. She had moved to Sten first, helped Davour stabilize him, accepted the field kit, applied the dressings. She had moved to Chayne next, listened to his account, said *thank you, Chayne, you did right*. She had moved to the child on the cot, looked at her, touched her hair very lightly, said nothing.
 
 She had come to Tev last.
 
@@ -2210,7 +2210,7 @@ Then she stood up, slowly, and she turned, and she looked at the chamber, and sh
 
 She said, in a voice that was perfectly steady:
 
-"We bury them tonight. We take care of Roon. We feed the child. Tomorrow we move. The chamber is no longer ours. The under-levels are no longer ours. The Board has known about this place for years and we have been living in their attic. We are going to find somewhere they have not yet thought of, and we are going to take what Yenna has, and we are going to figure out what to do next." She paused. Her eyes moved across the chamber. They moved across Kester's face. They did not linger. "Kester."
+"We bury them tonight. We take care of Sten. We feed the child. Tomorrow we move. The chamber is no longer ours. The under-levels are no longer ours. The Board has known about this place for years and we have been living in their attic. We are going to find somewhere they have not yet thought of, and we are going to take what Yenna has, and we are going to figure out what to do next." She paused. Her eyes moved across the chamber. They moved across Kester's face. They did not linger. "Kester."
 
 "Yes."
 
@@ -2331,7 +2331,7 @@ There were small alcoves in the walls. Some of the alcoves held photographs. Som
 
 Tev was laid out on the central plinth with her hands folded across her chest in the same configuration she had folded Aleya's hands the night before. Someone had brushed her hair. Someone — Kester suspected Davour — had placed a small dried flower from the chamber's hydroponic stock between her fingers. The flower was white and waxy and the kind of flower that did not need much light to grow. The Undersiders had been growing it for fifteen years, Chayne told Kester later, for exactly this purpose.
 
-The whole community was there. The seven survivors. The four who had escaped through the deeper passages and trickled back overnight. Ten of them counting Kester. Roon was carried in on a litter by two of the unnamed survivors — a man called Dren and a woman called Hess, whose names Kester learned that morning and whose faces he would carry forward without yet knowing them — and Roon was placed on the chamber's only chair. He could not stand. He sat with his bandaged side and his bandaged thigh and his eyes very far away, and he did not speak.
+The whole community was there. The seven survivors. The four who had escaped through the deeper passages and trickled back overnight. Ten of them counting Kester. Sten was carried in on a litter by two of the unnamed survivors — a man called Dren and a woman called Hess, whose names Kester learned that morning and whose faces he would carry forward without yet knowing them — and Sten was placed on the chamber's only chair. He could not stand. He sat with his bandaged side and his bandaged thigh and his eyes very far away, and he did not speak.
 
 Chayne stood at the head of the plinth.
 
@@ -2409,13 +2409,13 @@ Behind him, Ivo finished whatever he had been doing with the maintenance panel �
 
 They went back down to the chamber.
 
-Kester did not know, then, that Ivo's adjustment to the maintenance panel had been a check-in. He would not know it for another two days.
+Kester did not know, then, that Ivo's adjustment to the maintenance panel had been a check-in. He would not know it for another day.
 
 ---
 
 The reading took place in the main chamber at midnight.
 
-The survivors gathered around the long salvaged table where Kester's ration cards still lay in their underlined forest. Yenna brought her satchel from the palace. Chayne brought his drives, retrieved from the ventilation duct, the panels still bearing the sticky smudges where his hands had pulled them open in the night of the attack. Roon was carried over. Pira was asleep in a folding cot beside Sable's chair. Resh stood at the back of the chamber and did not sit down. Davour stood at the door and did not sit down. Ivo sat at the table.
+The survivors gathered around the long salvaged table where Kester's ration cards still lay in their underlined forest. Yenna brought her satchel from the palace. Chayne brought his drives, retrieved from the ventilation duct, the panels still bearing the sticky smudges where his hands had pulled them open in the night of the attack. Sten was carried over. Pira was asleep in a folding cot beside Sable's chair. Resh stood at the back of the chamber and did not sit down. Davour stood at the door and did not sit down. Ivo sat at the table.
 
 The reading lasted six hours.
 
@@ -2481,13 +2481,13 @@ Yenna was crying, silently, the way she had cried in the palace.
 
 Sable stood up.
 
-"We move at first light," she said. "Sleep if you can. Pack what you need. Yenna, write down your contacts on Andra Prime tonight, in case — in case the journey is harder than we hope. Make sure two people know the names. Chayne should have them. So should Roon, if he is staying."
+"We move at first light," she said. "Sleep if you can. Pack what you need. Yenna, write down your contacts on Andra Prime tonight, in case — in case the journey is harder than we hope. Make sure two people know the names. Chayne should have them. So should Sten, if he is staying."
 
-"Roon is staying," Roon said, from his litter. His voice was thin but clear. "I cannot travel and I would slow you down. Dren and Hess will stay with me. We will hold what we can hold of the chamber for as long as we can hold it, and if the Board comes back we will move deeper. There are passages I have not shown you, Sable. There are passages even Ivo does not know about. I have been keeping them in reserve. I will keep them in reserve."
+"Sten is staying," Sten said, from his litter. His voice was thin but clear. "I cannot travel and I would slow you down. Dren and Hess will stay with me. We will hold what we can hold of the chamber for as long as we can hold it, and if the Board comes back we will move deeper. There are passages I have not shown you, Sable. There are passages even Ivo does not know about. I have been keeping them in reserve. I will keep them in reserve."
 
-Sable looked at Roon for a long moment.
+Sable looked at Sten for a long moment.
 
-"Thank you, Roon."
+"Thank you, Sten."
 
 "Get the girl, Sable. Get the truth home. The rest of us will be here, or we will not, and either way you will have done what you went to do."
 
@@ -2501,9 +2501,9 @@ The reading was over.
 
 The hours before dawn were quiet.
 
-Yenna sat with Chayne in a corner of the chamber and made her list of contacts on Andra Prime. There were six names. Two of them were academics who had survived after Yenna's arrest. One was a journalist who had written about disappeared persons under a pen name and who Yenna believed was Adeyemi's primary source in the Federation press. One was Adeyemi's husband — a man Yenna had never met but whose name she had known for years from the dedications in his wife's published reports, a man who would now be in mourning and would also be, perhaps, capable of acting on what they brought him. One was a sympathetic lawyer in the Federation oversight apparatus. One was a former colleague of Chayne's from the municipal archives on Korya, who had escaped his arrest and was rumored to be living quietly under a different name on Andra Prime's outer settlements.
+Yenna sat with Chayne in a corner of the chamber and made her list of contacts on Andra Prime. There were six names. Two of them were academics who had survived after Yenna's arrest. One was a journalist who had written about disappeared persons under a pen name and who Yenna believed was Adeyemi's primary source in the Federation press. One was Adeyemi's husband — a man Yenna had never met but whose name she had known for years from the dedications in his wife's published reports, a man who would now be in mourning and would also be, perhaps, capable of acting on what they brought him. One was a sympathetic lawyer in the Federation oversight apparatus. One was a former colleague of Chayne's from the municipal archives on Sephara, who had escaped his arrest and was rumored to be living quietly under a different name on Andra Prime's outer settlements.
 
-Six names. Six possible doors. Yenna wrote them down and gave one copy to Chayne and one copy to Sable and one copy to Roon, and Roon hid his copy in a place even Dren and Hess did not know about, because Roon was a man whose paranoia had now been validated by the chamber attack and who was no longer willing to assume the chamber was a safe place for paper.
+Six names. Six possible doors. Yenna wrote them down and gave one copy to Chayne and one copy to Sable and one copy to Sten, and Sten hid his copy in a place even Dren and Hess did not know about, because Sten was a man whose paranoia had now been validated by the chamber attack and who was no longer willing to assume the chamber was a safe place for paper.
 
 Kester did not sleep.
 
@@ -2541,11 +2541,11 @@ He kept his eyes closed for a long time.
 
 Dawn was an abstraction in the under-levels, but the chamber's clock said oh-six-hundred when Sable said *we go*, and the survivors moved.
 
-Roon, on his litter, was carried back to the deeper rooms by Dren and Hess. Sable knelt beside the litter for a moment. She did not speak. She put her hand on Roon's hand, and he closed his fingers around hers, and they stayed like that for perhaps thirty seconds. Then she stood up and walked away.
+Sten, on his litter, was carried back to the deeper rooms by Dren and Hess. Sable knelt beside the litter for a moment. She did not speak. She put her hand on Sten's hand, and he closed his fingers around hers, and they stayed like that for perhaps thirty seconds. Then she stood up and walked away.
 
 The split happened at the chamber's door.
 
-Yenna was carrying her satchel of palace papers and a sealed case of the photograph drives, copied from the originals, with a backup buried in a panel Roon had prepared in the deeper rooms. Chayne was carrying a smaller bag of his own — his archive's original drives, his notebooks, a few personal items Kester did not see. Pira was held in Sable's arms. She had been awake for ten minutes. She was eating a small piece of dried fruit Tev had set aside two days ago, which Davour had retrieved from Tev's medical station that morning without saying why she was retrieving it.
+Yenna was carrying her satchel of palace papers and a sealed case of the photograph drives, copied from the originals, with a backup buried in a panel Sten had prepared in the deeper rooms. Chayne was carrying a smaller bag of his own — his archive's original drives, his notebooks, a few personal items Kester did not see. Pira was held in Sable's arms. She had been awake for ten minutes. She was eating a small piece of dried fruit Tev had set aside two days ago, which Davour had retrieved from Tev's medical station that morning without saying why she was retrieving it.
 
 Sable carried Pira to Chayne. She knelt down so the child was at Chayne's eye level. Chayne, in his folding chair, opened his arms.
 
@@ -2609,7 +2609,7 @@ The remaining party — Sable, Kester, Resh, Ivo, and Davour, who would return a
 
 Kester looked back, once, before they left.
 
-The chamber was quiet. Roon's litter was no longer visible. The salvaged table where the reading had happened was still strewn with papers — Yenna had taken what she needed, Kester had taken his ration cards, but the bulk of the working materials remained, abandoned, the surface of an investigation no one would be coming back to. The ceiling lights hummed. The air recyclers cycled. The chamber had been a society for ten years and was now a room.
+The chamber was quiet. Sten's litter was no longer visible. The salvaged table where the reading had happened was still strewn with papers — Yenna had taken what she needed, Kester had taken his ration cards, but the bulk of the working materials remained, abandoned, the surface of an investigation no one would be coming back to. The ceiling lights hummed. The air recyclers cycled. The chamber had been a society for ten years and was now a room.
 
 He turned away.
 
@@ -2934,7 +2934,7 @@ Chayne said: "Sable. The four uncounted children."
 
 "He hedged," Sable said.
 
-"He hedged," Chayne said. "I want you to know that, before you do whatever you are going to do. He was a traitor. He was also a man who held back. The four children we still have, the ones who are with Roon now — they are alive because Ivo did not give them up."
+"He hedged," Chayne said. "I want you to know that, before you do whatever you are going to do. He was a traitor. He was also a man who held back. The four children we still have, the ones who are with Sten now — they are alive because Ivo did not give them up."
 
 Sable was quiet for a long time.
 
@@ -3032,7 +3032,7 @@ He paused.
 
 "Their names," Sable said.
 
-Ivo gave her four names. They were, Kester noticed, the four youngest children Sable had been hiding. Two of them were the children Roon was now sheltering in the deeper passages.
+Ivo gave her four names. They were, Kester noticed, the four youngest children Sable had been hiding. Two of them were the children Sten was now sheltering in the deeper passages.
 
 "Anything else," Sable said.
 
@@ -3188,7 +3188,7 @@ He held them out. Davour, who had come back through the cockpit door behind Sabl
 
 Ivo walked.
 
-The hatch was on the rear cabin's port side — a standard atmospheric egress hatch, sealed with a manual override that could be opened in atmosphere without venting the cabin once the pressure differential equalized. Davour cycled the equalization. The hatch's status indicator went from red to amber. The shuttle's altitude was approximately three hundred meters above the grassland — low, but not low enough that a fall would be survivable without a roll. Sable had given Ivo a chance, but the chance was narrow.
+The hatch was on the rear cabin's port side — a standard atmospheric egress hatch, sealed with a manual override that could be opened in atmosphere without venting the cabin once the pressure differential equalized. Davour cycled the equalization. The hatch's status indicator went from red to amber. The shuttle's altitude was approximately four hundred meters above the grassland — low, but not low enough that a fall would be survivable without a roll. Sable had given Ivo a chance, but the chance was narrow.
 
 The shuttle's airspeed was the larger problem. They were moving at perhaps four hundred kilometers per hour. Hitting the ground at that speed, even with a perfect roll, would be catastrophic.
 
@@ -3377,7 +3377,7 @@ He thought about Lira.
 
 He thought about Pira on the shuttle to Andra Prime.
 
-He thought about the four uncounted children in the under-levels with Roon.
+He thought about the four uncounted children in the under-levels with Sten.
 
 He thought, with the small dim clarity of a man who had been outwitted at every stage of an operation he had thought was his, that he was now in exactly the place a Hegemony Internal Security report would describe as *Detained Subject Vaile in custody at the Harvester facility, pending arraignment*. He had walked here under his own power. He had hijacked a military shuttle to do it. The shuttle's manifest, signed by Orrel, was now the legal record by which his presence on this planet was documented. There was no version of the next several days in which Kester did not go on trial somewhere, for something. The only question was whether the trial was Hegemony or Federation, and whether he was alive when it happened.
 
@@ -3778,7 +3778,7 @@ A staff member moved to a small sideboard Kester had not noticed. The sideboard 
 
 Orrel poured.
 
-He poured two glasses of the dark red brandy he had been carrying with him for as long as Kester had known him — the Martian vintage Kester had filed customs paperwork for in 2367 and 2368 and 2370, the bottle that had appeared on Orrel's desk every time a serious conversation was about to happen. The smell of it crossed the table to Kester immediately. It smelled of spice and old wood and the faint sweet rot of fruit that has been pressed and aged and pressed again. It smelled, Kester registered with a small involuntary surge of memory, of nine years of his life.
+He poured two glasses of the dark red brandy he had been carrying with him for as long as Kester had known him — the Verdaine vintage Kester had filed customs paperwork for in 2367 and 2368 and 2370, the bottle that had appeared on Orrel's desk every time a serious conversation was about to happen. The smell of it crossed the table to Kester immediately. It smelled of spice and old wood and the faint sweet rot of fruit that has been pressed and aged and pressed again. It smelled, Kester registered with a small involuntary surge of memory, of nine years of his life.
 
 Orrel pushed one of the glasses toward him.
 
@@ -3808,7 +3808,7 @@ He talked first about Calderon.
 
 He did this, Kester registered, with the manner of a man telling a story he had told before — to himself, perhaps, or to a journal, or to the silver-haired woman who stood three feet behind him and who Kester suspected had heard the story enough times to know it by rote. Orrel did not embellish. He did not dramatize. He told the story the way an old soldier tells the story of a campaign that has shaped his life, which is to say, with a kind of weariness that did not pretend to be philosophical and did not pretend to be untraumatized.
 
-Calderon Trench had been a forward observation objective on the third front of a war Kester knew by name and had not paid attention to. The war had been twenty-three years ago. Orrel had been a junior officer — twenty-six, lieutenant grade, in command of a small infantry unit attached to a larger formation. The objective had been a section of trench works approximately six kilometers in length on a ridge that the Hegemony command had identified as militarily significant. The trench had been held by Federation-allied forces. The Hegemony had been ordered to take it.
+Calderon Trench had been a forward observation objective on the third front of a war Kester knew by name and had not paid attention to. The war had been thirty-two years ago. Orrel had been a junior officer — twenty-six, lieutenant grade, in command of a small infantry unit attached to a larger formation. The objective had been a section of trench works approximately six kilometers in length on a ridge that the Hegemony command had identified as militarily significant. The trench had been held by Federation-allied forces. The Hegemony had been ordered to take it.
 
 Sixteen thousand soldiers had been committed to the assault.
 
@@ -3948,7 +3948,7 @@ He thought: *Pira asked Sable will you remember me. Sable said yes. Sable said I
 
 He thought: *I am the only person in this universe who knows that Pira is no longer anywhere.*
 
-He thought: *I do not know how Pira died. I do not know if Yenna or Chayne are alive. I do not know if the archive reached the surface of Andra Prime. I know only that the shuttle was a Class II frame and the procurement office is being tedious and the writing-off is a closed item.*
+He thought: *The shuttle was shot down. That is what "operational terms" meant — a kill, ordered and logged and filed. Orrel gave the order, and the shuttle that carried a four-year-old was put out of the sky, and the only part of it still moving through the world is a procurement entry someone wants tidied. I do not know whether Yenna or Chayne are alive. I do not know whether the archive survived. I know only that the shuttle is a closed item, and that Pira was on it.*
 
 He reached for the untouched glass.
 

@@ -251,7 +251,7 @@ Chayne said: "Sable. The four uncounted children."
 
 "He hedged," Sable said.
 
-"He hedged," Chayne said. "I want you to know that, before you do whatever you are going to do. He was a traitor. He was also a man who held back. The four children we still have, the ones who are with Roon now — they are alive because Ivo did not give them up."
+"He hedged," Chayne said. "I want you to know that, before you do whatever you are going to do. He was a traitor. He was also a man who held back. The four children we still have, the ones who are with Sten now — they are alive because Ivo did not give them up."
 
 Sable was quiet for a long time.
 
@@ -349,7 +349,7 @@ He paused.
 
 "Their names," Sable said.
 
-Ivo gave her four names. They were, Kester noticed, the four youngest children Sable had been hiding. Two of them were the children Roon was now sheltering in the deeper passages.
+Ivo gave her four names. They were, Kester noticed, the four youngest children Sable had been hiding. Two of them were the children Sten was now sheltering in the deeper passages.
 
 "Anything else," Sable said.
 
@@ -505,7 +505,7 @@ He held them out. Davour, who had come back through the cockpit door behind Sabl
 
 Ivo walked.
 
-The hatch was on the rear cabin's port side — a standard atmospheric egress hatch, sealed with a manual override that could be opened in atmosphere without venting the cabin once the pressure differential equalized. Davour cycled the equalization. The hatch's status indicator went from red to amber. The shuttle's altitude was approximately three hundred meters above the grassland — low, but not low enough that a fall would be survivable without a roll. Sable had given Ivo a chance, but the chance was narrow.
+The hatch was on the rear cabin's port side — a standard atmospheric egress hatch, sealed with a manual override that could be opened in atmosphere without venting the cabin once the pressure differential equalized. Davour cycled the equalization. The hatch's status indicator went from red to amber. The shuttle's altitude was approximately four hundred meters above the grassland — low, but not low enough that a fall would be survivable without a roll. Sable had given Ivo a chance, but the chance was narrow.
 
 The shuttle's airspeed was the larger problem. They were moving at perhaps four hundred kilometers per hour. Hitting the ground at that speed, even with a perfect roll, would be catastrophic.
 

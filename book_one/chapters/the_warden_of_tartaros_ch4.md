@@ -9,7 +9,7 @@ He had a stub of pencil and a stack of salvaged ration cards — the Undersiders
 
 He had written *Wing Seven*. He had written *external consultants*. He had written *Calderon*, three times, in three different places on three different cards, as if writing it more would make him understand it more. It had not.
 
-He had also written a name. *Dr. Sennae Vorlith.* He had stared at the name for a long time before writing it down, because he had not thought of it in seven years and he was not entirely sure he had not invented it. But the more he held it in his mind, the more solid it became. She had come to Tartaros twice a year for six years. She had stopped coming sometime around 2369. He had filed her travel vouchers personally. He had once shared an elevator with her and she had said *good morning, Mr. Vaile*, and her voice had been soft and academic and entirely unmemorable, and he had filed her vouchers for three years afterward without ever once asking what a Dr. Sennae Vorlith was a doctor *of*.
+He had also written a name. *Dr. Sennae Vorlith.* He had stared at the name for a long time before writing it down, because he had not thought of it in seven years and he was not entirely sure he had not invented it. But the more he held it in his mind, the more solid it became. She had come to Tartaros twice a year for six years. She had stopped coming sometime around 2369. He had filed her travel vouchers personally. He had once shared an elevator with her and she had said *good morning, Mr. Vaile*, and her voice had been soft and academic and entirely unmemorable, and he had filed what vouchers of hers crossed his desk in the time afterward without ever once asking what a Dr. Sennae Vorlith was a doctor *of*.
 
 He wrote her name on the card.
 
@@ -23,13 +23,13 @@ Sable was somewhere in the chamber's east wing, doing whatever a person does whe
 
 So he sat with the pencil and the ration cards and the worklight and tried to remember.
 
-It came back the way memory always came back to him — sideways, in fragments, prompted by the wrong things. The smell of the under-levels' machine oil reminded him of a service report he had filed in 2367 about a malfunctioning autoclave in the medical wing. The autoclave had been running hot for months. The report had recommended replacement. Replacement had been denied. He had refiled the report three times before the request was approved, by which point the autoclave had been running hot for two years, and Kester had not asked why an autoclave running hot was acceptable for two years in a medical wing that handled human tissue.
+It came back the way memory always came back to him — sideways, in fragments, prompted by the wrong things. The smell of the under-levels' machine oil reminded him of a service report he had filed in 2370 about a malfunctioning autoclave in the medical wing. The autoclave had been running hot for months. The report had recommended replacement. Replacement had been denied. He had refiled the report three times before the request was approved, by which point the autoclave had been running hot for two years, and Kester had not asked why an autoclave running hot was acceptable for two years in a medical wing that handled human tissue.
 
 Now, in the cold of the under-level, he asked.
 
 *Because they didn't want it sterile,* his mind answered, in a voice that was perhaps his own and perhaps not. *Because whatever they were running through it, sterilization would have damaged.*
 
-He wrote *autoclave 2367* on a ration card.
+He wrote *autoclave 2370* on a ration card.
 
 He underlined it.
 
@@ -45,7 +45,7 @@ He set the card aside.
 
 ---
 
-There were people in the chamber with him, though he had been ignoring them. Three Undersiders Sable had introduced him to before she walked away — a woman called Tev who had been a nurse before her arrest, a man called Roon who had been nothing in particular before his arrest and was now apparently the one who managed the chamber's air recyclers, and a thin elderly man called Chayne who Kester suspected had been a teacher of some kind in his previous life and who was watching Kester with an expression of mild, patient curiosity that Kester found unbearable.
+There were people in the chamber with him, though he had been ignoring them. Three Undersiders Sable had introduced him to before she walked away — a woman called Tev who had been a nurse before her arrest, a man called Sten who had been nothing in particular before his arrest and was now apparently the one who managed the chamber's air recyclers, and a thin elderly man called Chayne who Kester suspected had been a teacher of some kind in his previous life and who was watching Kester with an expression of mild, patient curiosity that Kester found unbearable.
 
 "Mr. Vaile," Chayne said, eventually.
 
@@ -63,7 +63,7 @@ Kester opened his mouth to say no, and then he stopped, and he thought about it.
 
 Chayne pulled a folding chair over and sat down. He moved like a man who was in pain and had been for a long time, and who had decided years ago not to mention it. He set his hands on his knees. His knuckles were swollen.
 
-"I was a records officer," Chayne said. "Before. On Korya. I worked in municipal archives for thirty-one years."
+"I was a records officer," Chayne said. "Before. On Sephara. I worked in municipal archives for thirty-one years."
 
 "Why are you here."
 
@@ -189,7 +189,7 @@ Then she said: "We need a next move."
 
 "That's where I want to start."
 
-"Then we start there. Tonight. Chayne can help with the records. Tev knows the medical wing's old layout — she nursed there for two years before she was transferred. Roon can get us power and air for as deep as we need to go." Sable rubbed her face. "We have two objectives now, Kester. Mouse and the truth. If we can get one we can probably get both. If we can't get either we are going to die down here in the dark."
+"Then we start there. Tonight. Chayne can help with the records. Tev knows the medical wing's old layout — she nursed there for two years before she was transferred. Sten can get us power and air for as deep as we need to go." Sable rubbed her face. "We have two objectives now, Kester. Mouse and the truth. If we can get one we can probably get both. If we can't get either we are going to die down here in the dark."
 
 "Yes."
 
@@ -255,7 +255,7 @@ Kester had filed those phrases for nine years.
 
 He had not yet realized that he had been carrying the cipher in his hands the entire time.
 
-He fell asleep, finally, just before the air recyclers cycled into their dawn rotation. He dreamed of his daughter on Europa, walking on water-skids across the under-ice canals, holding a strawberry up to the sodium lamps to see the light through it. In the dream she turned to him and smiled, and her smile was Mouse's smile, and he woke up before he could decide what that meant.
+He fell asleep, finally, just before the air recyclers cycled into their dawn rotation. He dreamed of his daughter on Andra Prime, riding the cable-trams down through the terraces, holding a strawberry up to the sodium lamps to see the light through it. In the dream she turned to him and smiled, and her smile was Mouse's smile, and he woke up before he could decide what that meant.
 
 ---
 

@@ -39,7 +39,7 @@ A staff member moved to a small sideboard Kester had not noticed. The sideboard 
 
 Orrel poured.
 
-He poured two glasses of the dark red brandy he had been carrying with him for as long as Kester had known him — the Martian vintage Kester had filed customs paperwork for in 2367 and 2368 and 2370, the bottle that had appeared on Orrel's desk every time a serious conversation was about to happen. The smell of it crossed the table to Kester immediately. It smelled of spice and old wood and the faint sweet rot of fruit that has been pressed and aged and pressed again. It smelled, Kester registered with a small involuntary surge of memory, of nine years of his life.
+He poured two glasses of the dark red brandy he had been carrying with him for as long as Kester had known him — the Verdaine vintage Kester had filed customs paperwork for in 2367 and 2368 and 2370, the bottle that had appeared on Orrel's desk every time a serious conversation was about to happen. The smell of it crossed the table to Kester immediately. It smelled of spice and old wood and the faint sweet rot of fruit that has been pressed and aged and pressed again. It smelled, Kester registered with a small involuntary surge of memory, of nine years of his life.
 
 Orrel pushed one of the glasses toward him.
 
@@ -69,7 +69,7 @@ He talked first about Calderon.
 
 He did this, Kester registered, with the manner of a man telling a story he had told before — to himself, perhaps, or to a journal, or to the silver-haired woman who stood three feet behind him and who Kester suspected had heard the story enough times to know it by rote. Orrel did not embellish. He did not dramatize. He told the story the way an old soldier tells the story of a campaign that has shaped his life, which is to say, with a kind of weariness that did not pretend to be philosophical and did not pretend to be untraumatized.
 
-Calderon Trench had been a forward observation objective on the third front of a war Kester knew by name and had not paid attention to. The war had been twenty-three years ago. Orrel had been a junior officer — twenty-six, lieutenant grade, in command of a small infantry unit attached to a larger formation. The objective had been a section of trench works approximately six kilometers in length on a ridge that the Hegemony command had identified as militarily significant. The trench had been held by Federation-allied forces. The Hegemony had been ordered to take it.
+Calderon Trench had been a forward observation objective on the third front of a war Kester knew by name and had not paid attention to. The war had been thirty-two years ago. Orrel had been a junior officer — twenty-six, lieutenant grade, in command of a small infantry unit attached to a larger formation. The objective had been a section of trench works approximately six kilometers in length on a ridge that the Hegemony command had identified as militarily significant. The trench had been held by Federation-allied forces. The Hegemony had been ordered to take it.
 
 Sixteen thousand soldiers had been committed to the assault.
 
@@ -209,7 +209,7 @@ He thought: *Pira asked Sable will you remember me. Sable said yes. Sable said I
 
 He thought: *I am the only person in this universe who knows that Pira is no longer anywhere.*
 
-He thought: *I do not know how Pira died. I do not know if Yenna or Chayne are alive. I do not know if the archive reached the surface of Andra Prime. I know only that the shuttle was a Class II frame and the procurement office is being tedious and the writing-off is a closed item.*
+He thought: *The shuttle was shot down. That is what "operational terms" meant — a kill, ordered and logged and filed. Orrel gave the order, and the shuttle that carried a four-year-old was put out of the sky, and the only part of it still moving through the world is a procurement entry someone wants tidied. I do not know whether Yenna or Chayne are alive. I do not know whether the archive survived. I know only that the shuttle is a closed item, and that Pira was on it.*
 
 He reached for the untouched glass.
 

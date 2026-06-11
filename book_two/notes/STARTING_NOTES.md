@@ -24,6 +24,10 @@ These had to be decided before drafting could sensibly begin. All four are now s
 - The Keris grandfather Imir dies during book two.
 - Aldric Orrel dies in book two or early book three (of old age, before the Cleanse cascade reaches its climax).
 
+## Must be handled in book two's opening (ch 1–3)
+
+**The custody → freedom gap.** Book one ends with the whole surviving Compact group in Harvester custody — Sable, Kester, Resh, and Davour held in the residence wing; Mouse held separately by the Architect's people. Book two opens two years later with them free and operating (and recovering Mouse early, Resh-driven). *How they got out of the Harvester is unwritten.* Book two's early chapters need to establish or account for the escape/release and what the two-year period did to them. [Flagged from the 2026-06-11 book-one reading; see `book_one/READING_NOTES_2026-06-11.md`.]
+
 ## Plot armatures to consider
 
 Three possible threads for the Compact side over the two-year gap:

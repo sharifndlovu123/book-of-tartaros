@@ -4,7 +4,7 @@ The tram car smelled like rust and old blood, and Kester Vaile was handcuffed to
 
 "You're quiet, Kester."
 
-Warden Bastien Orrel sat with his legs crossed, one polished boot swinging lazily in the low gravity. He was sixty, silver-haired, and wore the black dress uniform of the Hegemony Corrections Authority like a priest wore his vestments — with reverence. Behind him, through the tram's reinforced window, the surface of Tartaros scrolled past: a rust-red moon pockmarked with mining pits and the grey concrete scars of Facility Nine. Somewhere up above, past the haze, the gas giant Moloch filled half the sky like a bruised eye.
+Warden Bastien Orrel sat with his legs crossed, one polished boot swinging lazily in the low gravity. He was fifty-eight, silver-haired, and wore the black dress uniform of the Hegemony Corrections Authority like a priest wore his vestments — with reverence. Behind him, through the tram's reinforced window, the surface of Tartaros scrolled past: a rust-red moon pockmarked with mining pits and the grey concrete scars of Facility Nine. Somewhere up above, past the haze, the gas giant Moloch filled half the sky like a bruised eye.
 
 "I've got nothing to say to you," Kester said.
 
@@ -76,7 +76,7 @@ Kester swallowed. Wing Seven had been the medical trial block. Forty-two prisone
 
 She was quiet for a long moment. Then she lowered the rivet gun, and said, conversationally: "My brother was in Wing Seven."
 
-"I know," Kester said. "Tomas Reyek. Prisoner 8841-C. He was a welder. He had a daughter named Mira on Ganymede. He made it forty-one days."
+"I know," Kester said. "Tomas Reyek. Prisoner 8841-C. He was a welder. He had a daughter named Mira on Sephara. He made it forty-one days."
 
 Her face didn't change. But something behind her eyes did.
 

@@ -7,7 +7,7 @@ There were small alcoves in the walls. Some of the alcoves held photographs. Som
 
 Tev was laid out on the central plinth with her hands folded across her chest in the same configuration she had folded Aleya's hands the night before. Someone had brushed her hair. Someone — Kester suspected Davour — had placed a small dried flower from the chamber's hydroponic stock between her fingers. The flower was white and waxy and the kind of flower that did not need much light to grow. The Undersiders had been growing it for fifteen years, Chayne told Kester later, for exactly this purpose.
 
-The whole community was there. The seven survivors. The four who had escaped through the deeper passages and trickled back overnight. Ten of them counting Kester. Roon was carried in on a litter by two of the unnamed survivors — a man called Dren and a woman called Hess, whose names Kester learned that morning and whose faces he would carry forward without yet knowing them — and Roon was placed on the chamber's only chair. He could not stand. He sat with his bandaged side and his bandaged thigh and his eyes very far away, and he did not speak.
+The whole community was there. The seven survivors. The four who had escaped through the deeper passages and trickled back overnight. Ten of them counting Kester. Sten was carried in on a litter by two of the unnamed survivors — a man called Dren and a woman called Hess, whose names Kester learned that morning and whose faces he would carry forward without yet knowing them — and Sten was placed on the chamber's only chair. He could not stand. He sat with his bandaged side and his bandaged thigh and his eyes very far away, and he did not speak.
 
 Chayne stood at the head of the plinth.
 
@@ -85,13 +85,13 @@ Behind him, Ivo finished whatever he had been doing with the maintenance panel �
 
 They went back down to the chamber.
 
-Kester did not know, then, that Ivo's adjustment to the maintenance panel had been a check-in. He would not know it for another two days.
+Kester did not know, then, that Ivo's adjustment to the maintenance panel had been a check-in. He would not know it for another day.
 
 ---
 
 The reading took place in the main chamber at midnight.
 
-The survivors gathered around the long salvaged table where Kester's ration cards still lay in their underlined forest. Yenna brought her satchel from the palace. Chayne brought his drives, retrieved from the ventilation duct, the panels still bearing the sticky smudges where his hands had pulled them open in the night of the attack. Roon was carried over. Pira was asleep in a folding cot beside Sable's chair. Resh stood at the back of the chamber and did not sit down. Davour stood at the door and did not sit down. Ivo sat at the table.
+The survivors gathered around the long salvaged table where Kester's ration cards still lay in their underlined forest. Yenna brought her satchel from the palace. Chayne brought his drives, retrieved from the ventilation duct, the panels still bearing the sticky smudges where his hands had pulled them open in the night of the attack. Sten was carried over. Pira was asleep in a folding cot beside Sable's chair. Resh stood at the back of the chamber and did not sit down. Davour stood at the door and did not sit down. Ivo sat at the table.
 
 The reading lasted six hours.
 
@@ -157,13 +157,13 @@ Yenna was crying, silently, the way she had cried in the palace.
 
 Sable stood up.
 
-"We move at first light," she said. "Sleep if you can. Pack what you need. Yenna, write down your contacts on Andra Prime tonight, in case — in case the journey is harder than we hope. Make sure two people know the names. Chayne should have them. So should Roon, if he is staying."
+"We move at first light," she said. "Sleep if you can. Pack what you need. Yenna, write down your contacts on Andra Prime tonight, in case — in case the journey is harder than we hope. Make sure two people know the names. Chayne should have them. So should Sten, if he is staying."
 
-"Roon is staying," Roon said, from his litter. His voice was thin but clear. "I cannot travel and I would slow you down. Dren and Hess will stay with me. We will hold what we can hold of the chamber for as long as we can hold it, and if the Board comes back we will move deeper. There are passages I have not shown you, Sable. There are passages even Ivo does not know about. I have been keeping them in reserve. I will keep them in reserve."
+"Sten is staying," Sten said, from his litter. His voice was thin but clear. "I cannot travel and I would slow you down. Dren and Hess will stay with me. We will hold what we can hold of the chamber for as long as we can hold it, and if the Board comes back we will move deeper. There are passages I have not shown you, Sable. There are passages even Ivo does not know about. I have been keeping them in reserve. I will keep them in reserve."
 
-Sable looked at Roon for a long moment.
+Sable looked at Sten for a long moment.
 
-"Thank you, Roon."
+"Thank you, Sten."
 
 "Get the girl, Sable. Get the truth home. The rest of us will be here, or we will not, and either way you will have done what you went to do."
 
@@ -177,9 +177,9 @@ The reading was over.
 
 The hours before dawn were quiet.
 
-Yenna sat with Chayne in a corner of the chamber and made her list of contacts on Andra Prime. There were six names. Two of them were academics who had survived after Yenna's arrest. One was a journalist who had written about disappeared persons under a pen name and who Yenna believed was Adeyemi's primary source in the Federation press. One was Adeyemi's husband — a man Yenna had never met but whose name she had known for years from the dedications in his wife's published reports, a man who would now be in mourning and would also be, perhaps, capable of acting on what they brought him. One was a sympathetic lawyer in the Federation oversight apparatus. One was a former colleague of Chayne's from the municipal archives on Korya, who had escaped his arrest and was rumored to be living quietly under a different name on Andra Prime's outer settlements.
+Yenna sat with Chayne in a corner of the chamber and made her list of contacts on Andra Prime. There were six names. Two of them were academics who had survived after Yenna's arrest. One was a journalist who had written about disappeared persons under a pen name and who Yenna believed was Adeyemi's primary source in the Federation press. One was Adeyemi's husband — a man Yenna had never met but whose name she had known for years from the dedications in his wife's published reports, a man who would now be in mourning and would also be, perhaps, capable of acting on what they brought him. One was a sympathetic lawyer in the Federation oversight apparatus. One was a former colleague of Chayne's from the municipal archives on Sephara, who had escaped his arrest and was rumored to be living quietly under a different name on Andra Prime's outer settlements.
 
-Six names. Six possible doors. Yenna wrote them down and gave one copy to Chayne and one copy to Sable and one copy to Roon, and Roon hid his copy in a place even Dren and Hess did not know about, because Roon was a man whose paranoia had now been validated by the chamber attack and who was no longer willing to assume the chamber was a safe place for paper.
+Six names. Six possible doors. Yenna wrote them down and gave one copy to Chayne and one copy to Sable and one copy to Sten, and Sten hid his copy in a place even Dren and Hess did not know about, because Sten was a man whose paranoia had now been validated by the chamber attack and who was no longer willing to assume the chamber was a safe place for paper.
 
 Kester did not sleep.
 
@@ -217,11 +217,11 @@ He kept his eyes closed for a long time.
 
 Dawn was an abstraction in the under-levels, but the chamber's clock said oh-six-hundred when Sable said *we go*, and the survivors moved.
 
-Roon, on his litter, was carried back to the deeper rooms by Dren and Hess. Sable knelt beside the litter for a moment. She did not speak. She put her hand on Roon's hand, and he closed his fingers around hers, and they stayed like that for perhaps thirty seconds. Then she stood up and walked away.
+Sten, on his litter, was carried back to the deeper rooms by Dren and Hess. Sable knelt beside the litter for a moment. She did not speak. She put her hand on Sten's hand, and he closed his fingers around hers, and they stayed like that for perhaps thirty seconds. Then she stood up and walked away.
 
 The split happened at the chamber's door.
 
-Yenna was carrying her satchel of palace papers and a sealed case of the photograph drives, copied from the originals, with a backup buried in a panel Roon had prepared in the deeper rooms. Chayne was carrying a smaller bag of his own — his archive's original drives, his notebooks, a few personal items Kester did not see. Pira was held in Sable's arms. She had been awake for ten minutes. She was eating a small piece of dried fruit Tev had set aside two days ago, which Davour had retrieved from Tev's medical station that morning without saying why she was retrieving it.
+Yenna was carrying her satchel of palace papers and a sealed case of the photograph drives, copied from the originals, with a backup buried in a panel Sten had prepared in the deeper rooms. Chayne was carrying a smaller bag of his own — his archive's original drives, his notebooks, a few personal items Kester did not see. Pira was held in Sable's arms. She had been awake for ten minutes. She was eating a small piece of dried fruit Tev had set aside two days ago, which Davour had retrieved from Tev's medical station that morning without saying why she was retrieving it.
 
 Sable carried Pira to Chayne. She knelt down so the child was at Chayne's eye level. Chayne, in his folding chair, opened his arms.
 
@@ -285,7 +285,7 @@ The remaining party — Sable, Kester, Resh, Ivo, and Davour, who would return a
 
 Kester looked back, once, before they left.
 
-The chamber was quiet. Roon's litter was no longer visible. The salvaged table where the reading had happened was still strewn with papers — Yenna had taken what she needed, Kester had taken his ration cards, but the bulk of the working materials remained, abandoned, the surface of an investigation no one would be coming back to. The ceiling lights hummed. The air recyclers cycled. The chamber had been a society for ten years and was now a room.
+The chamber was quiet. Sten's litter was no longer visible. The salvaged table where the reading had happened was still strewn with papers — Yenna had taken what she needed, Kester had taken his ration cards, but the bulk of the working materials remained, abandoned, the surface of an investigation no one would be coming back to. The ceiling lights hummed. The air recyclers cycled. The chamber had been a society for ten years and was now a room.
 
 He turned away.
 

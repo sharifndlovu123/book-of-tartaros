@@ -65,7 +65,7 @@ The crawl ran for two hundred meters and dropped them into a service lock he had
 
 She was nineteen.
 
-She was nineteen and she had taken the keycard off the dead man without looking at his face, because she had known him for years and she had also known, in some operational compartment of her mind, that this was going to happen and she had decided in advance that she would not look. Kester thought of his daughter on Europa. Lira would be twenty-two now. He thought of the strawberries under sodium lamps. He thought of the way Mouse moved — competent, calm, terrible — and he understood that there was no version of this story where she got to grow into the woman she might have been if she had been born somewhere else.
+She was nineteen and she had taken the keycard off the dead man without looking at his face, because she had known him for years and she had also known, in some operational compartment of her mind, that this was going to happen and she had decided in advance that she would not look. Kester thought of his daughter on Andra Prime. Lira would be twenty-two now. He thought of the strawberries under sodium lamps. He thought of the way Mouse moved — competent, calm, terrible — and he understood that there was no version of this story where she got to grow into the woman she might have been if she had been born somewhere else.
 
 He hated, in that moment, the man who had built her into this. He hated, in that moment, every version of himself who had helped.
 

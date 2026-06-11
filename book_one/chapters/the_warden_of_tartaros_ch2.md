@@ -3,9 +3,9 @@
 
 The maintenance shaft beneath the comms array was forty-eight meters of vertical rust, and Kester Vaile was thinking about his daughter.
 
-He hadn't seen Lira in six years. She lived on Europa with her mother, in one of the union habitats where they grew real strawberries under sodium lamps and the children went to school on water-skids across the under-ice canals. He used to send her letters. He used to send her money. He used to tell himself that the work he did on Tartaros was *for* her, that every credit he banked was a wall against the kind of poverty that had eaten his own childhood whole.
+He hadn't seen Lira in eleven years. She lived on Andra Prime with her mother, in one of the terrace districts where they grew real strawberries under sodium lamps and the children rode the cable-trams to school between the terraces. He used to send her letters. He used to send her money. He used to tell himself that the work he did on Tartaros was *for* her, that every credit he banked was a wall against the kind of poverty that had eaten his own childhood whole.
 
-Then she'd turned twelve, and she'd written him back exactly once, and the letter had said: *Mom told me what you do. Please don't write me anymore.*
+Then, seven years ago, she'd written him back exactly once, and the letter had said: *Mom told me what you do. Please don't write me anymore.*
 
 He'd kept climbing the corporate ladder anyway. What else was there to do.
 
@@ -37,7 +37,7 @@ They had been waiting for a key.
 
 Kester was the key.
 
-His biometric signature — retina, palm, voice — was still in the system, because Orrel had wanted him alive long enough to extract the inspector's data core location. The warden had not yet had time, in the chaos of the tram bombing and Kester's disappearance into the under-levels, to revoke his clearance. Orrel was many things, but he was also a man who hated paperwork; revocation required a signed order through Hegemony Central, and Orrel preferred to do it personally, with ceremony, over a glass of the Martian brandy he kept locked in his desk.
+His biometric signature — retina, palm, voice — was still in the system, because Orrel had wanted him alive long enough to extract the inspector's data core location. The warden had not yet had time, in the chaos of the tram bombing and Kester's disappearance into the under-levels, to revoke his clearance. Orrel was many things, but he was also a man who hated paperwork; revocation required a signed order through Hegemony Central, and Orrel preferred to do it personally, with ceremony, over a glass of the Verdaine brandy he kept locked in his desk.
 
 Kester had sat across from him during three such revocations, over the years. He had watched Orrel pour the brandy with one hand and sign the death warrant with the other.
 
@@ -53,7 +53,7 @@ Kester froze. Above them, through the shaft's open grating, a guard's footsteps 
 
 The footsteps stopped directly above them.
 
-Kester held his breath. He watched, through the slats of the grating, the guard's silhouette: helmet, rifle, the dull green glow of a heads-up display reflected on a faceplate. He could smell the man's cigarettes through the ventilation. *Vorka brand*, he thought, with the strange clarity of fear. *He buys them from the commissary on credit. His name is Renko. He has a wife on Phobos. I approved his hardship leave last year so he could attend her father's funeral.*
+Kester held his breath. He watched, through the slats of the grating, the guard's silhouette: helmet, rifle, the dull green glow of a heads-up display reflected on a faceplate. He could smell the man's cigarettes through the ventilation. *Vorka brand*, he thought, with the strange clarity of fear. *He buys them from the commissary on credit. His name is Renko. He has a wife on Sephara. I approved his hardship leave last year so he could attend her father's funeral.*
 
 Renko coughed. Spat. Moved on.
 
@@ -171,7 +171,7 @@ Then she sat down at the console, and pulled the microphone toward her, and said
 
 She kept talking.
 
-And six kilometers away, in a citadel lit by red emergency strobes, Warden Bastien Orrel set down his glass of Martian brandy, very carefully, and reached for the kill-switch he kept in his vest pocket.
+And six kilometers away, in a citadel lit by red emergency strobes, Warden Bastien Orrel set down his glass of Verdaine brandy, very carefully, and reached for the kill-switch he kept in his vest pocket.
 
 ---
 
