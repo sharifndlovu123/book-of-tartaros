@@ -1752,7 +1752,7 @@ He sat on the floor for another minute before he followed.
 
 ---
 
-The expedition assembled at oh-nine-hundred, in the small staging area Ivo had been quietly fitting out for two years. Six of them. Sable. Kester. Kell Davour, who had been a Hegemony military police officer and who walked like one and who had not spoken to Kester directly in the three days since he had arrived in the under-levels because she was the kind of person who decided whether to trust a man over a long span of observation rather than a short span of conversation. Ivo, who had blown up the tram that had started this and who, now that Kester was meeting him properly, looked very tired in a way that had nothing to do with the last few days. Yenna Sorell, who was small and quiet and who carried a leather satchel of paper notebooks because she did not trust digital storage on principle. And Resh, the eighteen-year-old, who had not spoken since Mouse was taken and who was not going to start speaking now.
+The expedition assembled at oh-nine-hundred, in the small staging area Ivo had been quietly fitting out for two years. Six of them. Sable. Kester. Kell Davour, who had been a Hegemony military police officer and who walked like one and who had not spoken to Kester directly in the three days since he had arrived in the under-levels because he was the kind of person who decided whether to trust a man over a long span of observation rather than a short span of conversation. Ivo, who had blown up the tram that had started this and who, now that Kester was meeting him properly, looked very tired in a way that had nothing to do with the last few days. Yenna Sorell, who was small and quiet and who carried a leather satchel of paper notebooks because she did not trust digital storage on principle. And Resh, the eighteen-year-old, who had not spoken since Mouse was taken and who was not going to start speaking now.
 
 They were checking gear. They were not saying much.
 
@@ -1802,7 +1802,7 @@ They went down through Ivo's shaft.
 
 It took three hours. The deeper sections of the prison were not, as Sable had said, what the Undersiders had assumed. The first two levels below the under-levels chamber were structural, exactly as expected — load-bearing concrete, exposed rebar, the cold bones of the prison's foundation. The third level was different. The third level had a *finish* on it. The walls had been smoothed. The floor was not concrete but a kind of dark synthetic that absorbed sound. The air was cleaner. The temperature was warmer. The lighting, when Ivo activated the corridor's sensor strips, came up gentle and diffuse — not the harsh white of the prison's industrial fixtures, but something softer, almost domestic.
 
-"This isn't a foundation," Davour said quietly. She had her sidearm out. She was speaking for the first time in the expedition, and her voice was lower and more careful than Kester had expected. "This is a residential level."
+"This isn't a foundation," Davour said quietly. He had his sidearm out. He was speaking for the first time in the expedition, and his voice was lower and more careful than Kester had expected. "This is a residential level."
 
 "It can't be," Yenna said. "Who would live three levels under a prison."
 
@@ -2044,7 +2044,7 @@ The broadcast had been seventy-two hours ago, almost exactly.
 
 *Surface team neutralization* — that was the Undersiders.
 
-"They're attacking the chamber," Davour said. Her voice was flat. "Right now. This is happening right now."
+"They're attacking the chamber," Davour said. His voice was flat. "Right now. This is happening right now."
 
 "Yes," Sable said.
 
@@ -2124,7 +2124,7 @@ Sten was against the chamber's east wall. He was sitting up. He was bleeding fro
 
 Chayne was not in the chamber's main area.
 
-Sable moved toward Sten. Davour moved with her, already pulling a field kit from her own pack, already kneeling. Yenna ran for Tev because Yenna had not yet absorbed that Tev was past help, and the running was Yenna's body refusing to absorb it for another few seconds. Resh stood in the doorway and did not move and did not make a sound.
+Sable moved toward Sten. Davour moved with her, already pulling a field kit from his own pack, already kneeling. Yenna ran for Tev because Yenna had not yet absorbed that Tev was past help, and the running was Yenna's body refusing to absorb it for another few seconds. Resh stood in the doorway and did not move and did not make a sound.
 
 Kester walked to the wall.
 
@@ -2684,9 +2684,9 @@ The chapter was over and the next thing was beginning, and Kester sat in the rea
 
 Davour's briefing took nine minutes.
 
-Pier Three had three perimeter checkpoints, two interior security stations, a control room overlooking the launch bays, and a flight crew quarters where the off-duty pilots slept. Total guard count, by Davour's estimate from the binoculars and from her seven years of Hegemony Military Police experience reading bases like this: twelve to fifteen active personnel, of whom no more than four would be combat-rated, the rest being base security with light training and slow reaction times. The civilian shuttle Yenna's group needed was in the east bay, scheduled for departure at oh-eight hundred under a routine logistics manifest. The military shuttle for Sable's group was in Bay Two, fueled for fourteen hours of transit, with the authorization codes Orrel had provided.
+Pier Three had three perimeter checkpoints, two interior security stations, a control room overlooking the launch bays, and a flight crew quarters where the off-duty pilots slept. Total guard count, by Davour's estimate from the binoculars and from his seven years of Hegemony Military Police experience reading bases like this: twelve to fifteen active personnel, of whom no more than four would be combat-rated, the rest being base security with light training and slow reaction times. The civilian shuttle Yenna's group needed was in the east bay, scheduled for departure at oh-eight hundred under a routine logistics manifest. The military shuttle for Sable's group was in Bay Two, fueled for fourteen hours of transit, with the authorization codes Orrel had provided.
 
-The plan was simple. Davour, Sable, and Resh would go in through the west service hatch — a maintenance entrance Davour had used during her MP years, which was not on the active patrol's primary attention list. They would clear the interior in stages: control room first, then the security stations, then the crew quarters. Kester and Ivo would stay with the transport at the perimeter and handle the loading of Yenna's group onto the civilian shuttle once the interior was clear. The whole operation was estimated at twenty-two minutes from breach to first launch.
+The plan was simple. Davour, Sable, and Resh would go in through the west service hatch — a maintenance entrance Davour had used during his MP years, which was not on the active patrol's primary attention list. They would clear the interior in stages: control room first, then the security stations, then the crew quarters. Kester and Ivo would stay with the transport at the perimeter and handle the loading of Yenna's group onto the civilian shuttle once the interior was clear. The whole operation was estimated at twenty-two minutes from breach to first launch.
 
 "Kester," Davour said. "You won't fire."
 
@@ -2766,7 +2766,7 @@ He walked back to the military shuttle.
 
 ---
 
-The military shuttle in Bay Two was a Class III Hegemony transport — a long-haul vessel, designed for fourteen-hour transits, with sleeping berths for eight and a small cabin for the flight crew. Davour took the pilot's seat. Sable sat beside her in the co-pilot's chair. Kester, Resh, and Ivo took the rear cabin.
+The military shuttle in Bay Two was a Class III Hegemony transport — a long-haul vessel, designed for fourteen-hour transits, with sleeping berths for eight and a small cabin for the flight crew. Davour took the pilot's seat. Sable sat beside him in the co-pilot's chair. Kester, Resh, and Ivo took the rear cabin.
 
 The launch was uneventful. The authorization codes Orrel had provided were valid. The shuttle's transponder identified it as a Hegemony Internal Security transport on a manifest that Davour did not read aloud and that Kester chose not to ask about. The mag-sealed doors above Bay Two rolled back. The shuttle rose. Tartaros fell away beneath them, the great red eye of Moloch filled the upper viewport for several long minutes, and then the moon's gravity released them and they were in transit.
 
@@ -3329,7 +3329,7 @@ This was the thing Kester noticed first, walking behind Aide Veneya through the 
 
 Kester glanced at Sable as they walked. Sable's face, under the residence wing's warm light, was carefully blank. She was registering the same details Kester was registering, and she was making no expression about any of them.
 
-Davour walked behind Sable with her hands relaxed at her sides. Kester recognized the posture. Davour's hands were relaxed because tense hands would have signaled to anyone watching that Davour was preparing to do something. Davour was, in fact, preparing to do something — she had been preparing to do something since the moment they stepped off the loading ramp — but her body had been trained to keep its preparations invisible, and the training was holding.
+Davour walked behind Sable with his hands relaxed at his sides. Kester recognized the posture. Davour's hands were relaxed because tense hands would have signaled to anyone watching that Davour was preparing to do something. Davour was, in fact, preparing to do something — he had been preparing to do something since the moment they stepped off the loading ramp — but his body had been trained to keep its preparations invisible, and the training was holding.
 
 Resh was last. Resh was walking with his eyes down, the way he had walked since Mouse was taken, and Kester was the only one of them watching him closely enough to notice that his eyes were not actually down. They were tracking. Resh was looking at the floor in his peripheral vision but he was *seeing* the corridor — the alcoves, the lighting, the staff who passed them in the opposite direction with the small professional nods of residence employees acknowledging guests. Resh had not been silent for three days because he had stopped paying attention. Resh had been silent for three days because he had been paying attention to *everything*, and he had not yet found the right thing to say.
 
@@ -3343,7 +3343,7 @@ Sable had not made the request out loud. Sable had simply, in the corridor, take
 
 "Of course, madam. Mr. Vaile, your quarters are this way, in the south quarter; the Warden has asked that you be placed in the suite nearest his own, as it is the most comfortable available, and he wishes to honor your seniority. Madam Reyek and Resh, your quarters are in the west quarter, with a view of the eastern gardens. Captain Davour, your quarters are in the north quarter; we have given you a suite that is somewhat more secluded, in keeping with what we understand of your military preferences."
 
-Davour's mouth did not move. She did not nod. *Military preferences*, Kester translated, was the residence's polite phrase for *we have put you in a room with three doors we can lock from outside*.
+Davour's mouth did not move. He did not nod. *Military preferences*, Kester translated, was the residence's polite phrase for *we have put you in a room with three doors we can lock from outside*.
 
 "Each of your suites contains fresh clothing appropriate to the climate of this facility. The Warden has invited you to dinner in the small eastern dining room at twenty-hundred local time. That is approximately one hour from now. Staff will collect you from your quarters at five minutes before the hour and escort you to dinner. We hope you will find your suites comfortable and that the hour is sufficient for you to refresh yourselves after your journey." Aide Veneya inclined her head, very slightly. "Do you have any questions before I show you to your rooms."
 
@@ -3415,7 +3415,7 @@ She was wearing a dark green dress in the same soft fabric as Kester's tunic, wi
 
 Resh stood beside her. Resh had been put in a soft tunic and trousers similar to Kester's, but in slightly brighter colors, the way a residence might dress a young guest. The clothes did not fit Resh's silence. The boy looked uncomfortable in them, the way a teenager looks uncomfortable in adult clothes at a wedding. He did not look at Kester when Kester entered. He was looking at the floor.
 
-Davour was at the table's far end. She had been put in something close to a captain's evening uniform but stripped of insignia — a dark coat over a high-collared shirt, both in the residence's muted palette. She looked, Kester thought, like a soldier at a state dinner, which was perhaps exactly what the residence had been aiming for. Her hands were at her sides. Her face was unreadable.
+Davour was at the table's far end. He had been put in something close to a captain's evening uniform but stripped of insignia — a dark coat over a high-collared shirt, both in the residence's muted palette. He looked, Kester thought, like a soldier at a state dinner, which was perhaps exactly what the residence had been aiming for. His hands were at his sides. His face was unreadable.
 
 Two other people were at the table.
 
@@ -3485,7 +3485,7 @@ Sable did not raise her glass.
 
 Neither did Kester.
 
-Davour, after a moment's hesitation, did. Davour drank a small swallow and set her glass down with the same neutral economy she did everything. Resh did not touch his glass.
+Davour, after a moment's hesitation, did. Davour drank a small swallow and set his glass down with the same neutral economy he did everything. Resh did not touch his glass.
 
 Orrel did not seem to notice.
 
@@ -3547,7 +3547,7 @@ Sable ate.
 
 Kester noticed this without commenting on it. Sable ate the food because eating the food was the thing her body needed, and Sable had stopped allowing her dignity to interfere with her body's needs. Davour ate. Resh ate small amounts in small bites. Kester ate. The food was as good as it had looked.
 
-Orrel asked Davour, at one point, about her time in the Hegemony Military Police. He did this with the genuine interest of a man who liked soldiers and who had been one once, and Davour responded in short measured sentences that gave him nothing useful but that did not insult him by refusing the conversation entirely. Orrel asked Resh, gently, what his interests had been before his arrival in the under-levels. Resh did not answer. Orrel did not press.
+Orrel asked Davour, at one point, about his time in the Hegemony Military Police. He did this with the genuine interest of a man who liked soldiers and who had been one once, and Davour responded in short measured sentences that gave him nothing useful but that did not insult him by refusing the conversation entirely. Orrel asked Resh, gently, what his interests had been before his arrival in the under-levels. Resh did not answer. Orrel did not press.
 
 He did not, Kester noticed, address Sable directly until they were perhaps forty minutes into the meal.
 
@@ -3669,7 +3669,7 @@ The forearm did not break.
 
 The silver-haired woman closed her hand around Sable's wrist with the calm professional efficiency of a nurse taking a pulse, and Sable — who had been a strong woman a moment before — was abruptly being held in place by a grip that her body's full weight could not break.
 
-Davour had moved at the same time. Davour had gone for one of the staff members standing along the wall — Kester registered, in the chaos of the moment, that Davour had identified that staff member specifically, that Davour had picked her target out of the four staff members in the room based on some criterion Kester did not have time to parse — and Davour had her hands on the staff member's throat for perhaps one and a quarter seconds before the staff member, with an unhurried economical motion, removed Davour's hands and put Davour against the wall, face first, with her arms held behind her back.
+Davour had moved at the same time. Davour had gone for one of the staff members standing along the wall — Kester registered, in the chaos of the moment, that Davour had identified that staff member specifically, that Davour had picked his target out of the four staff members in the room based on some criterion Kester did not have time to parse — and Davour had his hands on the staff member's throat for perhaps one and a quarter seconds before the staff member, with an unhurried economical motion, removed Davour's hands and put Davour against the wall, face first, with his arms held behind his back.
 
 Resh had moved toward Aide Veneya.
 
@@ -3707,7 +3707,7 @@ Orrel raised the glass. He took a small swallow. He set it down. He looked at Sa
 
 He looked at the three of them.
 
-"Take them to their rooms, please," he said, to the staff. "Madam Reyek and the young man together, as arranged. Captain Davour to her own quarters. Ensure they are comfortable for the night. Mr. Vaile will stay. I would like to have a word with him."
+"Take them to their rooms, please," he said, to the staff. "Madam Reyek and the young man together, as arranged. Captain Davour to his own quarters. Ensure they are comfortable for the night. Mr. Vaile will stay. I would like to have a word with him."
 
 The staff moved.
 
@@ -3715,7 +3715,7 @@ Sable was led from the room.
 
 She did not look at Kester as she passed.
 
-Davour was led from the room. She did look at Kester as she passed. Her look was — Kester registered, in the small administrative compartment that had been doing his thinking for him for hours — *appraising*. Davour was assessing him. Davour was deciding, in the second she had to do it, whether Kester was now, in her professional estimation, the resistance's last asset or the resistance's first betrayal. He did not know which conclusion she had reached. She did not give him time to read it.
+Davour was led from the room. He did look at Kester as he passed. His look was — Kester registered, in the small administrative compartment that had been doing his thinking for him for hours — *appraising*. Davour was assessing him. Davour was deciding, in the second he had to do it, whether Kester was now, in his professional estimation, the resistance's last asset or the resistance's first betrayal. Kester did not know which conclusion Davour had reached. Davour did not give him time to read it.
 
 Resh was led from the room. Resh looked at no one.
 

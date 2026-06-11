@@ -3,9 +3,9 @@
 
 Davour's briefing took nine minutes.
 
-Pier Three had three perimeter checkpoints, two interior security stations, a control room overlooking the launch bays, and a flight crew quarters where the off-duty pilots slept. Total guard count, by Davour's estimate from the binoculars and from her seven years of Hegemony Military Police experience reading bases like this: twelve to fifteen active personnel, of whom no more than four would be combat-rated, the rest being base security with light training and slow reaction times. The civilian shuttle Yenna's group needed was in the east bay, scheduled for departure at oh-eight hundred under a routine logistics manifest. The military shuttle for Sable's group was in Bay Two, fueled for fourteen hours of transit, with the authorization codes Orrel had provided.
+Pier Three had three perimeter checkpoints, two interior security stations, a control room overlooking the launch bays, and a flight crew quarters where the off-duty pilots slept. Total guard count, by Davour's estimate from the binoculars and from his seven years of Hegemony Military Police experience reading bases like this: twelve to fifteen active personnel, of whom no more than four would be combat-rated, the rest being base security with light training and slow reaction times. The civilian shuttle Yenna's group needed was in the east bay, scheduled for departure at oh-eight hundred under a routine logistics manifest. The military shuttle for Sable's group was in Bay Two, fueled for fourteen hours of transit, with the authorization codes Orrel had provided.
 
-The plan was simple. Davour, Sable, and Resh would go in through the west service hatch — a maintenance entrance Davour had used during her MP years, which was not on the active patrol's primary attention list. They would clear the interior in stages: control room first, then the security stations, then the crew quarters. Kester and Ivo would stay with the transport at the perimeter and handle the loading of Yenna's group onto the civilian shuttle once the interior was clear. The whole operation was estimated at twenty-two minutes from breach to first launch.
+The plan was simple. Davour, Sable, and Resh would go in through the west service hatch — a maintenance entrance Davour had used during his MP years, which was not on the active patrol's primary attention list. They would clear the interior in stages: control room first, then the security stations, then the crew quarters. Kester and Ivo would stay with the transport at the perimeter and handle the loading of Yenna's group onto the civilian shuttle once the interior was clear. The whole operation was estimated at twenty-two minutes from breach to first launch.
 
 "Kester," Davour said. "You won't fire."
 
@@ -85,7 +85,7 @@ He walked back to the military shuttle.
 
 ---
 
-The military shuttle in Bay Two was a Class III Hegemony transport — a long-haul vessel, designed for fourteen-hour transits, with sleeping berths for eight and a small cabin for the flight crew. Davour took the pilot's seat. Sable sat beside her in the co-pilot's chair. Kester, Resh, and Ivo took the rear cabin.
+The military shuttle in Bay Two was a Class III Hegemony transport — a long-haul vessel, designed for fourteen-hour transits, with sleeping berths for eight and a small cabin for the flight crew. Davour took the pilot's seat. Sable sat beside him in the co-pilot's chair. Kester, Resh, and Ivo took the rear cabin.
 
 The launch was uneventful. The authorization codes Orrel had provided were valid. The shuttle's transponder identified it as a Hegemony Internal Security transport on a manifest that Davour did not read aloud and that Kester chose not to ask about. The mag-sealed doors above Bay Two rolled back. The shuttle rose. Tartaros fell away beneath them, the great red eye of Moloch filled the upper viewport for several long minutes, and then the moon's gravity released them and they were in transit.
 

@@ -390,7 +390,7 @@ character earns more dialogue. Grounded in the Part II character entries.*
 - *Signature:* *"I don't have a name for that."* — and, once, off-script: *"…Resh."*
 
 **Kell Davour — the ex-MP (Captain Davour).**
-- *Voice:* flat, procedural, economical; a threat read out as plain declarative (*"This is a residential level." / "That's worse."*); clipped imperatives and a closing check (*"Make it count." / "Clear?"*); comm-voice strips to fragments (*"control room cleared, two down"*). Reads rooms and people as assets and threats. Narration calls her *Davour*; the comrades who knew the soldier call her *Kell*.
+- *Voice:* flat, procedural, economical; a threat read out as plain declarative (*"This is a residential level." / "That's worse."*); clipped imperatives and a closing check (*"Make it count." / "Clear?"*); comm-voice strips to fragments (*"control room cleared, two down"*). Reads rooms and people as assets and threats. Narration calls him *Davour*; the comrades who knew the soldier call him *Kell*.
 - *Refuses:* speculation, reassurance, false hope; performing feeling; trust on short acquaintance — she decides over long observation, not conversation (gives Orrel "nothing useful" without insulting him).
 - *Pressure/humor:* fewer words, not more; dry and gallows-adjacent at most. The rationed crack is *gentleness*, spent once on someone who has earned it (*"Yes," gently. "I know."*).
 - *Signature:* *"You won't fire."* — a verdict handed over as an order.

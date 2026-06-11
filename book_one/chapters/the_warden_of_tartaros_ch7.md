@@ -93,7 +93,7 @@ He sat on the floor for another minute before he followed.
 
 ---
 
-The expedition assembled at oh-nine-hundred, in the small staging area Ivo had been quietly fitting out for two years. Six of them. Sable. Kester. Kell Davour, who had been a Hegemony military police officer and who walked like one and who had not spoken to Kester directly in the three days since he had arrived in the under-levels because she was the kind of person who decided whether to trust a man over a long span of observation rather than a short span of conversation. Ivo, who had blown up the tram that had started this and who, now that Kester was meeting him properly, looked very tired in a way that had nothing to do with the last few days. Yenna Sorell, who was small and quiet and who carried a leather satchel of paper notebooks because she did not trust digital storage on principle. And Resh, the eighteen-year-old, who had not spoken since Mouse was taken and who was not going to start speaking now.
+The expedition assembled at oh-nine-hundred, in the small staging area Ivo had been quietly fitting out for two years. Six of them. Sable. Kester. Kell Davour, who had been a Hegemony military police officer and who walked like one and who had not spoken to Kester directly in the three days since he had arrived in the under-levels because he was the kind of person who decided whether to trust a man over a long span of observation rather than a short span of conversation. Ivo, who had blown up the tram that had started this and who, now that Kester was meeting him properly, looked very tired in a way that had nothing to do with the last few days. Yenna Sorell, who was small and quiet and who carried a leather satchel of paper notebooks because she did not trust digital storage on principle. And Resh, the eighteen-year-old, who had not spoken since Mouse was taken and who was not going to start speaking now.
 
 They were checking gear. They were not saying much.
 
@@ -143,7 +143,7 @@ They went down through Ivo's shaft.
 
 It took three hours. The deeper sections of the prison were not, as Sable had said, what the Undersiders had assumed. The first two levels below the under-levels chamber were structural, exactly as expected — load-bearing concrete, exposed rebar, the cold bones of the prison's foundation. The third level was different. The third level had a *finish* on it. The walls had been smoothed. The floor was not concrete but a kind of dark synthetic that absorbed sound. The air was cleaner. The temperature was warmer. The lighting, when Ivo activated the corridor's sensor strips, came up gentle and diffuse — not the harsh white of the prison's industrial fixtures, but something softer, almost domestic.
 
-"This isn't a foundation," Davour said quietly. She had her sidearm out. She was speaking for the first time in the expedition, and her voice was lower and more careful than Kester had expected. "This is a residential level."
+"This isn't a foundation," Davour said quietly. He had his sidearm out. He was speaking for the first time in the expedition, and his voice was lower and more careful than Kester had expected. "This is a residential level."
 
 "It can't be," Yenna said. "Who would live three levels under a prison."
 
@@ -385,7 +385,7 @@ The broadcast had been seventy-two hours ago, almost exactly.
 
 *Surface team neutralization* — that was the Undersiders.
 
-"They're attacking the chamber," Davour said. Her voice was flat. "Right now. This is happening right now."
+"They're attacking the chamber," Davour said. His voice was flat. "Right now. This is happening right now."
 
 "Yes," Sable said.
 
@@ -465,7 +465,7 @@ Sten was against the chamber's east wall. He was sitting up. He was bleeding fro
 
 Chayne was not in the chamber's main area.
 
-Sable moved toward Sten. Davour moved with her, already pulling a field kit from her own pack, already kneeling. Yenna ran for Tev because Yenna had not yet absorbed that Tev was past help, and the running was Yenna's body refusing to absorb it for another few seconds. Resh stood in the doorway and did not move and did not make a sound.
+Sable moved toward Sten. Davour moved with her, already pulling a field kit from his own pack, already kneeling. Yenna ran for Tev because Yenna had not yet absorbed that Tev was past help, and the running was Yenna's body refusing to absorb it for another few seconds. Resh stood in the doorway and did not move and did not make a sound.
 
 Kester walked to the wall.
 
