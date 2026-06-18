@@ -1,4 +1,6 @@
-# Book Three — *The Empty Chair* — notes
+# Book Four — *The Empty Chair* — notes
+
+> **Renumber note (2026-06-18):** the cycle is now **four books** — this is **Book Four** (was Book Three). Internal "book three" references below mean *this* book under the old numbering. A full internal renumber is pending.
 
 ## Status
 

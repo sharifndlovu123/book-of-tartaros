@@ -1,4 +1,6 @@
-# Book Two — *The Ward of Korya* — drafting notes
+# Book Three — *The Ward of Korya* — drafting notes
+
+> **Renumber note (2026-06-18):** the cycle is now **four books** — this is **Book Three** (was Book Two). The internal "book two / book three" references below predate the renumber and read against the *old* numbering (here "book two" = this book, *Ward of Korya*; "book three" = *The Empty Chair*, now Book Four). A full internal renumber is pending; the gap-material outline in this file is **superseded by `book_two/notes/GAP_BOOK_DESIGN.md`** (the new Book Two).
 
 ## Status
 

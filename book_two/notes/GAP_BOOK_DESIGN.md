@@ -18,12 +18,12 @@ the two-year gap; the others shift down:
 | 3 | *The Ward of Korya* | Book 2 |
 | 4 | *The Empty Chair* | Book 3 |
 
-**Folder note:** the repo folders are **not yet renumbered** — `book_two/` still holds
-*Ward of Korya*, `book_three/` holds *Empty Chair*. This design lives in the interim
-`gap_book/` folder until two follow-ups are decided (see §10): a **title** for the gap
-book, and the **folder renumber**. This doc supersedes the gap-material portions of
-`book_two/notes/STARTING_NOTES.md` (which is titled *Ward of Korya* but conflates the
-gap material into it).
+**Folder note:** the folders are now **renumbered** (2026-06-18): `book_two/` = this gap
+book, `book_three/` = *Ward of Korya*, `book_four/` = *The Empty Chair*. This doc lives at
+`book_two/notes/`. Remaining follow-ups (see §10): a **title** for this book, its **covers**,
+and the **canon renumber** across the bible / synopsis / CLAUDE.md. This doc supersedes the
+gap-material portions of `book_three/notes/STARTING_NOTES.md` (titled *Ward of Korya*, which
+conflates the gap material into it under the old numbering).
 
 ---
 
