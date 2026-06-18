@@ -13,7 +13,10 @@ Across three generations, two powers prepare for a war each believes the other
 started. The **Homonoia** (the conglomerate that rules the Hegemony from above)
 builds the **Cleanse** — a program that processes children into augmented
 soldiers — to be ready for the return of the **Keris**, an exiled house it
-nearly destroyed. Neither side knows the full truth of what it did to the other.
+nearly destroyed. The public is never told the enemy is the Keris — officially
+extinct, they cannot be named — so the Homonoia points its citizens at the
+**Federation** instead, the external rival inflated into the war's public face.
+Neither side knows the full truth of what it did to the other.
 The trilogy's question: *can the youngest generation refuse to inherit the war
 the old men built for them?*
 

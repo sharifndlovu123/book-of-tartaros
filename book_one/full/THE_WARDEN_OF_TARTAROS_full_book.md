@@ -2369,7 +2369,7 @@ He turned it on. He read what was on it. He read it twice. He did not speak.
 
 Ivo, behind him in the corridor, was doing something with a maintenance panel ten meters down the way. Kester registered this peripherally — Ivo was always doing something with maintenance panels, it was the man's natural state — and did not turn around to look. He was reading.
 
-The slate contained a transport schedule. A single passenger of interest, manifest designation *Subject M-19* — Mouse, he understood, with the small cold lurch that had become familiar — would depart Tartaros at oh-four hundred local time on the morning of the fifth day from now. Departure point: the surface launch facility designated *Pier Three*, located approximately forty kilometers north of Facility Nine, accessible by the maintained vehicle road over the Vorrath Range. Destination: redacted in the slate's display, but the transit duration was given as *approximately fourteen hours*, which placed the destination — Kester ran the math against what he knew of Hegemony shuttle drives — within a star system that did not appear on any map he had ever filed.
+The slate contained a transport schedule. A single passenger of interest, manifest designation *Subject M-19* — Mouse, he understood, with the small cold lurch that had become familiar — would depart Tartaros at oh-four hundred local time on the morning of the fifth day from now. Departure point: the surface launch facility designated *Pier Three*, located approximately forty kilometers north of Facility Nine, accessible by the maintained vehicle road over the Vorrath Range. Destination: redacted in the slate's display, but the transit duration was given as *approximately fourteen hours*, which placed the destination — Kester ran the math against what he knew of Hegemony shuttle drives — far around the curve of the world, at a site whose coordinates had been struck from every chart he had ever filed.
 
 The Harvester.
 
@@ -3152,9 +3152,9 @@ He did not say anything else for hours.
 
 ---
 
-The Harvester planet was visible through the cockpit porthole at hour eleven of the transit.
+The Harvester was visible through the cockpit porthole at hour eleven of the transit.
 
-Kester saw it briefly, when he went forward to deliver Davour a ration pack. The planet was small and green-blue from this distance — *terraformed*, Davour said, *or at least atmospherically processed, the surface readings are within human-tolerable range*. The system around it had two suns, both of them small and yellow, neither of them on Hegemony charts. The planet was the only inhabited body in the system. There were three orbital stations, none of which appeared to be transmitting on civilian frequencies. The Harvester's traffic was all encrypted or silent.
+Kester saw it briefly, when he went forward to deliver Davour a ration pack. Far below, the dead grey crust of Tartaros broke, just once, into a single impossible patch of green — *terraformed*, Davour said, *or at least atmospherically processed; the readings inside that perimeter are within human-tolerable range, and nowhere else for a thousand kilometers is.* It sat alone in the cold, walled off from the dead world that carried it. There were three orbital stations holding over it, none of which appeared to be transmitting on civilian frequencies. The Harvester's traffic was all encrypted or silent.
 
 The shuttle's transponder, broadcasting under the codes Orrel had provided, was met by a customs hail at hour twelve. Davour responded with the manifest. The customs station accepted it without query. *Welcome to the facility, Hegemony Internal Security transport,* the customs voice said, in a flat synthesized tone. *Proceed to receiving bay seven on the southern approach. Please ensure all weapons are secured for offload review.*
 
@@ -3200,7 +3200,7 @@ Sable was beside him.
 
 The hatch opened.
 
-The atmosphere of the Harvester planet rushed in — warm air, smelling faintly of grass and ozone, the particular air of a world that had been terraformed and had grown into the terraforming. The cabin filled with the noise of the shuttle's passage. The grassland scrolled past below them, a green-yellow blur four hundred meters down, slowing as Davour bled off speed.
+The atmosphere of the Harvester rushed in — warm air, smelling faintly of grass and ozone, the particular air of a place that had been terraformed and had grown into the terraforming. The cabin filled with the noise of the shuttle's passage. The grassland scrolled past below them, a green-yellow blur four hundred meters down, slowing as Davour bled off speed.
 
 "Ivo," Sable said.
 
@@ -3541,7 +3541,7 @@ The dinner began in earnest.
 
 It went on for more than an hour.
 
-Orrel made conversation. He was, Kester remembered with the small surprised admiration that had visited him intermittently over nine years of working for the man, a *good* dinner host. He told stories about the planet's terraforming, which had been done sixty years ago by an early Hegemony venture that had run out of funding and abandoned the work, and which had been quietly restarted by the Board fifteen years ago. He told stories about the gardens outside the windows, which had been planted by a former resident of this wing whose name he did not give, and which had matured in ways that surprised him each season. He told a story about a small bird that had nested in one of the garden's trees the previous year, and about Mouse coming to find him in his office to tell him about it, and Mouse — across the table — smiled at the right moment in the story, the small calibrated smile of a daughter who had been told the story by her father many times.
+Orrel made conversation. He was, Kester remembered with the small surprised admiration that had visited him intermittently over nine years of working for the man, a *good* dinner host. He told stories about the enclave's terraforming, which had been done sixty years ago by an early Hegemony venture that had run out of funding and abandoned the work, and which had been quietly restarted by the Board fifteen years ago. He told stories about the gardens outside the windows, which had been planted by a former resident of this wing whose name he did not give, and which had matured in ways that surprised him each season. He told a story about a small bird that had nested in one of the garden's trees the previous year, and about Mouse coming to find him in his office to tell him about it, and Mouse — across the table — smiled at the right moment in the story, the small calibrated smile of a daughter who had been told the story by her father many times.
 
 Sable ate.
 

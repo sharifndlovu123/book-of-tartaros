@@ -10,7 +10,7 @@ The workspace for **the Tartaros Cycle**, a science-fiction trilogy by Sharif. B
 
 Two files are the canonical source of truth for everything in the trilogy:
 
-1. **`bible/TARTAROS_CYCLE_BIBLE.md`** — worldbuilding, characters, geography, timeline, family trees, institutional structure. Revision 0.17, ~1,022 lines, nine parts. Do not write or edit trilogy content without reading this first.
+1. **`bible/TARTAROS_CYCLE_BIBLE.md`** — worldbuilding, characters, geography, timeline, family trees, institutional structure. Revision 0.27, ~1,260 lines, nine parts. Do not write or edit trilogy content without reading this first.
 2. **`bible/TARTAROS_QUESTIONS.md`** — character development question tracker: 152 answered, 14 partial, 56 open. Read when resolving character detail.
 
 If a task is purely mechanical (rename a file, fix a typo), the bible is optional. For anything touching plot, character, worldbuilding, or voice — read the bible first.
@@ -18,6 +18,7 @@ If a task is purely mechanical (rename a file, fix a typo), the bible is optiona
 **For quick orientation** (faster than the full bible):
 - **`bible/TRILOGY_SYNOPSIS.md`** — what happens across books 1–3 and how it ends, with a `LOCKED` / "never alter" list. Read this before any plot work to avoid contradicting the ending.
 - **`reference/CHARACTER_MAP.md`** — who's who, grouped by house/faction, with family trees (Mermaid diagrams).
+- **`reference/geography.md`** — the authoritative map: the five-world core (Andra Prime, Tartaros, Verdaine, Elysse, Korya), the carceral system (Tartaros = prison + the Harvester enclave + the Undersiders beneath), the Federation, and trade/currency. Read before any worldbuilding or geography work.
 - **`reference/sigils.html`** — a device (sigil) and colour palette for every faction, house, arm, Synedrion seat, the Keris, and the Roan. Colours for the four arms / Sisters / Keris are bible-locked; sigils and the other palettes are proposals (tagged in the page).
 
 ## The trilogy's load-bearing ironies
@@ -48,7 +49,7 @@ Interior, slightly cool, attentive to institutional textures and character inter
 
 ## Current state of the work
 
-- **Bible**: revision 0.17.
+- **Bible**: revision 0.27.
 - **Book one**: complete, 11 chapters, `book_one/chapters/`, consolidated at `book_one/full/`.
 - **Book two**: not drafted. Four structural decisions are still open — see `book_two/notes/STARTING_NOTES.md`. These are the user's to decide; propose options, do not pick.
 - **Book three**: not drafted. Substantial beats locked — see `book_three/notes/LOCKED_BEATS.md`.

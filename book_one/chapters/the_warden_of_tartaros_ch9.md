@@ -471,9 +471,9 @@ He did not say anything else for hours.
 
 ---
 
-The Harvester planet was visible through the cockpit porthole at hour eleven of the transit.
+The Harvester was visible through the cockpit porthole at hour eleven of the transit.
 
-Kester saw it briefly, when he went forward to deliver Davour a ration pack. The planet was small and green-blue from this distance — *terraformed*, Davour said, *or at least atmospherically processed, the surface readings are within human-tolerable range*. The system around it had two suns, both of them small and yellow, neither of them on Hegemony charts. The planet was the only inhabited body in the system. There were three orbital stations, none of which appeared to be transmitting on civilian frequencies. The Harvester's traffic was all encrypted or silent.
+Kester saw it briefly, when he went forward to deliver Davour a ration pack. Far below, the dead grey crust of Tartaros broke, just once, into a single impossible patch of green — *terraformed*, Davour said, *or at least atmospherically processed; the readings inside that perimeter are within human-tolerable range, and nowhere else for a thousand kilometers is.* It sat alone in the cold, walled off from the dead world that carried it. There were three orbital stations holding over it, none of which appeared to be transmitting on civilian frequencies. The Harvester's traffic was all encrypted or silent.
 
 The shuttle's transponder, broadcasting under the codes Orrel had provided, was met by a customs hail at hour twelve. Davour responded with the manifest. The customs station accepted it without query. *Welcome to the facility, Hegemony Internal Security transport,* the customs voice said, in a flat synthesized tone. *Proceed to receiving bay seven on the southern approach. Please ensure all weapons are secured for offload review.*
 
@@ -519,7 +519,7 @@ Sable was beside him.
 
 The hatch opened.
 
-The atmosphere of the Harvester planet rushed in — warm air, smelling faintly of grass and ozone, the particular air of a world that had been terraformed and had grown into the terraforming. The cabin filled with the noise of the shuttle's passage. The grassland scrolled past below them, a green-yellow blur four hundred meters down, slowing as Davour bled off speed.
+The atmosphere of the Harvester rushed in — warm air, smelling faintly of grass and ozone, the particular air of a place that had been terraformed and had grown into the terraforming. The cabin filled with the noise of the shuttle's passage. The grassland scrolled past below them, a green-yellow blur four hundred meters down, slowing as Davour bled off speed.
 
 "Ivo," Sable said.
 
