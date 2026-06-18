@@ -1,6 +1,6 @@
-# The Tartaros Cycle — Trilogy Synopsis & Canon Lock
+# The Tartaros Cycle — Synopsis & Canon Lock
 
-*A short statement of what the trilogy is and how it ends. The detail lives in
+*A short statement of what the cycle is and how it ends. The detail lives in
 `TARTAROS_CYCLE_BIBLE.md`; this file exists so the story is **respected** — so we
 always know what happens and, above all, **what can never be altered.** If a
 draft contradicts anything marked LOCKED here, the draft is wrong.*
@@ -17,8 +17,11 @@ nearly destroyed. The public is never told the enemy is the Keris — officially
 extinct, they cannot be named — so the Homonoia points its citizens at the
 **Federation** instead, the external rival inflated into the war's public face.
 Neither side knows the full truth of what it did to the other.
-The trilogy's question: *can the youngest generation refuse to inherit the war
+The cycle's question: *can the youngest generation refuse to inherit the war
 the old men built for them?*
+
+*(The cycle is **four books** — Book Two, the gap book, dramatizes the two years
+between Book One's ending and Book Three.)*
 
 ---
 
@@ -40,29 +43,53 @@ in a protective vault; Pira survives. The Compact believes everything destroyed.
 > Sable in custody, Kester declining Bastien's offer and waiting for morning,
 > Mouse with the Architect's people, Pira alive among the Keris.
 
-## Book Two — *The Ward of Korya* (undrafted) · theme: resistance, and its cost
+## Book Two — *The Quiet Flag* (undrafted) · theme: exile and endurance
 
-Two years on, two parallel threads.
+The two-year gap, dramatized. The surviving cell — **Sable**, **Kester**, **Resh**,
+**Davour**, and **Mouse** (recovered early, partially augmented, led out by Resh, the
+one she recognized) — escapes Harvester custody and is cast out to the frontier
+**grey zone**, basing at the free port **Scupper** among traders, brokers, and
+defectors who answer to neither the Hegemony nor the Federation. They are flagged as
+threats **only in the Hegemony's official channels** — the Narrine cannot make them
+public without un-burying the Cleanse — so they are hunted quietly. In four beats:
+(1) Sable's search for Pira, run through **Kester's Andra Prime incursions** (the
+**Roan**, the lower terraces), ends in apparent proof she is *dead* — **false grief**
+is the engine of the book. (2) A crushed attempt to expose the Cleanse is buried by
+the Narrine, turning the cell into patient **archive-builders** (and teaching the
+reader the hierarchy). (3) **Kester cracks a redacted record** and realizes the
+shuttle was never destroyed — the kill was *faked.* (4) They reach the unsurveyed
+**Korya** and find the **cold, empty wreck** — Pira and the archive already taken,
+two years gone. The book ends on **hope and dread**: someone got there first.
+
+> **LOCKED.** The cell survives custody as deliberate exceptions, not a blanket
+> release. **False grief drives the book, and the reader shares it** — Pira's survival
+> is withheld from reader and characters alike until the gap closes. Kester carries
+> (and the discovery breaks) the secret that the shuttle was shot down. **The book
+> ends at the empty wreck on Korya** — not destroyed; someone took her; maybe she
+> lived. *(Full design: `book_two/notes/GAP_BOOK_DESIGN.md`.)*
+
+## Book Three — *The Ward of Korya* (undrafted) · theme: resistance, and its cost
+
+Picking up from Book Two's empty wreck — two parallel threads on and around Korya.
 
 **Thread A — Korya.** Pira, now 6, is raised by **Asham**; her friends are
 **Nadya** (an ordinary Keris child) and **Ivana** (of the bloodline). The
 grandfather **Imir** dies of old age; his son **Kazimir's** restraint is tested
 without him.
 
-**Thread B — the Compact side.** Sable, Kester, **Mouse** (recovered early, led
-by **Resh**, the one she recognized), Resh, and **Davour**. In four movements:
-(1) Sable's search for Pira ends in apparent proof she is *dead* — false grief is
-the engine of the two years; (2) a crushed attempt to expose the Cleanse turns
-them into **archive-builders**; (3) the archive reveals **Yara** (the Successor),
-and they extract her — one child, at real cost; (4) intelligence leads them to
-the unsurveyed Korya, where they arrive not knowing Pira is there.
+**Thread B — the Compact side.** From the wreck, the cell pushes toward the hidden
+world they've found — not knowing it shelters the Keris, or Pira. Their archive work
+surfaces **Yara** (the Successor), extracted at real cost; the threads converge.
 
-> **LOCKED.** Imir dies in book two. Pira is settled with Asham. Thread B builds
-> the archive that arms book three. **Sable's reunion with Pira closes the book**
-> — small, careful, and devastating because she spent two years believing she
-> failed her. Aldric Orrel dies (book two or early three), before the cascade.
+> **LOCKED.** Imir dies in book three. Pira is settled with Asham. Thread B builds
+> the archive that arms book four. **Sable's reunion with Pira closes the book** —
+> small, careful, and devastating because she spent two years believing she failed
+> her. Aldric Orrel dies (book three or early four), before the cascade.
+> *(Re-design pending: the early Thread-B movements — search → false grief, crushed
+> exposure → archive — now live in Book Two; the bible's Part I §8–10 still houses
+> them here until re-split, and Book Three's detailed shape will be reworked then.)*
 
-## Book Three — *The Empty Chair* (undrafted) · theme: war, and whether resistance becomes what it resists
+## Book Four — *The Empty Chair* (undrafted) · theme: war, and whether resistance becomes what it resists
 
 The **cascade**: evidence converges on the Synedrion floor — **Hessa's**
 testimony (the cheated duels), **Aurelius's** family papers (the engineered-disease
@@ -78,12 +105,12 @@ pronouncement**. The Vendine fractures.
 > - **Aurelan tells Bastien**, late, that the grandfather's letter was an *apology*, not an endorsement — his moral cathedral was built on grief, not approval. (Bastien's response stays open; author leans an ambiguous holding.)
 > - **Roderic preserves the letter** rather than destroying it — one small institutional honesty.
 > - **The Adjudicate is restored**: the Keris return, their lost fifth arm is reconstituted, the Architect role becomes structurally redundant, and **the empty Keris chair is finally filled.**
-> - **Not all the guilty are punished** — Edric survives by plausible ignorance; Octavia escapes. The trilogy registers this as real moral cost.
+> - **Not all the guilty are punished** — Edric survives by plausible ignorance; Octavia escapes. The cycle registers this as real moral cost.
 > - **Closing image:** Mother Hessa walks from her destroyed clinic carrying a child. The institutions have fallen and risen; the work goes on at the scale it always did — one old woman, one child.
 
 > The ending is **not triumphal.** Exposure and restoration come at cost; whether
 > the returned Keris govern wisely is the next generation's question, not the
-> trilogy's.
+> cycle's.
 
 ---
 
@@ -96,7 +123,7 @@ stop and flag it.
 2. Xerxes prepares for a Keris return **he himself caused** by manufacturing the evidence that discredited them two centuries ago. He does not know this either.
 3. The Synedrion's **empty Keris chair** (never legally reassigned) becomes the legal mechanism of the Keris's reinstatement — the institution held their place the whole time.
 4. **Mother Hessa's patience is not innocent** — she chose for decades not to confirm what she suspected, because confirming would damage the Vendine she loves.
-5. The **Adjudicate** (the Keris's lost fifth arm) is restored at the end; the trilogy closes on institutional *restoration*, not just exposure.
+5. The **Adjudicate** (the Keris's lost fifth arm) is restored at the end; the cycle closes on institutional *restoration*, not just exposure.
 6. **Marcus mirrors Bastien's withdrawal back at him** at the cascade — *you wanted space; now Marcus wants space.*
 
 ---

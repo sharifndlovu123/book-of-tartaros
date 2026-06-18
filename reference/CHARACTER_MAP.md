@@ -44,7 +44,7 @@ graph TD
   SYN --> S6["Retired Officers · a former Vendine Chair"]
   SYN --> S7["Mercantile Guilds · TBD"]
   SYN --> S8["Frontier Worlds · TBD"]
-  SYN --> S9["THE KERIS SEAT · empty 200 years — filled in book three"]
+  SYN --> S9["THE KERIS SEAT · empty 200 years — filled in book four"]
 ```
 
 ---
@@ -106,7 +106,7 @@ graph TD
 
 ```mermaid
 graph TD
-  IMI["Imir · grandfather · 80s · dies in book two"]
+  IMI["Imir · grandfather · 80s · dies in book three"]
   IWF["wife † · died during the exile"]
   IMI --- IWF
   IMI --> KAZ["Kazimir · the son · will lead the war"]
@@ -187,7 +187,7 @@ graph TD
   RESH -. recovers .-> MOU
   KES --- MAREN["Maren · separated"]
   KES --> LIR["Lira Vaile · 22 · estranged 11 years"]
-  YAR["Yara · the Successor · extracted in book two"]
+  YAR["Yara · the Successor · extracted in book three"]
   SAB -. extracts .-> YAR
   FALL["The fallen of book one: Yenna † · Chayne † · Tev † · Pell † (daughter Iyani) · Aleya †"]
 ```

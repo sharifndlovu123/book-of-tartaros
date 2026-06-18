@@ -1,11 +1,11 @@
 # The Tartaros Cycle — Dialogue & Character-Voice Style
 
-*How dialogue is written in this trilogy. The goal is not "realistic talk" — it is
+*How dialogue is written in this cycle. The goal is not "realistic talk" — it is
 **round, distinct characters**. Read this before drafting or revising any scene
 with people in it. It anchors on the Game-of-Thrones model (class- and
 culture-marked speech, subtext, wit as armor, POV-colored narration), grafts one
 lesson from Harry Potter (every character gets a single unforgettable signature),
-and keeps this trilogy's own rule: **register by diction, never by phonetic
+and keeps this cycle's own rule: **register by diction, never by phonetic
 spelling.** Companion to `TARTAROS_CYCLE_BIBLE.md` (characters), `CLAUDE.md`
 (prose voice), and `../reference/CHARACTER_MAP.md`.*
 
@@ -34,8 +34,8 @@ lines, know their **voice card** (below). The fastest way to kill "boring" is to
 stop letting characters share a default voice.
 
 ### 2. POV-colored narration — the prose takes the character's side
-The trilogy is **close-third and multi-POV** (book one rides Kester; book two
-splits between Pira on Korya and Sable's group; book three widens). In any scene,
+The cycle is **close-third and multi-POV** (book one rides Kester; book three
+splits between Pira on Korya and Sable's group; book four widens). In any scene,
 the *narration itself* borrows the POV character's diction, biases, and blind
 spots — not just their dialogue. The same room, the same person, should read
 differently depending on whose head we are in.
@@ -77,7 +77,7 @@ The levers that make a voice. Pull different ones for different people.
 
 ## House registers — make cultures sound as distinct as they're named
 
-The trilogy's naming registers extend into *speech*. A Vendine and a Keris should
+The cycle's naming registers extend into *speech*. A Vendine and a Keris should
 sound as different as they look on the page.
 
 | Group | Register of speech |
@@ -224,7 +224,7 @@ For each major character, fill:
 - **Rhythm:** easy, quick, glancing; he keeps it light to keep it shallow.
 - **Tics:** answers a serious question with wit; sees the manipulation and names it out loud.
 - **Refuses:** earnestness; his grief for the father who died when he was small.
-- **Humor:** the trilogy's wittiest voice — urbane, self-aware, a Tyrion register.
+- **Humor:** the cycle's wittiest voice — urbane, self-aware, a Tyrion register.
 - **Under pressure:** *more* flippant — until the one moment the wit fails and something true falls out.
 - **Others vs. self:** others read a wastrel; he is harder to move than anyone believes, and chose this life on purpose.
 - **Signature line:** *"I print the truth for a living. You'd be amazed how little of it survives the edit."*
@@ -299,7 +299,7 @@ character earns more dialogue. Grounded in the Part II character entries.*
 
 **Tancred Caradec — the dissenting house head.**
 - *Voice:* Vendine, formal and hard; speaks of the *form* as a living thing; invokes his dead brother obliquely.
-- *Refuses:* to say it publicly (until book three); to debase the form.
+- *Refuses:* to say it publicly (until book four); to debase the form.
 - *Pressure/humor:* austere, controlled; grim.
 - *Signature:* *"A warrior chooses the form. Those children chose nothing. That is not our way — it is the end of it."*
 
@@ -369,7 +369,7 @@ character earns more dialogue. Grounded in the Part II character entries.*
 - *Pressure/humor:* bright child's humor.
 - *Signature:* *"Everyone's scared of the dark down here at first. Then it's just home. You'll see."*
 
-**Pira — the ward (6 in book two).**
+**Pira — the ward (6 in book three).**
 - *Voice:* a child between two worlds; Keris dialect now, Compact memories fading; spare, watchful; grief surfaces sideways (the stuffed animal, the names she keeps).
 - *Refuses:* to talk about the crash directly; to call anyone *mother*.
 - *Pressure/humor:* goes quiet and still; small, rare, surprising humor.

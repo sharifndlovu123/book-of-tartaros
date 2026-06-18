@@ -4,24 +4,24 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this project is
 
-The workspace for **the Tartaros Cycle**, a science-fiction trilogy by Sharif. Book one (*The Warden of Tartaros*) is complete at ~52,600 words across 11 chapters. Book two (*The Ward of Korya*) and book three (*The Empty Chair*) are undrafted. This is a writing project — the deliverables are markdown prose files. There is no build system, no tests, no application.
+The workspace for **the Tartaros Cycle**, a science-fiction **tetralogy** by Sharif. Book one (*The Warden of Tartaros*) is complete at ~52,600 words across 11 chapters. Book two (*The Quiet Flag* — the gap book), book three (*The Ward of Korya*), and book four (*The Empty Chair*) are undrafted. This is a writing project — the deliverables are markdown prose files. There is no build system, no tests, no application.
 
 ## Source of truth — read before acting on any substantive task
 
-Two files are the canonical source of truth for everything in the trilogy:
+Two files are the canonical source of truth for everything in the cycle:
 
-1. **`bible/TARTAROS_CYCLE_BIBLE.md`** — worldbuilding, characters, geography, timeline, family trees, institutional structure. Revision 0.27, ~1,260 lines, nine parts. Do not write or edit trilogy content without reading this first.
-2. **`bible/TARTAROS_QUESTIONS.md`** — character development question tracker: 152 answered, 14 partial, 56 open. Read when resolving character detail.
+1. **`bible/TARTAROS_CYCLE_BIBLE.md`** — worldbuilding, characters, geography, timeline, family trees, institutional structure. Revision 0.28, ~1,260 lines, nine parts. Do not write or edit cycle content without reading this first.
+2. **`bible/TARTAROS_QUESTIONS.md`** — character development question tracker: **fully closed (222/222 answered)**. Read when resolving character detail.
 
 If a task is purely mechanical (rename a file, fix a typo), the bible is optional. For anything touching plot, character, worldbuilding, or voice — read the bible first.
 
 **For quick orientation** (faster than the full bible):
-- **`bible/TRILOGY_SYNOPSIS.md`** — what happens across books 1–3 and how it ends, with a `LOCKED` / "never alter" list. Read this before any plot work to avoid contradicting the ending.
+- **`bible/TRILOGY_SYNOPSIS.md`** — what happens across books 1–4 and how it ends, with a `LOCKED` / "never alter" list. Read this before any plot work to avoid contradicting the ending. *(Filename keeps "TRILOGY" for stability; the work is now a tetralogy.)*
 - **`reference/CHARACTER_MAP.md`** — who's who, grouped by house/faction, with family trees (Mermaid diagrams).
 - **`reference/geography.md`** — the authoritative map: the five-world core (Andra Prime, Tartaros, Verdaine, Elysse, Korya), the carceral system (Tartaros = prison + the Harvester enclave + the Undersiders beneath), the Federation, and trade/currency. Read before any worldbuilding or geography work.
 - **`reference/sigils.html`** — a device (sigil) and colour palette for every faction, house, arm, Synedrion seat, the Keris, and the Roan. Colours for the four arms / Sisters / Keris are bible-locked; sigils and the other palettes are proposals (tagged in the page).
 
-## The trilogy's load-bearing ironies
+## The cycle's load-bearing ironies
 
 Do not contradict these. If new work seems to, flag it and ask before proceeding.
 
@@ -29,7 +29,7 @@ Do not contradict these. If new work seems to, flag it and ask before proceeding
 2. Xerxes is preparing for a Keris return that he caused by manufacturing the discrediting evidence two centuries ago. He does not know this either.
 3. The Synedrion has nine chairs; the Keris chair has been empty 200 years because the seat was never legally reassigned. The empty chair is the legal mechanism of reinstatement.
 4. Mother Hessa's patience is not innocent — she chose for decades not to confirm what she suspected because confirming would damage the Vendine she loves.
-5. The Adjudicate (the Keris's lost fifth arm) is restored at the trilogy's end; the Architect role becomes structurally redundant. The trilogy ends with institutional restoration, not just exposure.
+5. The Adjudicate (the Keris's lost fifth arm) is restored at the cycle's end; the Architect role becomes structurally redundant. The cycle ends with institutional restoration, not just exposure.
 6. Marcus mirrors Bastien's withdrawal back at him at the cascade — *you wanted space; now Marcus wants space*.
 
 ## Prose voice
@@ -49,17 +49,18 @@ Interior, slightly cool, attentive to institutional textures and character inter
 
 ## Current state of the work
 
-- **Bible**: revision 0.27.
-- **Book one**: complete, 11 chapters, `book_one/chapters/`, consolidated at `book_one/full/`.
-- **Book two**: not drafted. Four structural decisions are still open — see `book_two/notes/STARTING_NOTES.md`. These are the user's to decide; propose options, do not pick.
-- **Book three**: not drafted. Substantial beats locked — see `book_three/notes/LOCKED_BEATS.md`.
-- **Questions**: 152 answered, 14 partial, 56 open. Mostly Round Seven (Lira's family, Marella's daughter) and remaining names (homeworlds, Aurelius and Veliya surnames, Mireille's surname).
+- **Bible**: revision 0.28.
+- **Book one** — *The Warden of Tartaros*: complete, 11 chapters, `book_one/chapters/`, consolidated at `book_one/full/`.
+- **Book two** — *The Quiet Flag* (the gap book): not drafted, but **designed** — see `book_two/notes/GAP_BOOK_DESIGN.md`. Dramatizes the two-year custody→Korya gap. Parked: the escape mechanism, and whether Kester tells Sable.
+- **Book three** — *The Ward of Korya*: not drafted — see `book_three/notes/STARTING_NOTES.md` (predates the gap-book split; pending re-scope).
+- **Book four** — *The Empty Chair*: not drafted. Substantial beats locked — see `book_four/notes/LOCKED_BEATS.md`.
+- **Questions**: fully closed (222/222 answered); many late answers tagged `[Author-decided, pending review]`.
 
 ## Workflow principles
 
 1. **The bible is the source of truth.** If the bible is silent on a detail, propose it explicitly and mark it `[TBD]` or `[Author-decided, pending review]`.
-2. **Update the bible when decisions are made.** If a session resolves a question, update both `bible/TARTAROS_CYCLE_BIBLE.md` and `bible/TARTAROS_QUESTIONS.md`. Bump the revision number (0.17 → 0.18) and update the footer description.
-3. **Suggest a commit after meaningful changes.** Git history is the trilogy's edit memory.
+2. **Update the bible when decisions are made.** If a session resolves a question, update both `bible/TARTAROS_CYCLE_BIBLE.md` and `bible/TARTAROS_QUESTIONS.md`. Bump the revision number (e.g., 0.28 → 0.29) and update the footer description.
+3. **Suggest a commit after meaningful changes.** Git history is the cycle's edit memory.
 
 ## Question tracker — closed
 
@@ -77,9 +78,9 @@ revision, and keep `reference/CHARACTER_MAP.md`, `bible/TRILOGY_SYNOPSIS.md`, an
 
 ## Common task patterns
 
-**"Help me draft chapter X of book two."**
-1. Read the bible (at least Part II for characters, Part III for geography, Part IX for ethical spine).
-2. Read `book_two/notes/STARTING_NOTES.md` for open structural questions.
+**"Help me draft chapter X of book two (*The Quiet Flag*, the gap book)."**
+1. Read the bible (at least Part II for characters, Part III + `reference/geography.md` for geography, Part IX for ethical spine).
+2. Read `book_two/notes/GAP_BOOK_DESIGN.md` for the structure (M1–M4), knowledge map, setting (Scupper), and cast.
 3. Read any existing drafts in `book_two/drafts/`.
 4. Confirm the chapter's plot beats before drafting.
 
@@ -105,7 +106,7 @@ grep -n "OPEN" bible/TARTAROS_QUESTIONS.md             # find unanswered questio
 
 ## Next priorities (when user says "continue where we left off")
 
-1. Resolve the four structural decisions blocking book two (`book_two/notes/STARTING_NOTES.md`).
-2. Close out Round Seven of the questions document (Lira's family, Marella's daughter).
-3. Settle remaining names (homeworlds, Aurelius and Veliya surnames, Mireille's surname).
-4. Begin drafting book two chapter one once structural decisions are made.
+1. Formalize the gap book (*The Quiet Flag*) into the bible — redistribute Thread B's early movements (search → false grief, crushed exposure → archive, the discovery, the wreck) from book three into book two (Part I §8–10), per `book_two/notes/GAP_BOOK_DESIGN.md`.
+2. Resolve book two's parked decisions: the escape mechanism (M1), and whether Kester tells Sable (the M4 hinge).
+3. Re-scope `book_three/notes/STARTING_NOTES.md` (*The Ward of Korya*) now that the gap material lives in book two.
+4. Begin drafting book two (*The Quiet Flag*) chapter one once the formalization and parked decisions are settled.

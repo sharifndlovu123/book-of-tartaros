@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <radialGradient id="spaceBg" cx="50%" cy="40%" r="90%">
+      <stop offset="0%" stop-color="#13202a"/>
+      <stop offset="50%" stop-color="#0a141c"/>
+      <stop offset="100%" stop-color="#03060a"/>
+    </radialGradient>
+
+    <linearGradient id="horizonGlow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#22333d" stop-opacity="0"/>
+      <stop offset="60%" stop-color="#33424d" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#04090e" stop-opacity="0.4"/>
+    </linearGradient>
+
+    <radialGradient id="distantWorld" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6b7d88" stop-opacity="0.45"/>
+      <stop offset="60%" stop-color="#2a3640" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#0a1218" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="amberAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7a5226" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#d99a4e"/>
+      <stop offset="100%" stop-color="#7a5226" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="titleFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#eef2f5"/>
+      <stop offset="50%" stop-color="#c3ced6"/>
+      <stop offset="100%" stop-color="#6b7d88"/>
+    </linearGradient>
+
+    <filter id="grain" x="0%" y="0%" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="2.2" numOctaves="3" seed="47"/>
+      <feColorMatrix values="0 0 0 0 0.48
+                             0 0 0 0 0.52
+                             0 0 0 0 0.56
+                             0 0 0 0.06 0"/>
+    </filter>
+
+    <pattern id="stars" x="0" y="0" width="240" height="240" patternUnits="userSpaceOnUse">
+      <circle cx="20" cy="40" r="0.6" fill="#dde6ec" opacity="0.4"/>
+      <circle cx="80" cy="20" r="0.4" fill="#fff" opacity="0.3"/>
+      <circle cx="150" cy="80" r="0.7" fill="#cdd7df" opacity="0.34"/>
+      <circle cx="200" cy="160" r="0.4" fill="#fff" opacity="0.26"/>
+      <circle cx="50" cy="150" r="0.5" fill="#fff" opacity="0.34"/>
+      <circle cx="120" cy="180" r="0.4" fill="#cdd7df" opacity="0.26"/>
+      <circle cx="35" cy="100" r="0.3" fill="#fff" opacity="0.2"/>
+      <circle cx="180" cy="50" r="0.35" fill="#fff" opacity="0.26"/>
+      <circle cx="220" cy="220" r="0.45" fill="#dde6ec" opacity="0.28"/>
+    </pattern>
+
+    <radialGradient id="flagGlow" cx="50%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#f0b45e" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#1a0f06" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="800" height="1200" fill="url(#spaceBg)"/>
+  <rect width="800" height="1200" fill="url(#stars)" opacity="0.4"/>
+
+  <!-- faint frontier world, upper-left -->
+  <circle cx="110" cy="110" r="260" fill="url(#distantWorld)" opacity="0.6"/>
+  <circle cx="110" cy="110" r="150" fill="#1d2932" opacity="0.4"/>
+  <circle cx="110" cy="110" r="96" fill="#2a3a44" opacity="0.3"/>
+
+  <!-- the single amber mark, small in the dark -->
+  <circle cx="690" cy="150" r="30" fill="url(#flagGlow)"/>
+  <circle cx="690" cy="150" r="2.4" fill="#ffce8a" opacity="0.9"/>
+
+  <rect x="0" y="900" width="800" height="300" fill="url(#horizonGlow)"/>
+
+  <!-- top ornament -->
+  <g transform="translate(400, 90)">
+    <line x1="-180" y1="0" x2="-50" y2="0" stroke="#52636d" stroke-width="0.6"/>
+    <line x1="50" y1="0" x2="180" y2="0" stroke="#52636d" stroke-width="0.6"/>
+    <g fill="#8c9aa3">
+      <path d="M -42 0 L -37 -4 L -32 0 L -37 4 Z"/>
+      <path d="M 42 0 L 37 -4 L 32 0 L 37 4 Z"/>
+    </g>
+    <text x="0" y="5" text-anchor="middle" font-family="Georgia, serif"
+          font-size="10" font-style="italic" letter-spacing="6" fill="#9aa9b3">SCIENCE FICTION &#8226; THRILLER</text>
+  </g>
+
+  <!-- PULL QUOTE -->
+  <g transform="translate(400, 200)">
+    <text x="0" y="0" text-anchor="middle" font-family="Georgia, serif" font-size="27" font-style="italic" fill="#cdd9e1" font-weight="300">
+      <tspan x="0" dy="0">&#8220;No warrant. No bounty. No face on a screen.&#8221;</tspan>
+    </text>
+    <text x="0" y="42" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#9aa9b3" font-weight="300">
+      <tspan x="0" dy="0">&#8220;Only a quiet mark, where the records are kept &#8212;&#8221;</tspan>
+    </text>
+    <text x="0" y="74" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#7d8d97" font-weight="300">
+      <tspan x="0" dy="0">&#8220;and everyone who can read it is for sale.&#8221;</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(400, 320)">
+    <line x1="-100" y1="0" x2="-15" y2="0" stroke="url(#amberAccent)" stroke-width="0.8"/>
+    <circle cx="0" cy="0" r="2.5" fill="#d99a4e"/>
+    <line x1="15" y1="0" x2="100" y2="0" stroke="url(#amberAccent)" stroke-width="0.8"/>
+  </g>
+
+  <!-- BLURB -->
+  <g transform="translate(400, 380)" font-family="Georgia, 'Times New Roman', serif" fill="#c2cdd5">
+    <text x="0" y="0" text-anchor="middle" font-size="16">
+      <tspan x="0" dy="0">They walked out of the Harvester alive &#8212; which, for the empire</tspan>
+      <tspan x="0" dy="26">that shot down a shuttle full of witnesses, was the strangest</tspan>
+      <tspan x="0" dy="26">mercy of all. Cast out past the frontier, Sable and Kester make</tspan>
+      <tspan x="0" dy="26">a home of a lawless free port and learn to live as the marked.</tspan>
+    </text>
+    <text x="0" y="160" text-anchor="middle" font-size="16">
+      <tspan x="0" dy="0">Sable hunts for the child she lost. The trail ends in proof</tspan>
+      <tspan x="0" dy="26">the girl is dead &#8212; and grief becomes the engine of two long</tspan>
+      <tspan x="0" dy="26">years, poured into the one weapon the empire fears: a record</tspan>
+      <tspan x="0" dy="26">it cannot bury, built one stolen page at a time.</tspan>
+    </text>
+    <text x="0" y="320" text-anchor="middle" font-size="16">
+      <tspan x="0" dy="0">Then Kester reads a kill that was never really a kill. The</tspan>
+      <tspan x="0" dy="26">shuttle was not destroyed. It came down somewhere &#8212; and</tspan>
+      <tspan x="0" dy="26">someone reached it first. What they find in the cold is not</tspan>
+      <tspan x="0" dy="26">an answer. It is a reason to hope, which is so much worse.</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(400, 850)">
+    <line x1="-180" y1="0" x2="-15" y2="0" stroke="url(#amberAccent)" stroke-width="0.8"/>
+    <circle cx="0" cy="0" r="3" fill="#d99a4e"/>
+    <line x1="15" y1="0" x2="180" y2="0" stroke="url(#amberAccent)" stroke-width="0.8"/>
+  </g>
+
+  <!-- DREAD LINE -->
+  <g transform="translate(400, 920)">
+    <text x="0" y="0" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#cdd9e1">
+      <tspan x="0" dy="0">A child believed dead. A kill that was faked.</tspan>
+      <tspan x="0" dy="32">A flag no one was ever meant to see.</tspan>
+    </text>
+  </g>
+
+  <!-- FOOTER -->
+  <g transform="translate(400, 1050)">
+    <text x="0" y="0" text-anchor="middle" font-family="'Trajan Pro', 'Cinzel', Georgia, serif"
+          font-size="24" letter-spacing="8" fill="url(#titleFill)" font-weight="900">THE QUIET FLAG</text>
+  </g>
+  <text x="400" y="1090" text-anchor="middle" font-family="Georgia, serif"
+        font-size="13" letter-spacing="9" fill="#9aa9b3" font-style="italic">A NOVEL OF THE OUTER HEGEMONY</text>
+  <text x="400" y="1135" text-anchor="middle" font-family="Georgia, serif"
+        font-size="10" letter-spacing="8" fill="#7d8d97" font-style="italic">BOOK TWO OF THE TARTAROS CYCLE</text>
+  <text x="400" y="1170" text-anchor="middle" font-family="Georgia, serif"
+        font-size="9" letter-spacing="5" fill="#5a6a74" opacity="0.9">WHAT THE SILENCE KEEPS</text>
+
+  <rect width="800" height="1200" filter="url(#grain)" opacity="0.5"/>
+  <radialGradient id="vignette" cx="50%" cy="50%" r="80%">
+    <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+    <stop offset="100%" stop-color="#000" stop-opacity="0.65"/>
+  </radialGradient>
+  <rect width="800" height="1200" fill="url(#vignette)"/>
+</svg>

@@ -1,13 +1,13 @@
 # The Tartaros Cycle — Geography
 
-*The canonical map of the trilogy: every world that matters, where it sits, its
+*The canonical map of the cycle: every world that matters, where it sits, its
 climate and weather, what it is for, and who lives there. This file exists because
 the worlds were scattered across the bible and easy to misread — so the map is now
 **set in stone here.** Full character detail still lives in
 `../bible/TARTAROS_CYCLE_BIBLE.md` (Part I §8, Part III); this file is the
 consolidated, authoritative geography.*
 
-**Arrangement (locked 2026-06-18):** the trilogy keeps a **five-world core** and
+**Arrangement (locked 2026-06-18):** the cycle keeps a **five-world core** and
 treats everything else as minor/peripheral, named only as a scene needs it. The
 core is **Andra Prime, Tartaros, Verdaine, Elysse, Korya.** This is deliberately
 lean — the politics (distributed arms, a capital everyone must travel to) is the
