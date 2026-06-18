@@ -10,7 +10,7 @@ The workspace for **the Tartaros Cycle**, a science-fiction **tetralogy** by Sha
 
 Two files are the canonical source of truth for everything in the cycle:
 
-1. **`bible/TARTAROS_CYCLE_BIBLE.md`** — worldbuilding, characters, geography, timeline, family trees, institutional structure. Revision 0.28, ~1,260 lines, nine parts. Do not write or edit cycle content without reading this first.
+1. **`bible/TARTAROS_CYCLE_BIBLE.md`** — worldbuilding, characters, geography, timeline, family trees, institutional structure. Revision 0.29, ~1,280 lines, nine parts. Do not write or edit cycle content without reading this first.
 2. **`bible/TARTAROS_QUESTIONS.md`** — character development question tracker: **fully closed (222/222 answered)**. Read when resolving character detail.
 
 If a task is purely mechanical (rename a file, fix a typo), the bible is optional. For anything touching plot, character, worldbuilding, or voice — read the bible first.
@@ -49,7 +49,7 @@ Interior, slightly cool, attentive to institutional textures and character inter
 
 ## Current state of the work
 
-- **Bible**: revision 0.28.
+- **Bible**: revision 0.29.
 - **Book one** — *The Warden of Tartaros*: complete, 11 chapters, `book_one/chapters/`, consolidated at `book_one/full/`.
 - **Book two** — *The Quiet Flag* (the gap book): not drafted, but **designed** — see `book_two/notes/GAP_BOOK_DESIGN.md`. Dramatizes the two-year custody→Korya gap. Parked: the escape mechanism, and whether Kester tells Sable.
 - **Book three** — *The Ward of Korya*: not drafted — see `book_three/notes/STARTING_NOTES.md` (predates the gap-book split; pending re-scope).
@@ -106,7 +106,7 @@ grep -n "OPEN" bible/TARTAROS_QUESTIONS.md             # find unanswered questio
 
 ## Next priorities (when user says "continue where we left off")
 
-1. Formalize the gap book (*The Quiet Flag*) into the bible — redistribute Thread B's early movements (search → false grief, crushed exposure → archive, the discovery, the wreck) from book three into book two (Part I §8–10), per `book_two/notes/GAP_BOOK_DESIGN.md`.
+1. ✅ *Done (bible 0.29):* Thread B re-split into the bible — Part I §8–10 now reads Book Two (the gap) + Book Three (the convergence).
 2. Resolve book two's parked decisions: the escape mechanism (M1), and whether Kester tells Sable (the M4 hinge).
-3. Re-scope `book_three/notes/STARTING_NOTES.md` (*The Ward of Korya*) now that the gap material lives in book two.
-4. Begin drafting book two (*The Quiet Flag*) chapter one once the formalization and parked decisions are settled.
+3. Re-scope `book_three/notes/STARTING_NOTES.md` (*The Ward of Korya*) to match — it still predates the gap-book split.
+4. Begin drafting book two (*The Quiet Flag*) chapter one once the parked decisions are settled.

@@ -85,9 +85,9 @@ surfaces **Yara** (the Successor), extracted at real cost; the threads converge.
 > the archive that arms book four. **Sable's reunion with Pira closes the book** —
 > small, careful, and devastating because she spent two years believing she failed
 > her. Aldric Orrel dies (book three or early four), before the cascade.
-> *(Re-design pending: the early Thread-B movements — search → false grief, crushed
-> exposure → archive — now live in Book Two; the bible's Part I §8–10 still houses
-> them here until re-split, and Book Three's detailed shape will be reworked then.)*
+> *(The gap movements now live in **Book Two** in the bible (Part I §8–10, rev 0.29);
+> Book Three's detailed shape — the convergence, Yara's extraction, the reunion — will
+> be fleshed out when drafting.)*
 
 ## Book Four — *The Empty Chair* (undrafted) · theme: war, and whether resistance becomes what it resists
 
