@@ -4086,7 +4086,7 @@ He sat in the chair.
 
 The candles burned.
 
-Above the residence wing, beyond the green sky he could not see from the windowless dining room, two yellow suns wheeled through their slow shared orbit around a planet whose name appeared on no Hegemony chart, and the planet continued, and the conspiracy continued, and the Architect — whoever, wherever — continued, unnamed, unmet, unfound, the apex of a thing whose base was a forty-eight-meter shaft on a moon called Tartaros and whose middle had consumed everyone Kester loved.
+Above the residence wing, beyond the green sky of the enclave he could not see from the windowless dining room, the dead cold of Tartaros wheeled on in its slow orbit beneath the red eye of Moloch, at coordinates struck from every Hegemony chart, and the moon continued, and the conspiracy continued, and the Architect — whoever, wherever — continued, unnamed, unmet, unfound, the apex of a thing whose base was a forty-eight-meter shaft on that same moon and whose middle had consumed everyone Kester loved.
 
 He sat in the chair.
 
