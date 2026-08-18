@@ -28,7 +28,7 @@
     "editor.minimap.enabled": false,
     "editor.fontSize": 15,
     "editor.lineHeight": 1.6,
-    "editor.fontFamily": "Iowan Old Style, Georgia, 'New York', Charter, serif",
+    // "editor.fontFamily": "Iowan Old Style, Georgia, 'New York', Charter, serif",
     "editor.cursorBlinking": "smooth",
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.renderWhitespace": "none",
